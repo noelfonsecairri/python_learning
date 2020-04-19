@@ -89,5 +89,70 @@
 # print(paper_doll('hello'))
 #---------------------------------------
 
+# def summer_69(arr):
+# 	total = 0
+# 	add = True
+
+# 	for num in arr:
+# 		while add:
+# 			if num != 6:
+# 				total += num
+# 				break
+# 			else:
+# 				add = False
+# 		while not add:
+# 			if num != 9:
+# 				break
+# 			else:
+# 				add = True
+# 				break
+# 	return total
+
+# print(summer_69([1,3,5]))
+# print(summer_69([4, 5, 6, 7, 8, 9]))
+# print(summer_69([2, 1, 6, 9, 11]))
+
+#---------------------------------------
+#Challenging problems (code along)
+
+
+
+# def spy_game(nums):
+
+# 	code = [0,0,7,'x']
+# 	#[0,7,'x']
+# 	for num in nums:
+# 		if num == code[0]:
+# 			code.pop(0)
+# 	return len(code) == 1
+
+# print(spy_game([1,2,4,0,0,7,5]))
+# print(spy_game([1,0,2,4,0,5,7]))
+# print(spy_game([1,7,2,0,4,5,0]))
+
+#---------------------------------------
+
+def count_primes(num):
+
+	#check for 0 or 1 input
+	if num < 2:
+		return 0
+	################
+	# 2 or greater
+	################
+
+	# store our prime numbers
+	primes = [2] # start of the prime number is 2
+	# Counter going up to the input num
+	x = 3 # will start counting @ 3.
+
+	while x <= num:
+		for y in range(3,x,2)
+
+
+
+
+print(count_primes(1))
+
 
 
