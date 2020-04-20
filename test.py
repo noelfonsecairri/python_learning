@@ -1,3 +1,1 @@
-l = [2,2,3,4,5]
-
-print(l[0] == 1 or l[0] == 2)
+print(list(range(1,10)))
