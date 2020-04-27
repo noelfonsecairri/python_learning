@@ -86,37 +86,30 @@ while winner != True:
 
 	winner_condition = the_board[1] == the_board[5] == the_board[9] == 'X' or the_board[1] == the_board[5] == the_board[9] == 'O' or the_board[37] == the_board[41] == the_board[45] == 'X' or the_board[37] == the_board[41] == the_board[45] == 'O' or the_board[73] == the_board[77] == the_board[81] == 'X' or the_board[73] == the_board[77] == the_board[81] == 'O' or the_board[1] == the_board[37] == the_board[73] == 'X' or the_board[1] == the_board[37] == the_board[73] == 'O' or the_board[5] == the_board[41] == the_board[77] == 'X' or the_board[5] == the_board[41] == the_board[77] == 'O' or the_board[9] == the_board[73] == the_board[81] == 'X' or the_board[9] == the_board[73] == the_board[81] == 'O' or the_board[1] == the_board[41] == the_board[81] == 'X' or the_board[1] == the_board[41] == the_board[81] == 'O' or the_board[9] == the_board[41] == the_board[73] == 'X' or the_board[9] == the_board[41] == the_board[73] == 'O'
 
-
+	winner = winner_condition
 
 	if active_player == player1:
 		the_board = player_move(active_player, position, the_board)
-		winner = winner_condition
-		
-			#break
-		print_board(the_board)
+		# winner = winner_condition
 		active_player = player2
 		print('Player 2 turn')
+		
+		
 
 	elif active_player == player2:
 		the_board = player_move(active_player, position, the_board)
-		winner = winner_condition
-		# if winner == True:
-		# 	print('Player 2 (' + active_player + ') is the winner!')
-			#break
-		print_board(the_board)
+		# winner = winner_condition
 		active_player = player1
 		print('Player 1 turn')
+		
+		
 
 	if winner == True:
-			print('Player ' + active_player + ') is the winner!')
-
-
-# else:
-# 	print(winner)
-# 	print(active_player + ' is the winner')
-
-
-
+		print('Player ' + active_player + ' is the winner!')
+		break
+	
+	print_board(the_board)
+		
 
 
 

@@ -1,1 +1,4 @@
-print(list(range(1,10)))
+for i in range(1,51):
+	if i % 3 == 0:
+		continue
+	print(i)
