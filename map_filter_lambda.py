@@ -77,13 +77,13 @@ my_nums = [1,2,3,4,5]
 # ##################
 
 
-# def even_num(num):
-# 	return num % 2 == 0
+def even_num(num):
+	return num % 2 == 0
 
-# print(list(filter(lambda num: num % 2 == 0, my_nums)))
+print(list(filter(lambda num: num % 2 == 0, my_nums)))
 
 
-# first_character = lambda string: string[0]
+first_character = lambda string: string[0]
 
-# print(list(map(first_character, my_family)))
+print(list(map(first_character, my_family)))
 
