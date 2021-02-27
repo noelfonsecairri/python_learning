@@ -38,6 +38,7 @@ def bear_room():
 			gold_room()
 		else:
 			print("I got no idea what that means.")
+			
 def cthulu_room():
 	print("Here you see the great evil Cthulu")
 	print("He, it, whatever stares at you and you go insane.")
@@ -45,7 +46,31 @@ def cthulu_room():
 
 	choice = input("> ")
 
-	if "flee" in choice
+	if "flee" in choice:
+		start()
+	elif "head" in choice:
+		dead("Well that was tasty!")
+	else:
+		cthulu_room
+
+def dead(why):
+	print(why, "Good job!")
+	exit(0)
+
+def start():
+	print("You are in a dark room.")
+	print("There is a door to your right and left")
+	print("Which one do you take?")
+
+	choice = input("> ")
+	if choice == "left":
+		bear_room()
+	elif choice == "right":
+		cthulu_room()
+	else:
+		dead("You stumble around the room until you starve")
+
+start()
 
 
 
