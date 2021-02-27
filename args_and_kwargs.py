@@ -1,7 +1,7 @@
 def myfunc(*args):
 	print(sum(args) * .05)
 
-#myfunc(12,4,45,4,564,2,34,1)
+#ca
 
 def myfunc2(**kwargs):
 	print(kwargs)

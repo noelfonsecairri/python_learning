@@ -1,3 +1,4 @@
+# Map function can be used to run a defined function over a list
 # MAP FUNCTION #############
 
 # def square(num):
@@ -27,6 +28,8 @@ my_family = ['Rene', 'Sol', 'Noel', 'Lorraine', 'Christine']
 
 # for item in map(square, my_nums):
 # 	print(item)
+
+#############
 
 # def add_last_name(first_name):
 # 	return first_name + ' Fonseca'
@@ -59,6 +62,8 @@ my_nums = [1,2,3,4,5]
 
 # ##################
 
+# Lambda is similar to defining a function, but a lot quicker
+
 
 # square = lambda num: num ** 2
 
@@ -68,6 +73,8 @@ my_nums = [1,2,3,4,5]
 
 
 # ##################
+
+
 
 # print(list(map(lambda num: num**2,my_nums)))
 

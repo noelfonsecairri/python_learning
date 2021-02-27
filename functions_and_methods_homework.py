@@ -86,8 +86,8 @@
 # my_string = 'helleh'
 
 # def palindrome(string):
-# 	first_half = string[0:int(len(my_string)/2)]
-# 	second_half = string[int(len(my_string)/2):]
+# 	first_half = string[0:int(len(string)/2)]
+# 	second_half = string[int(len(string)/2):]
 # 	for letter in string:
 # 		if first_half == second_half[::-1]:
 # 			return True
@@ -95,16 +95,19 @@
 # 			return False
 
 # print(palindrome(my_string))
-# print(palindrome('aasjsdlfjjslk'))
+# print(palindrome('asdafsdfsf'))
 
 # palindrome part 2
 
 # my_string = 'nurses run'
 
 # def palindrome(string):
-# 	no_whitespace = string.replace(' ', '')
-# 	if string.replace(' ', '') == no_whitespace[::-1]:
+# 	no_whitespace = string.replace(' ','')
+# 	if no_whitespace == no_whitespace[::-1]:
 # 		return True
+# 	else:
+# 		return False
+
 
 # print(palindrome(my_string))
 
@@ -133,14 +136,14 @@
 
 #print('hello %s' %('Noel'))
 
-def ran_check(num, low, high):
-	# Check if num is between low and high (including low and high)
-	if num in range(low, high):
-		print('%s is in the range' %str(num))
-	else:
-		print('The number is outside the range')
+# def ran_check(num, low, high):
+# 	# Check if num is between low and high (including low and high)
+# 	if num in range(low, high):
+# 		print('%s is in the range' %str(num))
+# 	else:
+# 		print('The number is outside the range')
 
-ran_check(4,3,5)
+# ran_check(4,3,5)
 
 
 
