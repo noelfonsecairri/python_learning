@@ -1,3 +1,3 @@
-my_string = "flee in string"
-
-print("flee" in my_string)
+my_list = []
+my_list.append("asd").append(2)
+print(my_list)
