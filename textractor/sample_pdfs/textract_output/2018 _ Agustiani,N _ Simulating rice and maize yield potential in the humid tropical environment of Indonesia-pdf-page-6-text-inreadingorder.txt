@@ -1,0 +1,134 @@
+N. Agustiani et al.
+Fig. 3. Comparison between observed and simulated rice total aboveground dry matter (left), stem dry matter (center), and leaf area index (right) at early vegetative
+(yellow), flowering (green), and physiological maturity stage (red). Coefficient of determination (r2), root mean square error (RMSE), and normalized
+square error (RMSEn, in %) are shown (encircled data point in left panel was excluded for their calculation because of water stress during grain filling at this site)
+Dashed diagonal line indicates X = y. Data were collected from high-yield irrigated experiments conducted at three sites (Subang, Indramayu, and Bandung). (For
+interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article).
+3. Results
+3.1. Derivation of model coefficients using data from high-yielding
+experiments
+Calibrated coefficients for the rice (Inpari 32) and maize (Pioneer
+21) cultivars are shown in Table 2. These coefficients were estimated
+using data from high-yield rice and maize experiments that were likely
+to approach near-optimal growing conditions that allow expression of
+Yp (and Yw).
+Fig. 3 shows a comparison between observed total aboveground dry
+matter, stem weight, and LAI at different crop stages (early vegetative,
+flowering, and physiological maturity) against simulated values using
+the calibrated coefficients. In general, there was reasonably good
+agreement between simulated and observed values for all parameters
+without a detectable bias across locations and crop stages
+(RMSEn E 23%; r2 > 0.93, after exclusion of one observation). RMSE
+values for aboveground biomass (1.6 Mg ha-1), stem dry matter
+(0.7 Mg ha and leaf area index (0.5) was similar to their average
+observed experimental standard deviation (1.1 Mg ha 0.6 Mg ha
+and 0.2, respectively). An exception was the overestimation in total
+aboveground dry matter at maturity at the site located at high elevation
+(Bandung). Water supply was limiting during grain filling at that site
+leading to crop water stress, which explains the discrepancy between
+simulated and observed values at late reproductive stages. Overall, the
+calibrated coefficients were robust at reproducing crop growth and
+partitioning for this high-yielding rice variety.
+In the case of maize, GDD derived for Pioneer 21 from the N ferti-
+lizer experiment (1821Cd 95th confidence interval: 1799 to 1843'Cd)
+was similar to those derived for the same hybrid based using the data
+from the on-farm fertilizer trials (average: 1786'Cd confidence in-
+terval: 1657 to 1915'Cd). T-test indicated that the difference between
+GDDs derived from the two databases did not deviate significantly from
+the null hypothesis of zero (p = 0.64). That finding implicitly shows
+that the model was robust at reproducing observed dates of silking and
+physiological maturity in the evaluation database. Across site-years
+(including all experiments), coefficient of variation for GDD for Pioneer
+21 was 13%, indicating that GDD were stable irrespective of the bio-
+physical environment. Analysis of on-farm maize trials indicated that
+Bisi 2, another widespread maize hybrid in Indonesia, had similar,
+though slightly less (5%), GDD to Pioneer 21. To summarize, the GDD
+derived from the two trials indicate that our estimate of GDD for
+Pioneer 21 can be considered as representative for commercial maize
+hybrids in Indonesia and stable across site-years.
+European Journal of Agronomy 101 (2018) 10-19
+Leaf area index
+Subang
+Indramayu
+Bandung
+2
+4
+6
+root
+mean
+Observed yield
+2
+Yp
+PD: 6.6
+2006
+2008
+2009
+Fig. 4. Observed yield and simulated yield potential (Yp) for maize grown in
+irrigated experiments at Maros (South Sulawesi) during four crop seasons.
+Experiment in 2006 included two different plant densities (PD; 7.3 and
+6.6 Bars indicate standard errors. Root mean square error (RMSE) and
+The treatments that received large NPK fertilizer amounts in the
+irrigated N-fertilizer experiment provided a near-stress free environ-
+ment where it was possible to evaluate the performance of the generic
+growth parameters in Hybrid Maize. As mentioned previously, these
+coefficients had originally been derived for temperate hybrids but never
+validated for tropical maize. Fig. 4 shows the observed yields and as-
+sociated simulated Yp using site-specific weather and reported dates of
+sowing and physiological maturity. Observed maize yields were very
+high, ranging from 11.2 to 15.3 Mg ha across years (excluding the
+low density treatment), with very low inter-annual CV (7%). Re-
+markably, Hybrid Maize reproduced very well the high yields measured
+in those experiments and response to plant density, with RMSE of
+1.2 Mg ha (9% of observed mean), which was, in turn, similar to
+observed standard deviation in these experiments (average: 1.4 Mg
+ha equivalent to 11% of the observed mean). Confidence intervals
+ranged from 12.2 to 13.7 Mg ha -1 and 12.1 to 13.5 Mg ha for observed
+and simulated yields, respectively, with paired t-test indicating that the
+difference between observed and simulated yields did not deviate sig-
+nificantly from zero (p E 0.75). Observed yields were within + 10% of
+Yp in all cases but one (15% higher in 2008). This analysis indicates
+Aboveground dry matter (Mg ha
+30
+RMSE= 1.57
+RMSEn= 23
+r2= 0.97
+20
+10
+O
+10
+20
+30
+Stem dry matter (Mg ha-1
+RMSE= 0.7
+RMSE= 0.54
+RMSEn= 23
+RMSEn= 23
+0.93
+3
+6
+Simulated value
+18
+15
+12
+9
+6
+3
+O
+normalized root mean square error (RMSEn, in %) are shown.
+15
+9
+6
+3
+0{
+9
+RMSE= 1.17
+RMSEn= 9
+2005
+6
+4
+2
+0
+0.93
+0
+O
+PD: 7.3

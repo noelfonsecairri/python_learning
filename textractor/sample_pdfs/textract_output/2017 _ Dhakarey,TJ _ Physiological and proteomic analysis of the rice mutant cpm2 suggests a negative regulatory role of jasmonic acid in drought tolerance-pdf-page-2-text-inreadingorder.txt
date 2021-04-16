@@ -1,0 +1,115 @@
+Dhakarey et al.
+INTRODUCTION
+Rice serves as the staple food for more than 50% of world's
+population. It is cultivated in over a hundred countries, with a
+tota harvested area of 163.3 million hectares, with a produce of
+more than 749.7 million tons annually (GRiSP, 2013; FAO, 2016).
+In comparison to other crops, rice production is highly water-
+intensive and almost 30.9% of the total rice area of the world is
+through rainfed agriculture (Wassmann et al., 2009; Dixit et al.,
+2014). As per an estimate, nearly 2,500 liters of water is needed
+to give rise to kg of rice, and irrigated rice consumes around
+34-43% of the world's total irrigation water (Bouman et al., 2007).
+Hence water deficit or drought is said to be the most calamitous
+form of abiotic stress for rice and can result in yield losses of 15-
+50%, depending on the severity and timing of stress (Srividhya
+et al., 2011). Globally, drought stress leads to an estimated 18
+million tons of rice yield reduction per year (O'Toole, 2004)
+Drought stress affects rice during all growth stages
+(Venuprasad et al., 2008). Development of drought-
+tolerant, higher-yielding varieties suitable for water-limiting
+environments is a major challenge for improvement of rice
+production and in turn for increasing food security. The
+development of such varieties can be fast-tracked through
+the knowledge of the physiological and molecular genetic
+mechanisms underpinning drought tolerance.
+Growth regulators also known as phytohormones orchestrate
+plant responses to growth, development, and external stimuli
+(Wolters and Jurgens, 2009). These compounds are synthesized
+through various biosynthetic processes and can function either at
+the site of their genesis or be translocated to function somewhere
+else in the plant. They often quickly modify gene expression
+by instigating or blocking the degradation of transcriptional
+regulators via the ubiquitin-proteasome system (Santner and
+Estelle, 2010) Abscisic acid signaling and ABA-
+responsive genes is one of the most investigated hormonal
+responses of plants to abiotic stress, especially in drought (Tuteja,
+2007; Sreenivasulu et al., 2012). The role of ABA in the regulation
+of stomata opening/closure and other critical responses to abiotic
+stress is quite established (Mittler and Blumwald, 2015). Drought
+and other stresses such as, salinity result in an increased content
+of ABA, which orchestrates extensive changes in the expression
+of genes regulated by or responsive to ABA (Shinozaki and
+Yamaguchi-Shinozaki, 2007). However, such a change in a single
+phytohormonal pathway usually affects other phytohormonal
+pathways as well, and the resulting crosstalk contributes to
+the overall response of plant to abiotic stress (Kohli et al.,
+2013). Jasmonates (i.e., jasmonic acid, its precursors, and direct
+derivatives) are critical components of such crosstalk (Riemann
+et al., 2015).
+The phytohormone jasmonic acid (JA) and its metabolically
+active derivatives like methyl-jasmonate and JA-Isoleucine (JA-
+Ile) are crucial signaling molecules, which actively engage in plant
+responses to various biotic as well as abiotic stresses (Wasternack,
+2007; Balbi and Devoto, 2008) In the JA biosynthesis pathway,
+plastidial 13-lipoxygenases (13-LOX) act on linolenic acid to
+convert it to 13S-hydroperoxyoctadecatrienoic acid (13-HPOT).
+Allene oxide synthase (13-AOS) and allene oxide cyclase (AOC)
+Frontiers in Plant Science www.frontiersin.org
+Rice JA and Drought Tolerance
+November 2017 Volume 8 Article 1903
+act in combination to synthesize cis-12-oxophytodienoic acid
+(OPDA). OPDA is then transported into peroxisomes where it is
+reduced by OPDA reductase (OPR) Subsequently it is converted
+into JA by three B-oxidation steps (Wasternack and Hause, 2013)
+An important step in jasmonate biosynthesis is regulated by
+AOC, which is encoded by a four membered small gene family
+in Arabidopsis thaliana. In A. thaliana, AOC functions as homo-
+or hetero-trimer (Hofmann et al., 2006; Stenzel et al., 2012; Otto
+et al., 2016). In rice, however, this enzyme is encoded by a single
+copy gene (Dhakarey et al., 2016).
+There is limited information on the role of jasmonates in the
+response of rice to drought (Liu et al., 2015; Riemann et al.,
+2015; Dhakarey et al., 2016). In this report, a JA synthesis
+mutant called coleoptile photomorphogenesis 2 (cpm2) was used
+to understand the role of JA on rice physiological and molecular
+responses to drought. It carries an 11 bp deletion within the
+first exon of AOC (Riemann et al., 2013; Dhakarey et al.,
+2016). Comparative studies between the WT and the mutant for
+differences in drought response were undertaken at the vegetative
+growth stage, since cpm2 is male sterile. Assessment of drought
+response was conducted on a set of morphological parameters
+and root proteome. The differentially abundant proteins (DAPs)
+in the root proteome study were related to various pathways
+and processes. Additional histological and metabolite analysis
+guided by the DAPs supported the observation that cpm2 was
+better adapted to cope with drought stress. This leads to the
+proposition that jasmonates might be negative regulators of
+drought tolerance.
+MATERIALS AND METHODS
+Plant Growth and Drought Stress
+Conditions for Phenotyping and Stomatal
+Conductance
+Oryza sativa L. ssp. japonica CV. Nihonmasari serving as the
+wild type (WT) and the cpm2, the JA biosynthesis mutant
+generated in the same background (Riemann et al., 2013), were
+used in this whole study. Dehusked caryopses were surface
+sterilized as per Hazman et al. (2015), were then sown on 0.5%
+phytoagar medium (Duchefa, Netherlands) and kept for 14 days
+in a culture room at 250C and continuous light of 120 umol
+quanta -2s-1 On the 14th day, 10 selected seedlings of each
+genotype were transferred in sand filled pots, kept for another
+2 weeks under short-day conditions of 10h light at 28C and
+280 umol quanta m-2s-1, followed by 14h darkness at 220C
+in a phytochamber (BBC York, Mannheim, Germany). Plants
+were kept well-watered and provided once a week with fertilizers
+"Wuxal-TopN" (N 141.6 g/1, P2O5 47.2 g/1, K2O 70.8 g/1, B
+0.118 g/1, Cu 0.047 g/1, Fe 0.236 g/1, Mn 0.141 g/1, Mo 0.012
+g/1, Zn 0.047 g/1) and "Wuxal-Super" (N 99.2 g/1, P2O5 99.2 g/1,
+K2O 74.4 g/1, B 0.124 g/1, Cu 0.049 g/1, Fe 0.248 g/1, Mn 0.148
+g/1, Mo 0.012 g/1, Zn 0.049 g/1 (Manna, Ammerbuch-Pfaffingen,
+Germany). In the phytochamber, five seedlings of each genotype
+(aged 28 days) were subjected to drought stress for 4 days by
+withholding water followed by rewatering for 2 days; control
+plants were maintained in parallel. Stomatal conductance was
+2

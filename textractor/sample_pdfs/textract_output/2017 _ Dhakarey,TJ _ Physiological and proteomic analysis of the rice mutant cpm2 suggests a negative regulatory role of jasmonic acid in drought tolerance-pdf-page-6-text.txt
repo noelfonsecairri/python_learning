@@ -1,0 +1,106 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+Root Proteome Analysis Supports cpm2
+A
+Adaptation to Drought
+1000
+Root peptide extracts from cpm2 and WT plants under control
+and severe drought were subjected to mass spectrometry analysis
+800
+using high-throughput Tandem Mass Tag (TMT) approach.
+600
+Out of 15,172 spectra obtained in total, 13,485 referred 4,573
+peptides. Of these, 4,194 hits were designated to unique peptides,
+400
+which amounted to the combined identification of a total of
+1,578 proteins in WT and cpm2 roots. Out of these, 351 and
+200
+341 proteins were unique to WT and cpm2 roots, respectively,
+whereas 443 proteins were common in both the genotypes
+(Figure 5A). However, the number of unique proteins with
+control
+moderate
+severe
+dependable quantitative estimates was 272 and 217 for WT and
+cpm2, respectively, and 319 as common proteins (Figure 5B). In
+B
+order to filter out JA-dependent and -independent proteins, a
+500
+comparison between control and drought conditions was carried
+out within one genotype (WT or cpm2, respectively).
+400
+A wide range of isoelectric points (4.41-11.91) and molecular
+weights (4.4-236.7 kDa) implicated a dynamic range of proteins.
+300
+Proteins from both the genotypes were assigned to 32 functional
+categories using MapMan (Thimm et al., 2004) as per the rice
+200
+mapping file (Figure S4)
+The AOC protein was highly abundant in WT but as expected,
+100
+it was not found in cpm2 (Figure 6A). Lack of AOC protein
+0
+was nevertheless not directly related to its transcript abundance.
+control
+moderate
+In fact, under moderate or severe drought, AOC transcript was
+severe
+abundant in cpm2 as compared to the WT (Figure 6B). Under
+well-watered condition, the WT contained nearly 2-fold more
+FIGURE 3 The level of ABA (Abscisic Acid) in (A) shoots and (B) roots of
+AOC transcript than cpm2. The AOC transcripts in cpm2 are
+cpm2 and wild type (WT) under control, moderate, and severe drought stress.
+thus either not translated, or the protein may have been highly
+Three-week-old WT and cpm2 seedlings were either kept well-watered, and
+unstable, and the mutational frame-shift in the coding sequence
+the control plants were sampled at day22, or watering was stopped to initiate
+leading to an undesirable protein may account for that. In
+moderate and severe stress conditions. Shoot and root samples were
+contrast to AOC, the oxo-phytodienoate reductase (OPR7), an
+harvested in control, moderate and severe stress condition, respectively. WT
+and cpm2 are represented by blue and red bars, respectively. Data represents
+enzyme operating downstream of AOC (Tani et al., 2007), was
+mean value t standard error (SE); n = 5. Star (*) denote statistical significance
+more abundant in cpm2 under drought (Figure 6A). The OPR7
+(P 0.05), respectively, between the two genotypes in a Student's t-test.
+transcript levels were also observed to be significantly higher in
+WT than in cpm2. However, under moderate and severe drought
+stress no significant difference in the expression of OPR7 was
+observed (Figure 6C).
+both plant types by nearly 50% compared to control condition,
+Apart from such differences owing to the mutation, many
+whereby severe drought stress inflicted more drastic reduction
+proteins showed substantial up- or down-regulation (difference
+than moderate stress (Figure 4B). Thus, cpm2 did not exhibit a
+of log ratio of 1.0) and were classified as DAPs between the WT
+comparative advantage in nodal and lateral root length under
+and the mutant plant. Several of such proteins could be assigned
+severe drought. A similar profile was observed for other root
+to categories responsive to drought. These categories, the genes
+traits such as, the sum of all root lengths (Figure 4C) and the
+therein and their protein abundance status in the WT and cpm2
+total number of root forks and tips (Figures 4D,E). However,
+are summarized in Table 1. The potential importance of such
+in all these aforementioned root traits a significant advantage
+DAPs in the apparent adaptation of cpm2 to drought is described
+was observed in cpm2 plants under control conditions and
+in the "Discussion" section.
+this advantage was further maintained during moderate stress
+conditions compared to WT. Also, in cpm2, maximum root
+depth (Mrd) exceeded that of the WT in all the treatments
+Cell Wall Metabolite Analysis Supports
+(Figure 4F). However, this difference in Mrd between WT
+Root Phenotype and Proteome-Based
+and cpm2 became smaller with increasing severity of drought
+Inferences
+stress. Under severe drought stress the difference was no longer
+As mentioned above, cpm2 root traits such as more branching,
+statistically significant. These results highlighted that overall
+increased total root length and root depth exhibited a genotypic
+cpm2 exhibited a more branched root system than the WT both
+advantage which was maintained under stress. This was
+under control and drought conditions (Figure S3).
+supported by root proteome-based information, mainly on the
+Frontiers in Plant Science www.frontiersin.org
+6
+November 2017 Volume 8 Article 1903

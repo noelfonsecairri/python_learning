@@ -1,0 +1,124 @@
+K. Abdalla et al.
+Catena 167 (2018) 284-292
+infiltration by water. Reduced infiltration, in turn, induces and soil C
+community, with the aim of investigating potential techniques for re-
+erosion (Mchunu and Chaplot, 2012), which reduces soil organic
+habilitating degraded communal grasslands. An area measuring
+carbon stocks (SOCs) (Dlamini et al., 2014), water content (Yi et al.,
+1500 m2 (30 m and showing morphologically, chemically and
+2012) and soil temperature (Mills and Fey, 2004).
+physically homogeneous soils was demarcated. This area also showed
+Several studies have extensively investigated the impact of grass-
+grassland degradation intensities with the downslope position non-de-
+land degradation on sOC stocks (SOCs). For instance, Dlamini et al.
+graded (grass aerial cover, of 100%), the mid-slope moderately de-
+(2016) in a meta-analysis of 131 comparative studies worldwide
+graded (25 < grass cover 50%), while the upslope position was
+showed that grassland degradation reduces SOCs by an average 9%,
+highly degraded (0 grass cover 5%) (Mchunu and Chaplot, 2012;
+with 16 and 8% reductions in dry and wet climates, respectively. Dong
+Dlamini et al., 2014). The demarcated area was further divided into
+et al. (2012) also reported significant decline (33%) of SOC with in-
+several upslope-downslope swaths so that each swatch, treated to a
+creasing degradation in the Qinghai-Tibetan Plateau of China. In ad-
+specific grassland management technique, covered all three grass cover
+dition, Dlamini et al. (2014) reported SOCs loss of as much as 89%
+levels (Dlamini et al., 2011; Mchunu and Chaplot, 2012; Dlamini et al.,
+following degradation of grassland in the sub-tropical climate of South
+2014) The current study measured soil CO2 emissions from a ring-
+Africa. While these studies and numerous others reported on the im-
+fenced swath to eliminate any interaction with livestock, fires or any
+pacts of grassland degradation on SOCs, there are very few studies re-
+other significant disturbance. The soil CO2 measurements were per-
+porting on the consequences on soil CO2 emissions. For example, Rey
+formed at three randomly selected positions per grass cover level. A
+et al. (2011) reported 25% higher soil CO2 emissions from non-de-
+plastic (PVC) collar (diameter 10 cm, height cm) was set up at
+graded than degraded grasslands in Southeastern Spain. Traore et al.
+each position. The PVC collars were inserted 2 cm into the soi between
+(2015) reported as much as 82% higher soil CO2 emissions from non-
+grass tufts, two weeks before the first CO2 emission measurements of to
+degraded than degraded grasslands in semi-arid West Africa. In con-
+avoid errors associated with soil disturbance (Hui-Mei et al., 2005;
+trast, some studies reported more soil CO2 emissions from degraded
+Heinemeyer et al., 2011).
+than non-degraded grasslands (Cao et al., 2004; Li et al., 2015; Chen
+et al., 2016). For example, Chen et al. (2016) reported 23.6% more
+2.3. Soil CO2 emission measurements
+annual CO2 fluxes from degraded than non-degraded soils. Li et al.
+(2015) reported similar findings, which they explained to be a result of
+The soil CO2 emission measurements were performed using a LI-
+higher soil temperatures leading to greater C mineralization. The con-
+COR 6400XT gas analyzer (LI-COR, Lincoln, NE, USA) fitted with a LI-
+tradicting results on the impact of grassland degradation on soil CO2
+COR 6400-09 soil respiration chamber. The closed chamber system had
+emissions might require further appraisal. Work is also still required to
+an internal volume of 991 cm3 and a surface area of 71.6 cm2 (Healy
+inform on the impacts of grassland degradation on soil CO2 emission
+et al., 1996). Immediately before CO2 measurement, the chamber was
+relative to SOCs and biomass production. The CO2 emission relative to
+positioned on the PVC collar. The measurements were performed once a
+SOCs and biomass produced could serve as indirect means of evaluating
+month during dry winters and twice a month in wet summers, from
+soC stability and the economic use of C by grasslands, respectively,
+January 2013 to April 2015. Three readings were recorded per mea-
+which are further indicators of ecosystem functioning. In addition,
+suring position during each measurement session. Thus, 1053 soil CO2
+knowledge on the factors controlling soil CO2 emissions following
+emission records were generated in 39 days that the experimental site
+grassland degradation is important during formulation of strategies to
+was visited for the purpose of measuring soil CO2 emissions. On each
+minimize soil CO2 emissions by maximizing soil C protection and/or
+day, CO2 measurements were performed between 10.00 and 13.00 h to
+sequestration, and biomass production. Therefore, the present study
+avoid strong influences of diurnal variations. The CO2 fluxes, measured
+performed on a grassland in KwaZulu-Natal, South Africa, aimed to
+by the LI-COR, were converted to CO2-C based on atomic weights of C
+assess soil CO2 emission as a function of grass basal cover, SOCs, grass
+and oxygen. The fluxes were subsequently expressed in (i) gross soil
+production and a series of environmental and soil properties. The study
+CO2 emission: g CO2 per unit of surface area (ii)
+hypothesis was that low basal cover increases soil temperature, which
+soil CO2 emission relative to SOCs: g CO2 per gram of soil C CO2-
+in turn enhances soil C mineralization to yield higher soil CO2 emission
+Cg-1c day-1); and (iii) soil CO2 emission relative to amount of
+than under non-degraded grasslands.
+aboveground biomass produced: 8 CO2 per kg of aboveground biomass
+CO2-Ckg produced biomass
+2. Materials and methods
+2.4. Soil temperature and soil water content
+2.1. Study area
+Topsoil (0-0.05 temperature and water content were measured
+The experiment was conducted at Potshini (29 21' E, 28 48' S;
+in conjunction with soil CO2 emissions. Temperature was measured
+altitude range 1080-1455 masl), located 10 km south of Bergville town
+using a thermocouple connected to the LI-COR chamber. Water content
+in KwaZulu-Natal province, South Africa. The area experiences a tem-
+was measured using a Hydrosense soil moisture meter (Campbell
+perate climate characterised by warm wet summers and cool dry win-
+Scientific, Inc., USA), which was calibrated at the study site. The soil
+ters. The long-term years) mean annual temperature and pre-
+temperature and water content measurements were performed at ran-
+cipitation of the study area are 13 C and 684 mm, respectively (Dlamini
+domly selected positions within a 0.2 m radius from each PVC collar.
+et al., 2011). Moist Highveld Sourveld dominated the native vegetation
+of this area (Camp and Hardy, 1999). The experimental site was located
+2.5. Soil sampling and analysis
+on a hillslope of about 10% slope gradient. The site exhibited a grass-
+land degradation gradient where soil basal cover decreased in an up-
+Topsoil (0-0.05 m samples were collected for evaluating SOC
+slope direction. Its soils were classified as Plinthic Acrisols (WRB, 2006)
+(SOCc) and soil organic nitrogen (SONc) contents. Sampling was per-
+derived from sandstones and mudstones. More details about the study
+formed in June 2014. Three replicate samples were collected from
+site characteristics are in Dlamini et al. (2014), Mchunu and Chaplot
+randomly selected positions 0.2-1 m from each PVC collar. The samples
+(2012) and Podwojewski et al. (2011).
+were first air-dried for before gently grinding and sieving them
+through a 2 mm sieve. The soil particle size distribution was determined
+2.2. The experimental design
+on the sieved samples using the pipette method (Gee and Bauder,
+1986). Total C and nitrogen content were measured using LECO CNS-
+Dlamini et al. (2011) initiated the experiment, in a rural
+2000 Dumas dry matter combustion analyzer (LECO Corp., St. Joseph,
+285

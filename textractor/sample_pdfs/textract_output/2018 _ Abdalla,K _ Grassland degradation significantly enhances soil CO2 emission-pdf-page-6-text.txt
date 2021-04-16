@@ -1,0 +1,98 @@
+K. Abdalla et al.
+Catena 167 (2018) 284-292
+1.4
+22
+A.
+B.
+20
+1.2
+18
+1.0
+16
+14
+0.8
+12
+10
+0.6
+8
+0.4
+6
+4
+0.2
+2
+0.0
+0
+1.6
+0.10
+C.
+D.
+1.4
+0.09
+0.08
+1.2
+0.07
+1.0
+0.06
+0.8
+0.05
+0.6
+0.04
+0.4
+0.03
+0.2
+0.02
+1.8
+40
+E.
+F.
+1.7
+35
+1.6
+30
+1.5
+25
+1.4
+20
+1.3
+15
+1.2
+1.1
+10
+1.0
+5
+ND
+MD
+HD
+ND
+MD
+HD
+Grassland degradation
+Grassland degradation
+Fig. 4. Grassland degradation (ND: non-degraded; MD: moderately degraded and HD; highly degraded) impact on (A) soil organic carbon stocks (SOCs); (B)
+soil
+organic carbon content (SOCc); (C) soil organic nitrogen stocks (SONs); (D) soil organic nitrogen content (SONc); (E) soil bulk density (pb)
+and
+(F)
+clay
+content
+in
+0-0.05 m soil layer. Plan lines corresponded to 10th, 25th, median, 75th and 90th percentiles and dashed lines to the mean, N = 9.
+(Fig. 8B). In this PCA, SONc content, SOCc and SOCs, aboveground
+(Table 1; Fig. 1C), which agreed with findings by other studies such as
+biomass, C:N ratio and SON stocks correlated negatively to gross CO2
+Wang et al. (2010), Rey et al. (2011) and Traore et al. (2015). The non-
+and positively to CO2 relative to SOCs, pointing to the increase of CO2
+degraded grassland emitted 11 and 62% more gross CO2 than the
+emissions from soils as the intensity of grassland degradation increases.
+moderately and highly degraded grassland, respectively. This trend can
+be explained by decreasing root and microbial respiration, as well as
+4. Discussion
+decreasing fresh organic matter input into the soil (Zhao et al., 2011; Li
+et al., 2015) because biomass production decreases with grassland de-
+This study results point to a decrease in gross soil CO2 emission
+gradation. High grass basal cover and aboveground biomass production
+(CO2-C per surface area) as grass cover decreases, meaning that grass
+are usually associated with high root biomass (Zhang et al., 2016),
+soil CO2 emission decreased with increasing grassland degradation
+which in turn has significant impact on gross soil CO2 emissions (Raich
+289

@@ -1,0 +1,114 @@
+K. Abdalla et al.
+MI). The total soil C was considered equivalent to SOCc since no re-
+action was obtained following addition of HC1. SOCs and SONs (SON
+stocks) were calculated using the equation by Batjes (1996):
+SOCs SOCc pb X T 1 -
+where SOCs is the soil organic carbon stock (kg Cm 2); SOCc is soil
+organic carbon content in the 2 mm soil material (g Ckg soil); pb is
+the bulk density of the soil (kg m 3); T is the thickness of the soil layer
+(m); PF is the proportion of fragments of > 2 mm in percent; and b is a
+constant equal to 0.001.
+The soil bulk density was determined from undisturbed soil samples
+collected by inserting metallic cylinders of 7.5 cm diameter and 5 cm
+height into the topsoil layers. The undisturbed samples were stored in
+hermetic plastic cans immediately after collection and later dried in an
+oven at 105 C for 24 h. The soil bulk density was determined according
+to Grossman and Reinsch (2002)
+2.6. Aboveground biomass
+The aboveground biomass (kg m 2 year-1) year was evaluated in three
+randomly placed metallic quadrats (0.5 m 0.5 m) in each grass cover
+Table 1
+Mean and standard error (SE) for CO2 emissions from non-degraded (ND), moderately degraded (MD) and highly degraded (HD) grasslands.
+Gross soil CO2
+ND
+Mean
+1.78a
+SE
+0.13
+Fig. 1. Rainfall, air temperature, daily fluxes and cumulative gross CO2-C (g CO2-C m from soil, over the study period from non degraded (ND), moderately
+degraded (MD) and highly degraded (HD) grassland. Error bars represent + one standard error of the difference. N = 9.
+Catena 167 (2018) 284-292
+HD
+0.73a
+0.01
+level within a distance of 0.2 to 1 m radius from the CO2 emissions
+measurements collars at peak biomass in June 2013 and 2014. All shoot
+material from the soil surface to the crown within the quadrats was
+clipped. The plant samples were oven-dried at 70 'C and then weighed
+until constant weight.
+2.7. Statistical analysis
+Overall mean and standard error were calculated for gross soil CO2
+emissions, and soil CO2 emissions relative to SOCs and biomass production
+for the three grass cover levels. Since the soil CO2 emission measurements
+were performed at regular time intervals from the same points, the data
+were statistically analysed using repeated-measures analysis of variance.
+The average soil CO2 emissions for the grass cover levels were compared
+using Tukey's for multiple comparisons, a significant threshold defined as
+P < 0.05, unless otherwise specified In addition, cumulative soil CO2
+emissions were also analysed using REML repeated measure ANOVA. The
+final cumulative values were compared using the Tukey test. All analyses
+were performed using Genstat (version 14, VSN International, UK, 2011).
+In addition, coefficients of determination (r) and principal component
+analysis (PCAs) were carried out to evaluate the relationships between the
+Soil CO2 relative to biomass (g CO2-Ckg biomass yr
+HD
+ND
+MD
+0.040b
+0.15c
+0.54b
+0.00
+0.05
+0.06
+50
+40
+30
+20
+10
+May
+Sep
+Jan
+May
+2014
+2015
+100 PF
+Soil CO2 relative to SOCs gCO2-Cg
+0.034c
+May
+2013
+MD
+1.60b
+0.12
+20
+40
+60
+80
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+HD
+0.68c
+0.10
+ND
+0.00
+Time (date)
+MD
+0.058a
+0.01
+ND
+MD
+HD
+0
+6
+4
+2
+0
+B.
+Jan
+Jan
+Sep
+286

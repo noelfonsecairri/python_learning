@@ -1,0 +1,107 @@
+K. Abdalla et al.
+4
+3
+2
+1
+0
+Fig. 7. Mean + standard error of aboveground biomass from non degraded
+(ND), moderately degraded (MD) and highly degraded (HD) grassland.
+Different lower case letter indicates significant different (P < 0.05) between
+the degradation gradients. N = 18.
+(Fig. 5). Li et al. (2015) pointed that lower soil temperature results in
+lower mineralization rates of soil organic materials, hence lower soil
+CO2 emissions. In addition, soil environments characterised by desic-
+cated conditions and very low soil organic materials are likely to emit
+lower CO2 amounts due to lower soil microbial activities (Fontaine
+et al., 2003).
+The moderately and highly degraded grasslands also emitted sig-
+nificantly higher soil CO2 emissions relative to amount of aboveground
+biomass produced per year than the non-degraded grassland (Table 1
+and Fig. 3), despite significantly lower SOCs (Fig. 4A) and biomass
+production (Fig. 7) than non-degraded grasslands. The foregoing result
+suggests for every unit of C stabilized in the soil and aboveground
+biomass produced, non-degraded grasslands emit less soil CO2 in
+comparison to degraded grasslands. In other words, non-degraded
+grasslands are economical than degraded grasslands with respect to C
+usage. Given that grassland degradation is associated with other en-
+vironmental challenges such as soil erosion and limited biomass pro-
+ductivity to support livestock production, proper management of
+axis 2
+axis 1
+Fig. 8. Principal components analysis (PCA) scatter diagrams for gross CO2 emissions (gross CO2), CO2 emissions relative to soil organic carbon stocks (CO2-SOCs)
+and CO2 relative to produced biomass (CO2-biomass) as supplementary variables and selected factors as active variables. (A) scatter diagram with the two first PCA
+axes (axis 1 and 2); (B) scatter diagram with axis 2 and 3.
+Catena 167 (2018) 284-292
+(B)
+1
+Gross CO2
+0
+CO2-SOCs
+-1
+1
+grasslands is important for water security and economic emancipation
+of rural communities, in addition to climate change mitigation.
+The study results showing a general decrease of soil temperature
+and gross soil CO2 emission with grassland degradation (indicated by
+reduction in grass basal cover) did not confirm the proposed hypothesis.
+However, soil CO2 emission relative to SOCs and produced biomass still
+showed a general increase with grassland degradation suggesting that
+other controlling factors, than soil temperature, had greater effects.
+Further studies covering diverse environmental conditions are neces-
+sary to identify and quantify the impact of factors with the most sig-
+nificant impact on grassland soil CO2 emissions relative to SOCs and
+biomass produced.
+5. Conclusions
+Three main conclusions can be drawn from this study performed on
+South African grasslands with the aim was to evaluate the impact of loss
+of grass basal cover on soil CO2 emissions. The first one is that grassland
+degradation significantly decreases gross soil CO2 emission (the emis-
+sions per surface area), with current results showing 11 and 62% lower
+emission in moderate (25 < grass basal cover < 50%) and highly
+degraded (0 < grass basal cover < 5%) than non-degraded grassland
+(grass basal cover: 100%), which correlated significantly with soil or-
+ganic carbon and nitrogen stocks. The second conclusion is that grass-
+land degradation increases soil CO2 emission relative to soil carbon
+stocks, which imply decreasing soil organic matter protection against
+decomposers as grass basal cover decreases. The current study results
+showed at least 41% more soil CO2 emission relative to soil carbon
+stocks in degraded than non-degraded grassland The third conclusion
+is that grassland degradation also increase soil CO2 emission relative to
+biomass produced, with the study showing 613% more CO2 emission
+relative to biomass produced in degraded than non-degraded grassland.
+Thus, grassland degradation has a significant negative C footprint.
+However, these results still need validation by performing longer-term
+investigations at other study sites with different soil and environmental
+conditions. In particular, research is required to investigate further the
+possible underlying reasons for enhanced soil CO2 emission relative to
+soil organic carbon stocks following grassland degradation. Such in-
+vestigations could focus on the potential roles of (i) decreasing ag-
+gregate stability; (iii) production of easily decomposable organic
+axis 3
+23
+axis 2
+33
+axis 3
+O2-biomass
+-1
+0
+2st Principal component
+ND
+Grassland degradation
+44
+CO2-SOCs
+axis 1
+MD
+biomass
+HD
+33
+Principal component
+(A)
+1
+0
+-1
+Gross CO2.
+-1
+0
+1
+291

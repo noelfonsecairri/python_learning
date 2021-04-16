@@ -1,0 +1,112 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+drastic decrease than in the WT (Figure 2B) Initially, during the
+2-fold more than in WT plants (Figure 2B), which were almost
+first couple of days after the onset of drought conditions, stomatal
+wilting (Figure S2C). After re-watering, water levels in both sets
+conductance in WT showed significant increase compared to
+of plants were replenished. One day after re-watering, cpm2
+cpm2. However, at day three, the stomatal conductance for both
+plants still exhibited higher stomatal conductance compared to
+the genotypes decreased significantly, however both maintained
+the WT plants. However, stomatal conductance progressively
+almost similar degree of conductance. From day four, the trend
+increased in the WT plants after re-watering, till on day 6 it was
+was reversed and stomatal conductance in cpm2 plants was
+more than that in the cpm2 plants (Figure 2B).
+In terms of drought responsive phytohormones, the ABA
+content is a measure of drought tolerance (Daszkowska-Golec,
+2016; Negin and Moshelion, 2016). Under both the control
+Treatment p<0.001*
+and moderate stress conditions (SMC of 30%), ABA content
+3.0
+Genotype p = 0.014*
+in the WT shoots was almost double that in cpm2 shoots.
+DAS p< 0.001
+Under severe stress conditions (SMC of 15%), ABA increased
+2.5
+in both cpm2 and WT shoots. However, the increase in ABA
+content in cpm2 shoots was almost double that in the WT
+2.0
+shoots (Figure 3A). In case of root ABA content, there were no
+1.5
+significant changes in their levels in both the genotypes under
+control and moderate stress, however, during severe stress cpm2
+1.0
+had almost 1.5 fold induction in the ABA content as compared to
+the WT (Figure 3B).
+0.5
+As assessed through leaf rolling, WUE, stomatal conductance,
+and ABA content, these results clearly demonstrated cpm2 to
+0.0
+9
+11
+14
+16
+18
+21
+23
+25
+28
+have an advantage over WT in coping with drought stress. An
+Days
+advantageous drought response of the aerial parts suggested that
+the roots of cpm2 may also exhibit advantageous features as roots
+FIGURE 1 Apparent water use efficiency (WUE) of wild type (WT) and cpm2.
+first sense and react to drought.
+WT& cpm2 plants were subjected to drought after 32 days of sowing by
+withholding water. Digital imaging of shoots was performed to estimate green
+The Root System of cpm2 Is Better
+leaf area which was later normalized by water uptake/day to calculate
+apparent WUE. Data is shown for 9, 11, 14, 16, 18, 21, 23, 25 and 28 days
+Developed
+after imposing drought stress. The values presented are means t standard
+For the WT and cpm2 plants root growth was assessed under
+error(SE); n = 5. WT and cpm2 are indicated by blue and red lines,
+control and drought stress conditions. Nodal root length was
+respectively; whereas dotted and solid lines represent control and stress
+reduced under severe drought by nearly 40% in the WT and
+treatment, respectively. The p-value is indicated as determined by ASReml
+analysis. Significance levels are indicated as *P 0.05; ***P < 0.001.
+by nearly 50% in cpm2 compared to the control condition
+(Figure 4A). Lateral root length was reduced under drought in
+A
+B
+1000
+1000
+800
+800
+600
+600
+400
+400
+E
+200
+200
+0
+1
+2
+3
+5
+0
+4
+6
+1
+2
+3
+4
+5
+6
+stress treatment
+Days
+rewatering
+Days
+FIGURE 2 Comparison of stomatal conductance of wild type (WT) and cpm2 in (A) control conditions and (B) under drought. Four-week-old WT and cpm2 plants
+were exposed to drought stress by withholding water for 4 days followed by re-watering for 2 days. Under control conditions, WT and cpm2 maintained almost
+a
+steady state throughout the course of experiment, while cpm2 maintained lower stomatal conductance as compared to WT under drought. The values presented are
+means t standard error (SE); n = 5. Blue and red symbols indicate WT and cpm2, respectively. Stars (** and ***) denote statistical significance (P 0.01, and P
+0.001), respectively, between the two genotypes in a Student's t-test.
+Frontiers in Plant Science www.frontiersin.org
+5
+November 2017 Volume 8 Article 1903

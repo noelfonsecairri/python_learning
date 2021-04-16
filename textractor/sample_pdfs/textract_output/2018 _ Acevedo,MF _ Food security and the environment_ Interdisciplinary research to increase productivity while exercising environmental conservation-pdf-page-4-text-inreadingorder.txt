@@ -1,0 +1,129 @@
+M.F. Acevedo et al.
+prove very useful for baseline data and follow up water management
+interventions (Acevedo, 2011).
+Modeling socio-ecological systems allow studying land use dy-
+namics in the context of contemporary hotspots of biodiversity as well
+as agricultural landscape patterns (Acevedo et al., 2008). Adopting a
+food systems approach also contributes to models taking into account
+multiple spatia scales, processes, and levels (Ingram et al., 2010)
+From the social sciences, economics and geography have established
+their role in IDR, contributing quantitative and computational methods
+such as econometrics, simulation modeling, and geographic informa-
+tion systems. For example, Diagne et al. (2013) used an econometric
+forecast of impacts of research prioritizing the benefits by discipline
+(e.g., agronomic, breeding, post-harvest). Quantification and modeling
+are also part, together with deliberative fora, of an agenda for agri-
+cultural and food research based on ID work and a system-wide ap-
+proach that integrates social and environmental issues (Horton et al.,
+2017). In particular, working across disciplinary lines can have a
+transformative effect on each discipline, and allow for integrated
+thinking to identify, test, and implement technologies and policies
+(Horton et al., 2017).
+Thus, food and environment research requires a holistic or in-
+tegrated understanding and synthesis of the interrelationships between
+the people and natural resource base, and this involves socio-cultural,
+economics, technological, ecological and political dynamics operating
+at different scales and among different levels of social organizations
+(Acevedo, 2011; Karunasagar and Karunasagar, 2016).
+4.4. Socio-economics
+Comparing concepts across disciplines, borrowing successful con-
+cepts from one discipline to another, and building analog theories have
+been traditional approaches to IDR. As an example, consider the ana-
+logy between evolution of socio-economic systems and evolution of
+nature (for which the rules for survival are exogenous). In the former,
+humans make the rules and laws as well as the tools, so our rules for
+survival are endogenous (Harvey, 2008). Conventional economics lar-
+gely ignores the interactions between politics and economics, and the
+fundamental differences between 'capital' and finance markets. The
+latter consist of the transfer of ownership of assets and wealth between
+individuals and organizations (with no obvious natural counterparts),
+as well as the markets for goods and services (mimicking natural evo-
+lution and the survival of the fittest).
+The common representation of the three major dimensions of 'sus-
+tainability' environmental, economic, and social takes for granted
+the political dimension. Moreover, the critical activities of asset de-
+velopment, maintenance, accumulation, and ownership establishment
+and transfer are also missing. Yet it is precisely these processes and
+their outcomes the development and maintenance of our capital
+stocks, including natural capital in all its multifaceted forms, which
+underlie any notion of sustainability and which at least partly de-
+termine our future capacities and opportunities.
+Researchers in the field of ecosystem services often recognize that
+biology rather than economics should indicate the importance of nat-
+ural environments to society. Only when our resources become scarce
+relative to our needs do we take notice and take steps to seek a solution
+(i.e. 'put a price' of the resource). This is a fundamental proposition
+behind the environmental Kuznets curve (Galeotti et al., 2009), which
+suggests that economic growth does not necessarily imply continued
+reduction of environmental quantity and quality. Concerns about con-
+serving the environment typically take second place to growth ambi-
+tions during the early stages of economic development, but as wealth
+and knowledge accumulate, so does concern and action over con-
+servation.
+Our institutions (codes and norms of behavior, rules and laws, and
+socio-economic practices) are fundamental in directing both the types
+and pace of our technology development. In this sense, meeting the
+Global Food Security 16 (2018) 127-132
+present challenges depends critically on ID that includes social science,
+to cultivate better futures. We need to take more care over how we do
+things the processes, negotiations and transactions through which we
+reconcile our narrow self-interests (gilt) with our common social in-
+terests (guilt) (Harvey, 2008).
+4.5. Non-economic social sciences
+Anthropology, sociology, and political science are very important
+especially when considering policy and impacts, but have been under-
+utilized. These disciplines focus on people's culture (beliefs, norms,
+values, and practices), institutions, social issues, and governance. Their
+contributions include framing the right questions to define the real
+problems; developing appropriate interventions that cater to local
+adaptations; facilitating innovation systems (including knowledge
+generation, dissemination and utilization); formulation of appropriate
+policies; and monitoring and evaluation of feedback mechanisms. Most
+of all, they emphasize engagement and participation, essential if people
+are to take ownership of their futures.
+To illustrate the contributions of non-economic social sciences,
+consider two experiences at the International Rice Research Institute
+(IRRI). The first relates to promotion of IPM. In the 1970s, IPM did not
+gain wide acceptance by farmers when introduced through classroom
+training, but started to be adopted more broadly in the 1990s when
+promoted by FAO through the farmer field school, which included
+farmer participation and experiential learning (Matteson, 2000). The
+IRRI's anthropologist formed part of an ID team with entomologists and
+agricultural economists, that helped improve IRRI's IPM interventions
+for smallholder farmers in Southeast Asia, particularly in the Phi-
+lippines (Price and Palis, 2016). The anthropologist included farmers'
+participation, stimulated scientists to interact with farmers, and de-
+veloped rice IPM training principles that were later used in the farmer
+field school This anthropological approach made a major difference in
+success of the IPM approaches used now in many Asian countries, and
+around the world (Braun and Duveskog, 2011).
+As a second illustration, consider adoption of NRM technologies in
+rice production, which had been a challenge because they require
+adaptation and collective action. IRRI promoted best practices for NRM
+to help rice farmers achieve increased profitability and food security as
+well as to achieve environmental sustainability (Rejesus et al., 2014).
+Anthropological research highlighted the importance of building on
+farmer knowledge, experiential learning, and social capital to facilitate
+adoption of NRM technologies and accelerating its spread for small-
+scale farmers in Asia (Palis et al., 2004).
+4.6. Integration frameworks
+The goal of IDR is to integrate the epistemological traditions of the
+individual disciplines in defining the problem and the methodological
+comparative advantages of the different disciplines in the development
+of knowledge (Godfray et al., 2010). As Axinn (1997) pointed out, new
+knowledge tends to be highly specialized and so fragmented that we
+have been unable to put it together to solve complex problems. Thus,
+we need to integrate knowledge generated from individual disciplines,
+and from interactions among disciplines. Clark and Wallace (2015)
+advance one possible integration framework implemented as a set of
+operations. These are problem orientation, social process, decision
+process, multiple methods (mobilized from various disciplines), stand-
+point (how researchers relate to the problem), and common interests
+(higher-order goals). Such an integration framework makes explicit the
+stages of identifying complex issues and the technological solutions to
+address them. Life cycle thinking and analysis are also seen as a fra-
+mework to work across disciplines in several science domains such as
+environmental, technological, social, and economics. This methodology
+allows identifying problematic issues in food supply chains and prior-
+itizing research goals. It has been demonstrated by application to
+130

@@ -1,0 +1,77 @@
+frontiers
+in Plant Science
+OPEN ACCESS
+Karl-Josef Dietz,
+Bielefeld University, Germany
+Reviewed by:
+Kyung-Min Kim,
+Kyungpook National University,
+South Korea
+Henan Agricultural University, China
+*Correspondence:
+Michael Riemann
+michael.riemann@kit.edu
+Specialty section:
+This article was submitted to
+Plant Abiotic Stress,
+a section of the journal
+Frontiers in Plant Science
+Received: 30 June 2017
+Accepted: 20 October 2017
+Published: 10 November 2017
+Dhakarey R, Raorane ML,
+Treumann A, Peethambaran PK,
+Schendel RR, Sahi VP, Hause B,
+Bunzel M, Henry A, Kohli A and
+Riemann M (2017) Physiological and
+Proteomic Analysis of the Rice Mutant
+cpm2 Suggests a Negative Regulatory
+Role of Jasmonic Acid in Drought
+Tolerance. Front. Plant Sci. 8:1903.
+doi: 10.3389/fp/s.2017.01903
+Frontiers in Plant Science www.frontiersin.org
+ORIGINAL RESEARCH
+published: 10 November 2017
+doi: 10.3389/fpls.2017.01903
+Check for
+updates
+November 2017 Volume 8 Article
+1903
+Physiologica and Proteomic Analysis
+of the Rice Mutant cpm2 Suggests a
+Negative Regulatory Role of
+Jasmonic Acid in Drought Tolerance
+Rohit Dhakarey Manish L. Raorane 1,2. Achim Treumann3
+Preshobha K. Peethambaran', Rachel R. Schendel4, Vaidurya P. Sahil, Bettina Hause5,
+Mirko Bunze/4, Amelia Henry2, Ajay Kohli2 and Michael Riemann
+Molecular Cell Biology, Institute of Botany, Karlsruhe Institute of Technology, Karlsruhe, Germany, International Rice
+Research Institute, Los Banos, Philippines, Newcastle University Protein and Proteome Analysis, Newcastle University,
+Newcastle Upon Tyne, United Kingdom, Department of Food Chemistry and Phytochemistry, Institute of Applied
+Biosciences, Karlsruhe Institute of Technology, Karlsruhe, Germany, Cell and Metabolic Biology, Leibniz Institute of Plant
+Biochemistry, Halle, Germany
+It is widely known that numerous adaptive responses of drought-stressed plants are
+stimulated by chemical messengers known as phytohormones. Jasmonic acid (JA) is
+one such phytohormone. But there are very few reports revealing its direct implication in
+drought related responses or its cross-talk with other phytohormones. In this study, we
+compared the morpho-physiological traits and the root proteome of a wild type (WT) rice
+plant with its JA biosynthesis mutant coleoptile photomorphogenesis 2 (cpm2), disrupted
+in the allene oxide cyclase (AOC) gene, for insights into the role of JA under drought. The
+mutant had higher stomatal conductance, higher water use efficiency and higher shoot
+ABA levels under severe drought as compared to the WT. Notably, roots of cpm2 were
+better developed compared to the WT under both, control and drought stress conditions.
+Root proteome was analyzed using the Tandem Mass Tag strategy to better understand
+this difference at the molecular level. Expectedly, AOC was unique but notably highly
+abundant under drought in the WT. Identification of other differentially abundant proteins
+(DAPs) suggested increased energy metabolism (i.e., increased mobilization of resources)
+and reactive oxygen species scavenging in cpm2 under drought. Additionally various
+proteins involved in secondary metabolism, cell growth and cell wall synthesis were also
+more abundant in cpm2 roots. Proteome-guided transcript, metabolite, and histological
+analyses provided further insights into the favorable adaptations and responses, most
+likely orchestrated by the lack of JA, in the cpm2 roots. Our results in cpm2 are discussed
+in the light of JA crosstalk to other phytohormones. These results together pave the path
+for understanding the precise role of JA during drought stress in rice.
+Keywords: jasmonates, rice, drought, root, proteomics, phytohormones, cross-talk
+1
+Edited by:
+Xiuli Hu,
+Citation:

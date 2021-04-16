@@ -1,0 +1,116 @@
+Dhakarey et al.
+These results raise two important questions. First, how can
+upregulation of JA synthesis genes under drought be reconciled
+with its proposed role as a negative regulator of drought
+tolerance?, the latter ascertained from morpho-physiological
+responses and root proteome indicators in cpm2 that lacks JA.
+Possibly, increase in JA content under drought upregulates some
+JA responsive genes (JRG) that are negative regulators of drought
+tolerance. Hence lack of JA in cpm2 does not upregulate the
+negative regulators of drought tolerance. For example, one of the
+JRGs, chlorophyllase 1 (CLH1) is a senescence associated gene
+(Sasaki et al., 2001) the upregulation of which may not be useful.
+JA induced natural senescence in maize has been reported (Yan
+et al., 2012) Additionally, the complex crosstalk of JA with other
+plant hormones such as ABA, salicylic acid (SA) and ethylene
+may dictate its final effect. For example, another JRG highlighted
+by Sasaki et al. (2001) is a SA-glucosyltransferase, which can
+inhibit SA signaling while SA is known to be important in abiotic
+stress tolerance (Pedranzani and Vigliocco, 2017) Also, recently
+Liu and Avramova (2016) reported that JA was not able to induce
+any of the dehydration response genes tested but it potentiated
+ABA-dependent genes. Thus JA crosstalk to other hormones may
+underpin the drought response rather than a direct relationship
+between its upregulation and action. Second, under the lack of
+AOC protein and hence the suspected lack of 12-OPDA, the
+substrate for OPR7, how OPR7 can be upregulated? Potentially
+the transcription and translation of downstream OPR7 gene
+was not dependent on the product of AOC activity (12-OPDA).
+Similar to our results in Figure S11, detectable amounts of OPDA
+and JA remained in the maize single mutants for OPR7 as
+observed by Yan et al. (2012) who speculated other members of
+the OPR gene family to be responsible for low but measurable
+amounts of JA in the opr7 mutant. However, similar results
+of detectable OPDA and JA synthesis in the mutants of two
+different genes for JA synthesis, in two different crops, present
+an intriguing scenario and suggest unexplored cryptic regulation
+of JA biosynthesis. It must be noted that OPDA and JA content
+in the WT roots under drought was as low as that of the
+cpm2 (Figures S11D,E). This suggested that the comparatively
+decreased contents of OPDA and JA in cpm2 under the control
+conditions had some effect rather than the drought-mediated
+decrease per se. Finally, since hormone levels are transient it is
+possible to have missed the critical time points during which
+alterations could be detected. Nevertheless, from the proteomic
+evidence, it can be speculated that in the WT roots, owing to
+the abundance of AOC but scarcity of the downstream OPR7,
+OPDA is accumulated This speculation is also in agreement with
+the findings of Savchenko et al. (2014). Moreover using cpm2
+and corresponding WT for a study on salinity stress, Hazman
+et al. (2015) reported that an increase in OPDA content in
+WT was perceived as a damage signal. We observed similar
+increase in the OPDA amounts at least in the shoots of the WT
+during severe stress condition (Figure S11A), but in order to
+further validate this finding at the metabolite level in drought
+stressed roots, further quantification of jasmonates must be
+conducted at the more precise and early time point after onset
+of stress.
+Frontiers in Plant Science www.frontiersin.org
+Rice JA and Drought Tolerance
+November 2017 Volume 8 Article 1903
+Conclusions and the Proposed Role of JA
+in Response to Drought
+In cpm2, the response to drought stress at the initiation of
+water deficit condition was much faster than in the WT, as also
+evident from its lower stomatal conductance. Overall, the mutant
+displayed a better fitness to combat drought stress conditions
+through effective activation of stress-preventing mechanisms that
+further led to its better sustenance under drought.
+In summary, in comparison to the WT, cpm2 exhibited:
+(1) morpho-physiological adaptations to drought through lower
+stomatal conductance (at the onset of stress), higher ABA
+levels and higher WUE.
+(2) Better root system under control and drought conditions as
+revealed by WinRHIZO based measurements.
+(3) Comparative root proteome analysis supported a better
+status of cpm2 roots in terms of more efficient ROS
+scavenging, more abundance of cell wall-modifying, energy-
+generating, and water-saving enzymes/proteins.
+(4) Transcript and protein abundance data in the
+phenylpropanoid pathway suggested an increase in
+the biosynthesis of phenolics and/or lignin in cpm2.
+Moreover, cell wall metabolite analysis revealed a unique
+profile for cpm2 under drought stress. However, in the
+future quantitative measurements of the lignin polymer
+composition (monolignol ratios and linkage types within
+the polymer) will be necessary to further validate these
+observations.
+(5) In the WT shoots, OPDA levels were found to be higher
+under severe drought. Similarly, in the WT roots, based on
+proteomic results OPDA is speculated to be accumulated
+due to high abundance of AOC and scarcity of OPR7. These
+observations are in agreement with the previous findings of
+Savchenko et al. (2014) and Hazman et al. (2015), however
+this finding for drought also needs to be further validated
+at metabolite level in the roots wherein, more early time-
+point samples need to be collected after the start of stress
+treatment-to further detect immediate and direct changes
+in these hormones. Additionally, potential hormone crOSS-
+talk was implicated through our study, which warrants
+further research, namely that ABA may need JA for stomatal
+closure and that JA effects may be modulated through the
+involvement of SA.
+All of the aforesaid attributes allowed cpm2 to optimize its growth
+in response to a water deficit condition and to further withstand a
+prolonged drought stress. Presently, it is not possible to define the
+exact mechanisms controlling better drought responses in cpm2.
+However, based on the integration of root proteome, metabolite
+and morpho-physiological data, we can rather propose the key
+molecular players involved in the better sustenance of cpm2
+during drought. We believe that the results presented in this
+study are a key in further advancements toward understanding
+the precise role of JA during drought stress tolerance and also the
+molecular mechanisms involved. Thus, we conclude that drought
+response of cpm2 implicated JA as a negative regulator of root
+growth and overall drought tolerance.
+13

@@ -1,0 +1,191 @@
+N. Agustiani et al.
+North Sumatra
+Table 1
+Description of databases used in this study, including location of experiments (province), year, nearby weather station, water regime (and season), and dominant crop
+sequence and soil textures.
+Experiment
+Rice-HY
+Rice-MLCE
+Maize-N experiment
+Maize-On-farm fertilizer
+trial
+a HY: high-yield experiments; MLCE: multi-location cultivar evaluation trial.
+b
+DS: dry season; WS: wet season.
+c
+Letters in brackets indicated ecosystem: lowland [L] or upland [U]. Simulated crop cycle is shown in bold; parenthetic third crop appears on a relatively small
+fraction of the crop area.
+d
+Not reported (n.r.) because soil data are not needed for simulation of yield potential for irrigated crops.
+e
+Number of site-year-seasons per province.
+Gridded NASA POWER weather data used for model simulations.
+50
+40
+30
+20
+10
+0
+European Journal of Agronomy 101 (2018) 10-19
+Fig. 1. Location of rice (yellow) and maize
+(red) experiments used for model calibration
+(rice high-yield [HY] and maize-nitrogen [N]
+experiments; stars) and evaluation (rice multi-
+location cultivar evaluation [MLCE; triangles]
+and on-farm maize fertilizer trials; circles).
+Inset shows location of Indonesia within South
+East Asia. Province boundaries and names are
+shown. (For interpretation of the references to
+colour in this figure legend, the reader is re-
+ferred to the web version of this article)
+Crop sequence
+Soil textured
+ne
+[L] rice-rice
+n.r.
+3
+[L] rice-rice-rice
+n.r.
+5
+[L] rice-rice-maize
+n.r.
+2
+[L] rice-rice-rice
+[L] rice-rice(-rice)
+n.r.
+14
+[L] rice-maize
+n.r.
+4
+[L] rice-rice-maize
+Clay
+19
+[U] maize-maize
+(-maize)
+[L] rice-rice-maize
+n.r.
+5
+[U] maize-maize
+Clay
+12
+[U] maize-maize
+Clay loam
+16
+[U] maize-maize
+Silty clay
+7
+loam
+Fig. 2. Annual patterns of monthly average
+maximum (Tmax) and minimum temperature
+(Tmin) and total precipitation for two locations
+in Java: Sukamandi (West Java; 6.25'S,
+107.16E) and Jakenan (Central Java; 6.78'S,
+111.20E). Dominant lowland irrigated (solid)
+and upland rainfed crop sequences (dashed
+lines) are shown for each site and simulated
+crop cycles are indicated in bold. Parenthetic
+third crop appears on a relatively small frac-
+tion of the crop area.
+Rice-HY
+Maize-N experiment
+Rice-MLCE
+Maize-On-farm fertilizer trial
+Central
+Java
+0
+100Km
+Yogyakarta
+Central Java &
+2011, 2013,
+2010, 2013 2010, 2013
+South Sulawesi
+2005, 2006,
+2008, 2009
+Central Java
+2004, 2005
+North Sumatra
+2004, 2004, 2006 2006
+South Sulawes
+2005, 2006
+Rice
+30
+20
+10
+D
+Jatiwangi, Darmaga, Bandung
+Cilacap, Sragen Banjarnegara,
+Perak II, Karang Ploso
+Citeko, Sukamandi, Darmaga,
+Jakenan, Central Java
+O N D J F M A M J J A S
+South
+Sulawesi
+Maize
+(Maize)
+Lampung
+East Java
+Weather station
+Yogyakarta
+Bandung, Jatiwangi
+Maros
+Jakenan, Yogyakarta
+Karang Ploso
+Kota Bumi
+Parapat
+Jeneponto
+West Java
+Year
+2016
+2014
+2004
+500
+400
+Maize
+300
+200
+100
+Rainfall
+0
+N
+2011-2016
+2005-2007
+Sukamandi, West Java
+N D J F M A M J J A S
+Province
+West Java
+Yogyakarta
+East Java
+West Java
+East Java
+Lampung
+Water regime
+(season)
+Irrigated (DS)
+Irrigated (DS)
+Irrigated (WS)
+Irrigated (DS & WS)
+Irrigated (DS)
+Irrigated (DS),
+rainfed (WS)
+Irrigated (DS)
+Rainfed (WS)
+Rainfed (DS & WS)
+Rainfed (WS)
+500
+400
+300
+200
+100
+0
+50
+40
+0
+Rice
+Rice
+Maize
+Rice
+12
+H
+-
+Tmin
+Tmax

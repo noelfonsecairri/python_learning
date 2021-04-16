@@ -1,0 +1,47 @@
+N. Agustiani et al.
+European Journal of Agronomy 101 (2018) 10-19
+Crops Res. 194, 43-56.
+Van Wart, J., Grassini, P., Yang, H.S., Claessens, L., Jarvis, A., Cassman, K.G., 2015.
+Timsina, J., Jat, M.L., Majumdar, K., 2010. Rice-maize systems of South Asia: current
+Creating long-term weather data from thin air for crop simulation modelling. Agric.
+status, future prospects and research priorities for nutrient management. Plant Soil
+For. Meteorol. 208, 49-58.
+335, 65-82.
+Witt, C., Dobermann, A., Abdulrachman, S., Gines, H.C., Wang, G., Nagarajan, R.,
+Timsina, J., Buresh, R.J., Dobermann, A., Dixon, J., 2011. Rice-maize Systems in Asia:
+Satawatananont, S., Son, T.T., Tan, P.S., Tiem, L.V., Simbahan, G.C., Olk, D.C., 1999.
+Current Situation and Potential. International Rice Research Institute and
+Internal nutrient efficiencies of irrigated lowland rice and in tropical and sub-tropical
+International Maize and Wheat Improvement Center, Los Banos (Philippines) 232 p.
+Asia. Field Crops Res. 63, 113-138.
+Tolk, J.A., Evett, S.R., Xu, W., Schwartz, R.C. 2016. Constraints on water use efficiency of
+Witt, C., Pasuquin, J.M., Dobermann, A., 2006. Towards a site-specific nutrient man-
+drought tolerant maize grown in a semi-arid environment. Field Crops Res. 186,
+agement approach for Maize in Asia. Better Crops 90, 28-31.
+66-77.
+Worku, M., Makumbi, D., Beyene, Y., Das, B., Mugo, S., Pixley, K., Banziger, M., Owino,
+van Ittersum, M.K., Cassman, K.G., Grassini, P. Wolf, J., Tittonell, P., Hochman, Z., 2013.
+F., Olsen, M., Asea, G., Prasanna, B.M., 2016. Grain yield performance and flowering
+Yield gap analysis with local to global relevance - a review. Field Crops Res. 143,
+synchrony of CIMMYT's tropical maize (Zea mays L.) parental inbred lines and single
+4-17.
+crosses. Euphytica 211, 395-409.
+van Ittersum, M.K., van Bussel, L.G.J., Wolf, J., Grassini, P., van Wart, J., Guilpart, N.,
+Yang, H.S., Doberman, A., Lindquist, J.L., Walters, D.T., Arkebauer, T.J., Cassman, K.G.,
+Claessens, L., de Groot, H., Wiebe, K., Mason-D'Croz, D., Yang, S.H., Boogaard, H.,
+2004. Hybrid-maize-a maize simulation model that combines two crop modeling
+van Oort, P.A.J., van Loon, M., Saito, K., Adimo, O., Adjei-Nsiah, S., Alhassane, A.,
+approaches. Field Crops Res. 87, 131-154.
+Bala, A., Chikowo, R. Kaizzi, K.C., Kouressy, M., Makoi, J.H.J.R., Ouattara, K.,
+Yang, H., Grassini, P., Cassman, K.G., Aiken, R.M., Coyne, P.I., 2017. Improvement to the
+Tesfaye, K., Cassman, K.G., 2016. Can sub-Saharan Africa feed itself? Proc. Natl.
+Hybrid-Maize model for simulating maize yield in harsh rainfed environment. Field
+Acad. Sci. PNAS 113, 14964-14969
+Crops Res. 204, 180-190.
+Van Wart, J., Kersebaum, K.C., Peng, S., Milner, M., Cassman, K.G., 2013. A protocol for
+Yuan, S., Peng, S., Li, T., 2017. Evaluation and application of the ORYZA rice model under
+estimating crop yield potential at regional to national scales. Field Crops Res. 143,
+different crop managements with high-yielding rice cultivars in central China. Field
+34-43.
+Crops Res. 212, 115-125.
+19

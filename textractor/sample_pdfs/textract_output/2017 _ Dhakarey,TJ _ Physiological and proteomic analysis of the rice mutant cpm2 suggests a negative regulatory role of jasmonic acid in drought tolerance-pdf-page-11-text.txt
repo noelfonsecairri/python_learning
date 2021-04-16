@@ -1,0 +1,103 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+A
+B
+10000
+10000
+8000
+8000
+6000
+6000
+4000
+4000
+2000
+2000
+0
+0
+control
+severe stress
+control
+severe stress
+FIGURE 7
+I Ester linked (A) Coumaric Acid) (B) Ferulic Acid levels in wild type (WT) and cpm2 destarched root cell wall (RCW) material under control and severed
+rought stress conditions. Both the metabolites in the cell wall-bound state were less in roots exposed to drought in cpm2. Three-week-old WT and cpm2 seedlings
+were either kept well-watered, and their roots were sampled at day 22, or watering was stopped to initiate severe stress condition. Root samples were
+harvested
+in
+control and severe stress condition. WT and cpm2 are represented by blue and red bars, respectively. Data represents mean value E standard error
+(SE);
+n
+=
+5.
+Stars
+(* and **) denote statistical significance (P 0.05 and 0.01), respectively, between the two genotypes in a Student's t-test.
+Glutathione s-transferase (LOC 0s01g55830)
+Glutathione s-transferase (LOC .0s10g38360)
+ROS scavenging
+Ascorbate Peroxidase (LOC 0s04g35520
+8
+DJ-1 family protein (LOC 0s06g34040
+Serine hydroxymethyltransferase (LOC 0s11g26860)
+3-isopropylmalate dehydratase small subunit 2 (LOC 0s02g43830
+7
+Non-symbiotic hemoglobin 2 (LOC 0s03g13160
+Glycosyl hydrolases family 17 (LOC 0s01g71350
+Cell wall
+UDP-glucose 6-dehydrogenase (LOC 0s12g25690
+6
+0-methyltransferase (LOC 0s11g20160
+Polygalacturonase (LOC 0s11g43750)
+Cell organisation
+B-tubulin-1 (LOC 0s01g18050
+5
+Actin nucleation protein (LOC 0s06g05880
+Phenylalanine ammonia-lyase (LOC 0s02g41630)
+4-coumarate:coenzyme A ligase (LOC 0s02g08100)
+4
+Phenylpropanoids
+Caffein-CoA-methyltransferase (LOC 0s08g38900
+Cinnamyl alcohol dehydrogenase 4 (LOC 0s11g40690
+Caffein-o-methyltransferase (LOC 0s08g06100
+3
+Triose phosphate isomerase (LOC 0s01g05490)
+Energy
+Pyruvate decarboxylase (LOC 0s03g18220
+Glyceraldehyde-3-phosphat dehydrogenase (LOC 0s08g03290
+2
+Peptidase T1 family (LOC 0s06g07878
+Protein Catabolism
+Peptidase T1 family (LOC 0s11g40140
+Aquaporin PIP1-2 (LOC 0s04g47220)
+Miscellaneous
+Ras related protein (LOC 0s01g37800
+1
+Glutamine synthase (LOC_0s03g12290)
+WT
+cpm2
+FIGURE 8
+Heat map of differentially abundant proteins (DAPs) belonging to ROS scavenging, cell wall, cell organization, phenyipropanoids, energy,
+proteincatabolism and miscellaneous categories obtained after TMT (Tandem Mass Tag) analysis of cpm2 and wild type (WT) roots. Differential proteins were abundant
+in cpm2 (except nSHB2 and PIP-2) as evident from the log ratios (stress/control). TMT based LC-MS/MS analysis was performed on rice roots after drought treatment
+of cpm2 and corresponding WT. Total protein was extracted and subsequent FASP digestion was performed. The subsequent peptide mixture was labeled
+with
+the
+TMT reagent prior to multiplexing. Pooled peptides were fractioned using the reversed-phase HPLC system and then individual fractions were analyzed
+using
+Tandem
+mass spectrometry. For each protein the ID according to MSU is provided in parenthesis. The color scale indicates whether a protein is more or less abundant under
+drought conditions. Cross marks indicate that the protein was unidentified in the respective sample.
+polysaccharide in the graminaceous cell wall (Karkonen, 2005).
+Adaptive growth of cpm2 roots under drought relates well
+More UGPGDH in cpm2 suggests increased biosynthesis of
+to higher amounts of enzymes engaged in the formation
+hemicelluloses and cell wall remodeling in response to stress
+of cell walls. Microtubules are an essential component of
+(Karkonen et al., 2005). Yoshimura et al. (2008) also reported
+the cell's cytoskeleton, and tubulins are a crucial component
+accumulation of UDPGDH in watermelon roots during drought
+of these microtubules that are functional during numerous
+stress.
+cellular processes, ranging from cell division to intracellular
+Frontiers in Plant Science www.frontiersin.org
+11
+November 2017 Volume 8 Article 1903

@@ -1,0 +1,113 @@
+Dhakarey et al.
+FIGURE 4 Comparative differences were observed in root architecture in wild type (WT) and cpm2. Plants of two genotypes were grown in soils at different moisture
+levels. Roots were harvested, washed and stored in 75% ethanol until scanning and analysis. Significant differences were observed across the treatments. Values for
+(A) nodal root length (B) lateral root length (C) sum of all root length (D) number of forks (E) number of tips (F) max root depth are shown here.
+value t standard error (SE); n - 5. WT and cpm2 are represented by blue and red bars, respectively. Stars (* and **) denote statistical significance (P 0.05 and P
+0.01), respectively, between the two genotypes in a Student's t-test.
+basis of DAPs that can potentially modify or affect the cell
+wall structure, composition or properties (Table 1). In cpm2
+there was an increased content of six major enzymes of the
+phenylpropanoid pathway involving cinnamic acid modification,
+which potentially modify the cell wall composition. The enzymes
+involved suggest variation in coumaric and ferulic acid content
+(Figure S5), which was confirmed by the quantification of the
+coumaric and ferulic acid ester-linked to cell wall biopolymers in
+the roots. Ester-linked coumaric and ferulic acid contents were
+both significantly lower in cpm2 compared to the WT under
+drought (Figures 7A,B). This agreed with the increased content
+of the enzymes that used the two acids as substrates in cpm2.
+The levels of ester-linked di-, tri- and total oligo-ferulates were
+also generally lower in the roots of cpm2 under drought but
+significantly so for the measured triferulates (Figure S6C). Under
+control conditions, there was no significant difference between
+WT and cpm2 in the content of coumaric or ferulic acid or
+ferulate oligomers (Figure 7, Figure S6).
+Frontiers in Plant Science www.frontiersin.org
+Rice JA and Drought Tolerance
+Data
+represents
+mean
+November 2017 Volume 8 Article
+1903
+A
+C
+E
+B
+D
+F
+Higher WUE and Stomatal Conductance in
+The observation of higher WUE and higher stomatal
+conductance in cpm2 is somewhat antagonistic. Genotypes
+bearing higher stomatal conductance may indicate a pronounced
+capability of uptaking available soil water through enhanced
+root area (Mitchell et al. 1996) or osmotic adjustment (Blum
+2005), and thereby, can maintain transpiration during moderate
+drought stress (Blum, 2009) But on the other hand, enhanced
+stomatal conductance might be a downside when soil water
+deficits are more common (Donovan et al., 2007). Plants counter
+severe water deficit by decreasing their stomatal conductance,
+however by a curtailment of WUE, plants could deplete available
+water quickly and consequently die by loss of turgor, if they fail in
+a drought survival strategy (Donovan et al., 2007; Manzoni et al.,
+2011). In the case of our study, the higher stomatal conductance
+800
+600
+400
+200-
+0
+moderate
+3500
+3000.
+2500
+2000
+1500
+1000
+500-
+moderate
+25000
+20000
+15000
+10000
+moderate
+1200
+1000
+800
+600
+400
+200
+0
+35000
+30000
+25000
+20000
+15000
+10000
+5000-
+0
+25
+20
+15
+10
+5
+0
+control
+severe
+control
+severe
+control
+severe
+control
+control
+control
+moderate
+moderate
+moderate
+severe
+severe
+severe
+0
+5000
+0
+DISCUSSION
+cpm2 under Drought Stress
+7

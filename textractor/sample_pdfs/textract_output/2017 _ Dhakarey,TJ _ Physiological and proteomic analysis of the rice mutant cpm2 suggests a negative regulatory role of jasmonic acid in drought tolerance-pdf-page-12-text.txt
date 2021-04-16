@@ -1,0 +1,115 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+transport inside eukaryotic organisms (Zhao et al., 2014) and
+compared to the control (Figure S10). The arabinose/xylose ratio
+determination of the orientation of cellulose fibrils in the cell
+is an indicator of the degree of substitution of the arabinoxylan
+wall (Schmit and Nick, 2008). B-Tubulin-1 was reported as
+polymer backbone, which has been shown to be reduced in
+more abundant in cpm2 (Figure 8) Likewise, an actin nucleation
+drought-stressed plants (Rakszegi et al., 2014). Contrary to our
+protein, which acts in cell elongation, cell shape maintenance,
+expectations based on the protein biosynthesis data, drought-
+and polarized growth of root hair (Ramachandran et al., 2000)
+stressed cpm2 roots showed reduced biosynthesis of both ester-
+was also more abundant in cpm2 (Figure Upregulation of the
+linked ferulic acid monomers (Figure 7B) and the oligoferulates
+microtubule components under drought in rice roots has been
+(dimers and trimers) involved in cell-wall crosslinking compared
+reported earlier (Raorane et al., 2015b,a).
+to the control (Figure S6). Drought stress also resulted in fewer
+diferulates in the WT roots compared to the control (Figure
+DAPs in Phenylpropanoid Pathway Increased Cell
+S6B). Both osmotic stress and ABA have been previously shown
+Wall Modification in cpm2
+to reduce ester-linked ferulate and diferulate content in wheat
+Water deficiency modulates the expression of lignin biosynthesis
+coleoptiles (Wakabayashi 1997a,b). The results indicate that
+genes (Santos et al., 2015). Of the nine identified DAPs related
+rice roots respond to drought stress by loosening cross-links in
+to cell wall biosynthesis and remodeling, six encompass lignin
+the cell wall, to become more flexible. However, JA might inhibit
+biosynthesis and five of these belong to the phenylpropanoid
+this response, as WT roots show a weaker decrease in those
+biosynthetic pathway (Table Such DAPs more abundant
+crosslinking metabolites under drought stress.
+in cpm2 were OsPAL1, Os4CL3, OsCAD4, OsCOMT1, and
+Discrepancies in the results expected for the cpm2 cell walls
+OsCCOAOMT (Figure 8, Figure S5), and these are crucial for
+from more abundant DAPs for phenylpropanoid and ferulate
+lignin biosynthesis in rice plants (Gui et al., 2011; Hirano et al.,
+pathways could potentially be ascribed to alternate uses of the
+2012; Koshiba et al., 2013; Yoon et al., 2015; Wang et al., 2017).
+secondary metabolite products of the enzymes involved. For
+Transcript analysis of these genes revealed some interesting
+example, the phenylpropanoid pathway involving chorismate
+trends. OsPALI increased in both genotypes under moderate
+and shikimate could be directed to salicylic acid (SA) synthesis,
+stress, but under severe stress it was similar in wild type and
+which like JA is perhaps equally but antagonistically involved in
+cpm2 (Figure S8A). The Os4CL3 transcript was more abundant in
+drought response (Pedranzani and Vigliocco, 2017).
+cpm2 under moderate and severe drought (Figure S8B) while the
+OsCOMT1 transcript was similarly upregulated in cpm2 under
+Lower Abundance of DAPs for Aquaporins in cpm2
+moderate stress but was not significantly different under severe
+Could Influence Root Water Status Positively
+stress (Figure S8C). Taken together, the transcript and protein
+Plasma membrane intrinsic proteins (PIP), a subfamily of
+abundance data in the phenylpropanoid pathway suggested an
+aquaporins comprising two subgroups of PIP1 and PIP2 could
+increase in the biosynthesis of phenolics and/or lignin (Vincent
+also influence root water status. PIP2 proteins could be attributed
+et al., 2005; Fan et al., 2006; Phimchan et al., 2014) in cpm2.
+for enhanced water channel activity (Chaumont et al., 2000). In
+Since coumarates are also known to be incorporated into the
+the present study, OsPIP1 was less abundant in cpm2 (Figure 8)
+lignin structure, increased lignin in cpm2 suggested increased
+Reduced expression of some of the PIP genes could lead to
+coumarates. The level of esterified p-coumarates was higher
+inhibition of water loss by preventing backflow of water to dried
+under drought in the WT but not in cpm2 (Figure 7A).
+soil (Afzal et al., 2016) Moreover, down-regulation of PIP genes
+Phloroglucino staining for lignifications also showed increase
+transcription was also reported in the roots of tobacco (Mahdieh
+in lignin in the WT root section but not in cpm2 (Figure S9).
+et al., 2008) and also in the twigs and roots of olive plants (Secchi
+To resolve the discrepancy in cpm2 between the potentially
+et al., 2007).
+increased biosynthesis of phenolics/lignin but relatively lesser
+lignin content visualized through phloroglucinol, quantitative
+estimation of the changes in the lignin polymer composition
+Impaired AOC Function Useful for Drought
+(monolignol ratios and linkage types within the polymer) will
+Tolerance
+be conducted in future, because phloroglucinol best stains
+Drought stress apparently upregulates the JA biosynthetic
+cinnamaldehydes (Adler, 1977) while the extent of lignin
+pathway as evident at the transcript and protein level in
+crosslinking can affect visualization by phloroglucinol (Pomar
+our study and in earlier reports in rice (Du et al., 2013).
+et al., 2002). The increase of the elastic modulus but reduced
+In the root proteome analysis AOC was unique and highly
+plastic extensibility of the cell wall under drought (Blum, 2011)
+abundant under drought in the WT (Figure 6A). Moreover, we
+is caused in part by augmented cross-linking of arabinoxylans
+also found 12-OXOPHYTODIENOATE REDUCTASE (OPR7),
+to each other and lignin via free-radical-induced oxidative
+another protein downstream of AOC in the JA biosynthesis
+coupling of phenolics like lignin monomers and ferulates (Fan
+pathway, was more abundant under drought in cpm2 roots
+and Neumann, 2004; Fan et al., 2006).
+(Figure 6A). However, when comparing OPDA, JA, and JA-Ile
+p-Coumaric acid is also found ester-linked to arabinoxylans
+levels between WT and cpm2 shoots and roots under control,
+just like ferulic acid (Mueller-Harvey et al., 1986). No significant
+moderate and severe stress, minor differences were found, except
+difference in the arabinose/xylose ratio was found in the cpm2
+in the OPDA levels in WT shoots during severe stress (Figures
+roots' cell wall material under drought in contrast to WT, which
+S11A-F). Even though the amounts detected for these hormones
+had a lower arabinose/xylose ratio in the drought-stressed roots
+under our specific experimental conditions were rather low.
+Frontiers in Plant Science www.frontiersin.org
+12
+November 2017 Volume 8 Article 1903

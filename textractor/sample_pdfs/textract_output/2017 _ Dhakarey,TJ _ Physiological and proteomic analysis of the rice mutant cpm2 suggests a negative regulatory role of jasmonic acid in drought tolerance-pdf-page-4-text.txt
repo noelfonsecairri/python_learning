@@ -1,0 +1,111 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+or greater (2-fold more) was used as a criterion for comparative
+chromatography with pulsed amperometric detection (HPAEC-
+abundance of the protein in one genotype. Conversely, proteins
+PAD) as described in Schafer et al. (2016).
+having log ratios lower than 1.0 (2-fold less) were considered
+comparatively less abundant.
+Histology of Root Tissue
+WT and cpm2 seedlings were grown in a phytochamber
+Quantitative Reverse Transcriptase PCR
+(BBC York, Mannheim, Germany) as described above. Root
+(qRT-PCR) Analysis of Selected Genes
+samples were harvested for control and severe stress (SMC
+Primer3 was used for designing the primers (listed in Table S1)
+15%) treatments. Using a hand microtome, thin sections of 25-
+and the subsequent procedures related to RNA extraction; cDNA
+30 um thickness were taken from the center of basal and axial
+synthesis and qRT-PCR were performed as illustrated in Raorane
+ends of roots from WT and cpm2 plants grown normally and
+et al. (2015b). OsCyclophilin-2 was employed as the housekeeping
+under drought stress conditions. Sections were stained in 1%
+gene for all the qRT-PCR analysis (Pabuayon et al., 2016).
+(w/v) phloroglucinol in 18% hydrochloric acid (HC1), mounted
+with water on a glass slide and observed using an Axioskop
+Quantification of Endogenous ABA and
+microscope (Zeiss GmbH, Jena, Germany) equipped with a 20x
+Jasmonate Levels in Shoot and Root
+objective. Pictures were taken using a CCD camera (AxioCam,
+Zeiss) attached to the microscope.
+Samples
+ABA and jasmonates were quantified from shoot and root
+Statistical Analysis
+samples as described by Balcke et al. (2012). In brief, about
+Representation of individual plants of a genotype within
+50 mg of frozen plant material was homogenized and extracted
+each sample and the number of replicates for each
+with 500 ul pure methanol supplied with [2H6] ABA, [2H5]
+analysis/measurement are given in the figure legends. Student's
+OPDA, [2H6] JA, and [2H2] JA-Ile (50 ng each) as internal
+t-test was performed for testing the statistical significance of the
+standards. After centrifugation, the supernatant was diluted with
+calculated mean values, with a significance level of P 0.05 and
+9 volumes of water and subjected to solid phase extraction on
+subsequent graphs were plotted using GraphPad Prism version
+HR-XC (Chromabond, Macherey-Nagel) column. Elution was
+7 (GraphPad Software, La Jolla California USA). The ASReml
+done with 900 ul acetonitrile. Ten micro liter of the eluate was
+script was used as a repeated measures analysis across all dates
+subjected to ultra-performance liquid chromatography-tandem
+for WUE using 3.3.1 (R Core Team, 2016). The underlying
+mass spectrometry (UPLC-MS/MS) according to Balcke et al.
+statistical model was WUE~Treatment Genotype DAS.
+(2012). The contents of ABA, OPDA, JA, and JA-Ile were
+calculated using the ratio of analyte and internal standard peak
+RESULTS
+heights.
+Increased Adaptive Response of cpm2
+Root Cell Wall Monosaccharides and
+Morpho-Physiology to Drought
+Hydroxycinnamic Acids Analysis
+cpm2 and WT plants raised for 4 weeks were subjected to drought
+Sampling material grown at the IRRI greenhouses (for targeted
+stress. After withholding water for 2 days, response to drought
+metabolite analysis) was used for these measurements. Further
+became apparent in the WT plants through leaf rolling, mainly
+milling of the frozen root samples was done to <0.5 mm (IKA
+in the upper reaches of the leaves, despite apparently stronger
+mill or porcelain mortar with dry ice). Milled samples were
+culms, compared to cpm2 (Figures S2A,B). At the end of day
+stored in the freezer (-44C) for subsequent monosaccharides
+four, WT leaves developed symptoms of wilting In contrast the
+and hydroxycinnamic acids analyses. Destarched cell wall
+upper reaches of the cpm2 leaves remained open and appeared
+material was isolated and purified (digestion with thermostable
+turgescent while still the well-developed culm of the WT gave
+a-amylase and amyloglucosidase and precipitation of non-
+the impression of a stronger plant (Figures S2C,D). These initial
+starch polysaccharides in 80% ethanol). Ester-linked oligo-
+results obtained with plants in the phytochamber were further
+ferulates (dimers and trimers) were quantified in the destarched
+confirmed by greenhouse studies in tropical latitudes.
+cell wall material following alkaline hydrolysis NaOH,
+The apparent adaptation of cpm2 to drought was borne out
+18h), acidification, extraction with diethyl ether, and LC-ESI-
+by other parameters. For example, the cpm2 plants had a higher
+MS/MS separation and detection (negative ionization with triple-
+water use efficiency (WUE) before drought stress was initiated as
+quadrupole mass analyzer). Internal standard quantification
+compared to WT (0.23 unit higher in cpm2 in ASReml). However,
+was performed using 5-5-methyl-diferulic acid. Ester-linked
+with progressive drought stress, WUE in cpm2 plants was even
+monomeric trans-ferulic and trans-p-coumaric acids (FA and
+higher than in those of WT (0.28 units higher in cpm2 in ASReml)
+pCA respectively) were also determined in the alkaline
+and the difference increased persistently till day 14 after the onset
+hydrolysates, but were detected and quantified via external curves
+of drought (Figure 1). Consistently, the p-value for the genotype
+using an inline UV detector (320 and 307 nm detection wave
+effect became lower under drought conditions as well.
+lengths for trans-ferulic and trans-p-coumaric acids respectively)
+Additionally, in 4 weeks old plants, similar stomatal
+coupled to the LC-MS/MS system. Monosaccharide analysis
+conductance was observed for cpm2 and WT plants under
+of the destarched cell wall material was performed after
+control conditions (Figure 2 2A). However, under drought
+sulfuric acid hydrolysis using high-performance anion-exchange
+condition, the overall stomatal conductance in cpm2 showed less
+Frontiers in Plant Science www.frontiersin.org
+4
+November 2017 Volume 8 Article 1903

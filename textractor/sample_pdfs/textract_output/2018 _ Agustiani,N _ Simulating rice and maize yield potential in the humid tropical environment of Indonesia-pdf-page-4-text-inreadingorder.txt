@@ -1,0 +1,131 @@
+N. Agustiani et al.
+(MLCE) trial (Fig. Table 1). Experiments were located at 17 sites
+across Java Island; the latter accounts for 46% of rice area in Indonesia
+(https://www.bps.go.id). In all cases, rice seedlings were transplanted
+ca. 21 days after sowing (DAS), with 2-3 seedlings per hill. Fields re-
+ceived adequate water supply, with water depth maintained at ca. 5 cm
+during the entire crop season. Rice yields were determined from a
+sample (size: 6.25-12 m2) collected from the center of each plot at
+harvest maturity. Reported yields correspond to paddy rice adjusted to
+14% grain moisture content. Annual patterns of temperature and pre-
+cipitation are shown for two representative locations in Java (Fig. 2).
+The HY experiments were conducted at three sites in west Java:
+Subang (6.624'S; 107.746E), Indramayu (-6.518'S, 108.291E), and
+Bandung (-7.011"S, 107.746E) Experiments were conducted during
+the dry season (April-September) in 2016 (Fig. 1). Experiments fol-
+lowed a randomized complete block design with four replicates (plot
+size: m2) and included two plant density treatments (16 and 21 hills
+The same variety (Inpari 32) was grown across experiments.
+Inpari 32 is a new high-yielding inbred variety (parental lines: Ciherang
+and IRBB64), which is becoming one of the predominant varieties
+across major producing rice areas in Indonesia, replacing old varieties
+such as Ciherang, Dodokan, and Silugonggo. Periodic applications of
+pesticides and manual weeding kept crops free of weeds, diseases, and
+insect pests during the entire growing season. Total applied fertilizer
+was 126 (nitrogen [N]), 11 (phosphorous [P]), and 25 (potassium [K])
+kg hal, with fertilizer amounts determined based on soil tests and es-
+timated requirements to achieve yields near Yp at each site. N fertilizer
+was split in three applications (ca. 7, 24, and 42 days after transplanting
+[DAT]). Destructive plant samples were taken at early vegetative (7
+DAT), 10% flowering (67 DAT), and physiological maturity (112 DAT)
+stages to determine leaf area and dry matter per plant organ (stems,
+leaves, and panicles)
+The MLCE trials were conducted in 13 irrigated farmer fields over
+seven years (2010-2016), including both wet (October to March) and
+dry (April to September) seasons, representing a total of 24 site-year-
+season combinations (Table 1). These trials followed a complete ran-
+domized design, with three replicates (plot size: m2). Same plant
+density was used across experiments (16 hills m The goal of these
+trials was to evaluate performance of commercially available rice
+inbred varieties, including new (Inpari 10, 13, 18, 23, 28, and 33) and
+old varieties (Ciherang, Dodokan, and Silugonggo). Cultivars varied
+across site-year-seasons, but there were at least 3 varieties per trial.
+Crops were not necessarily managed with an aim to reach Yp; instead,
+fertilizer amounts and management practices were guided by local re-
+commendations. Total applied fertilizer ranged from 115 to 140 (N), 7
+to 16 (P), and 25 to 50 (K) kg ha-l site-year-seasons.
+2.2.2. Maize experimental data
+Data on maize yield and phenology (dates of silking and physiolo-
+gical maturity) were available from on-farm (NPK) fertilizer trials
+conducted for hybrid maize across major producing regions in
+Indonesia during 2004-2007 (Table 1, Fig. 1). In each region, on-farm
+experiments were conducted in at least five farmer fields, totaling 59
+site-year combinations. Additionally, we used data from a replicated N
+fertilizer experiment conducted during the dry season in 2005, 2006,
+2008 and 2009 at the Indonesian Cereal Research Institute at Maros,
+South Sulawesi. Hybrids varied across experiments but represented
+commercially available modern hybrids grown across Indonesia, in-
+cluding Pioneer 21, Pioneer 12, Bisi 2, and Bima 1. Soil and agronomic
+data were collected for each field and treatment. Experiments were
+scouted every 11-13 days to determine phenological stage. Grain yield
+was determined from 1 to 2 samples taken from the center of each plot
+after physiological maturity. All yields reported here correspond to
+grain yield (without cob) at 15.5% grain moisture content. Detailed
+description of these experiments can be found elsewhere (Witt et al.,
+2006; Pasuquin et al., 2012, 2014).
+On-farm fertilizer trials included the following treatment plots: (i)
+European Journal of Agronomy 101 (2018) 10-19
+omission plots to which no fertilizer N, P, or K were applied, (ii) fully
+(NPK) fertilized plot that received 150-200 N ha 35-52 P
+and 75-100 K ha (iii) a site-specific nutrient management
+(SSNM) treatment, and (iv) a farmer fertilizer practice (FFP) treatment,
+in which farmers made all decisions in regards with crop and fertilizer
+management practices without interference from researchers.
+Treatment plots were managed to ameliorate incidence of other yield-
+limiting factors, which included changes in plant density, manure or
+lime application, and better control of weed, insect pests, and diseases.
+Fields were rainfed or irrigated depending on the dominant water re-
+gime at each location. Experiments conducted in South Sulawesi during
+2005, 2006, 2008, and 2009 followed a split plot design, with four
+replicates. Main plots correspond to different N fertilizer amounts (0,
+75, 150, and 225 and subplots to different combinations of
+number and timing of splits dressings. Experiment conducted during
+2006 had also two plant populations (7.3 and Large rates (kg
+of fertilizer P (17) and K fertilizer (90-125) were applied to
+ensure that P and K were not limiting. Plots were irrigated as necessary
+to maintain adequate soil moisture during the entire crop season and
+We followed two steps for calibrating and evaluating ORYZA and
+Hybrid Maize in Indonesia: (i) calibration of phenological (Hybrid
+Maize and ORYZA) and growth-related (ORYZA) parameters, and (ii)
+evaluation of calibrated models by comparison of simulated yields
+versus highest observed yields in variety and fertilizer trials. We cali-
+brated model parameters for Inpari 32 (rice) and Pioneer 21 (maize)
+because these two cultivars were included in the majority of site-years
+included in the database. These are commercial, broadly adapted cul-
+tivars, with good pest resistance and 90-130 days growth duration, and
+widely grown across all major rice and maize producing areas in
+Indonesia. We did not attempt to calibrate coefficients for hybrid rice as
+current adoption is still very low 1% of harvested rice area in
+Indonesia). Model simulations assumed non-water limited conditions
+for simulation of Yp for irrigated rice and maize, while water limitation
+was accounted for in the simulation of Yw for rainfed maize, irrespec-
+tive if crops were grown during the dry or wet seasons. Yp is expected to
+be higher in the dry versus wet season due to higher solar radiation
+levels, while Yw is typically higher during the wet season as a result of
+abundant in-season precipitation. In all cases, simulations assumed no
+nutrient limitations and no yield reductions due to biotic factors such as
+In the case of rice, we used data from the high-density treatment in
+the HY experiments (yield range: 7.8-10 Mg to calibrate pheno-
+logical and growth-related coefficients for Inpari 32. In the case of
+Hybrid Maize, it only requires calibration of GDD from emergence to
+physiological maturity. We used data from the treatment that received
+the largest N fertilizer application (ca. 225 in the N-fertilizer
+experiment (yield range: 12-14.4 to derive the GDD for
+Pioneer 21 and also to evaluate the robustness of Hybrid Maize generic
+growth coefficients at simulating the observed yields. In both (HY and
+N-fertilizer) experiments, crops were maintained fully irrigated during
+the entire crop season and received management practices that were
+For ORYZA, we calibrated the model on 'experiment' mode in order
+to reproduce the observed values. Two optimization programs (DRATES
+and PARAM) were used for calibrating model ORYZA coefficients re-
+lated with phenology and crop growth (Li et al., 2017). Subsequently,
+the AutoCalibration tool was iterated ca. 7000 times to minimize de-
+viation between simulated outputs and observed values and derive the
+final values for the coefficients. Following previous studies on rice
+modelling (Bouman et al., 2001; Li et al., 2016; Yuan et al., 2017),
+crops were kept free of weed, diseases, and insect pests.
+2.3. Approach to calibrate and evaluate crop models in Indonesia
+insect pests, weeds, and diseases.
+2.3.1. Model calibration
+conducive for expression of Yp.
+13

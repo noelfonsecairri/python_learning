@@ -1,0 +1,111 @@
+Dhakarey et al.
+or greater (2-fold more) was used as a criterion for comparative
+abundance of the protein in one genotype. Conversely, proteins
+having log ratios lower than 1.0 (2-fold less) were considered
+comparatively less abundant.
+Quantitative Reverse Transcriptase PCR
+(qRT-PCR) Analysis of Selected Genes
+Primer3 was used for designing the primers (listed in Table S1)
+and the subsequent procedures related to RNA extraction; cDNA
+synthesis and qRT-PCR were performed as illustrated in Raorane
+et al. (2015b). OsCyclophilin-2 was employed as the housekeeping
+gene for all the qRT-PCR analysis (Pabuayon et al., 2016).
+Quantification of Endogenous ABA and
+Jasmonate Levels in Shoot and Root
+Samples
+ABA and jasmonates were quantified from shoot and root
+samples as described by Balcke et al. (2012). In brief, about
+50 mg of frozen plant material was homogenized and extracted
+with 500 ul pure methanol supplied with [2H6] ABA, [2H5]
+OPDA, [2H6] JA, and [2H2] JA-Ile (50 ng each) as internal
+standards. After centrifugation, the supernatant was diluted with
+9 volumes of water and subjected to solid phase extraction on
+HR-XC (Chromabond, Macherey-Nagel) column. Elution was
+done with 900 ul acetonitrile. Ten micro liter of the eluate was
+subjected to ultra-performance liquid chromatography-tandem
+mass spectrometry (UPLC-MS/MS) according to Balcke et al.
+(2012). The contents of ABA, OPDA, JA, and JA-Ile were
+calculated using the ratio of analyte and internal standard peak
+heights.
+Root Cell Wall Monosaccharides and
+Hydroxycinnamic Acids Analysis
+Sampling material grown at the IRRI greenhouses (for targeted
+metabolite analysis) was used for these measurements. Further
+milling of the frozen root samples was done to <0.5 mm (IKA
+mill or porcelain mortar with dry ice). Milled samples were
+stored in the freezer (-44C) for subsequent monosaccharides
+and hydroxycinnamic acids analyses. Destarched cell wall
+material was isolated and purified (digestion with thermostable
+a-amylase and amyloglucosidase and precipitation of non-
+starch polysaccharides in 80% ethanol). Ester-linked oligo-
+ferulates (dimers and trimers) were quantified in the destarched
+cell wall material following alkaline hydrolysis NaOH,
+18h), acidification, extraction with diethyl ether, and LC-ESI-
+MS/MS separation and detection (negative ionization with triple-
+quadrupole mass analyzer). Internal standard quantification
+was performed using 5-5-methyl-diferulic acid. Ester-linked
+monomeric trans-ferulic and trans-p-coumaric acids (FA and
+pCA respectively) were also determined in the alkaline
+hydrolysates, but were detected and quantified via external curves
+using an inline UV detector (320 and 307 nm detection wave
+lengths for trans-ferulic and trans-p-coumaric acids respectively)
+coupled to the LC-MS/MS system. Monosaccharide analysis
+of the destarched cell wall material was performed after
+sulfuric acid hydrolysis using high-performance anion-exchange
+Frontiers in Plant Science www.frontiersin.org
+Rice JA and Drought Tolerance
+November 2017 Volume 8 Article 1903
+chromatography with pulsed amperometric detection (HPAEC-
+PAD) as described in Schafer et al. (2016).
+Histology of Root Tissue
+WT and cpm2 seedlings were grown in a phytochamber
+(BBC York, Mannheim, Germany) as described above. Root
+samples were harvested for control and severe stress (SMC
+15%) treatments. Using a hand microtome, thin sections of 25-
+30 um thickness were taken from the center of basal and axial
+ends of roots from WT and cpm2 plants grown normally and
+under drought stress conditions. Sections were stained in 1%
+(w/v) phloroglucinol in 18% hydrochloric acid (HC1), mounted
+with water on a glass slide and observed using an Axioskop
+microscope (Zeiss GmbH, Jena, Germany) equipped with a 20x
+objective. Pictures were taken using a CCD camera (AxioCam,
+Zeiss) attached to the microscope.
+Statistical Analysis
+Representation of individual plants of a genotype within
+each sample and the number of replicates for each
+analysis/measurement are given in the figure legends. Student's
+t-test was performed for testing the statistical significance of the
+calculated mean values, with a significance level of P 0.05 and
+subsequent graphs were plotted using GraphPad Prism version
+7 (GraphPad Software, La Jolla California USA). The ASReml
+script was used as a repeated measures analysis across all dates
+for WUE using 3.3.1 (R Core Team, 2016). The underlying
+statistical model was WUE~Treatment Genotype DAS.
+RESULTS
+Increased Adaptive Response of cpm2
+Morpho-Physiology to Drought
+cpm2 and WT plants raised for 4 weeks were subjected to drought
+stress. After withholding water for 2 days, response to drought
+became apparent in the WT plants through leaf rolling, mainly
+in the upper reaches of the leaves, despite apparently stronger
+culms, compared to cpm2 (Figures S2A,B). At the end of day
+four, WT leaves developed symptoms of wilting In contrast the
+upper reaches of the cpm2 leaves remained open and appeared
+turgescent while still the well-developed culm of the WT gave
+the impression of a stronger plant (Figures S2C,D). These initial
+results obtained with plants in the phytochamber were further
+confirmed by greenhouse studies in tropical latitudes.
+The apparent adaptation of cpm2 to drought was borne out
+by other parameters. For example, the cpm2 plants had a higher
+water use efficiency (WUE) before drought stress was initiated as
+compared to WT (0.23 unit higher in cpm2 in ASReml). However,
+with progressive drought stress, WUE in cpm2 plants was even
+higher than in those of WT (0.28 units higher in cpm2 in ASReml)
+and the difference increased persistently till day 14 after the onset
+of drought (Figure 1). Consistently, the p-value for the genotype
+effect became lower under drought conditions as well.
+Additionally, in 4 weeks old plants, similar stomatal
+conductance was observed for cpm2 and WT plants under
+control conditions (Figure 2 2A). However, under drought
+condition, the overall stomatal conductance in cpm2 showed less
+4

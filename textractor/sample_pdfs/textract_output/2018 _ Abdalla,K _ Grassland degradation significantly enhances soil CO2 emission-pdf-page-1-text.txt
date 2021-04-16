@@ -1,0 +1,76 @@
+Catena 167 (2018) 284-292
+Contents lists available at ScienceDirect
+CATENA
+HYDROLOGY
+GEOMORPHOLOGY
+GEDECOLOGY AND LANDSCAPE EVO
+Catena
+ELSEVIER
+journal homepage: www.elsevier.com/locatelcaten
+Grassland degradation significantly enhances soil CO2 emission
+Check for
+updates
+Khatab Abdallaa,b
+Macdex Mutema, Pauline Chivengea,d Colin
+Eversona,e
+Vincent
+Chaplota,f,
+a School of Agricultural, Earth & Environmental Sciences, CWRR, Rabie Saunders Building, University of KwaZulu-Natal, Scottsville 3209, South Africa
+b Environment, Natural Resources and Desertification Research Institute, National Centre for Research, P.O. Box 6096, Khartoum, Sudan
+C Agricultural Research Council-Agricultural Engineering, PB X519, Silverton 0127, Pretoria, South Africa
+d International Rice Research Institute (IRRI, DAPO Box 7777, Metro Manila 1301, Philippines
+e SAEON, Grasslands-Wetlands-Forests Node, 1 Peter Brown Drive, Queen Elizabeth Park, Montrose, Pietermaritzburg 3201, South Africa
+f Institut de Recherche pour le Developpement (IRD), Laboratoire d'Oceanographie et du Climat (LOCEAN), UMR 6159 CNRS/IRD/UPMC/MNHN, 4, place Jussieu,
+75252 Paris Cedex 05, France
+N O
+ABSTRACT
+Keywords:
+Grassland degradation reduces net primary production and, subsequently, soil fertility and soil organic carbon stocks
+Grassland management
+(SOCs); however, little is known about its impact on soil CO2 emissions, particularly the emissions relative to SOCs
+Soil respiration
+and biomass produced. The main objective of this study, performed in KwaZulu-Natal province of South Africa, was
+Carbon output
+to quantify the impact of grass basal cover, as main indicator of grassland degradation, on soil CO2 emissions. The soil
+Climate change
+CO2 emissions were measured from three grass cover levels (non-degraded, with 100% grass cover; moderately
+degraded: 25 < grass cover < 50%; and highly degraded: 0 < grass cover < 5%) using a LI-COR 6400XT. The
+measurements were done at three randomly selected positions in each grass cover level, from January 2013 to April
+2015. At each position, measurements were done once during winter months and twice during summer months,
+resulting in a total of 1053 measurements for the entire study period. The measured average gross soil CO2 emission
+was significantly higher (1.78 + day- in non-degraded than moderately (1.60 + 0.12g CO2-
+Cm and highly degraded grasslands (0.68 + However, when expressed re-
+lative to SOCs and aboveground biomass produced, the trends were opposite. Average soil CO2 emission relative to
+SOCs was lowest in the non-degraded grassland (0.034 + 0.01 and highest in the moderately
+degraded grassland (0.058 + 0.02 with the highly degraded grassland being intermediate
+(0.04 -+ CO2 day Similarly, soil CO2 emission relative to aboveground biomass produced was lowest
+in the non-degraded grassland at 0.15 + biomass year which was almost 5 fold lower than
+0.73 + 0.01 biomass in the highly degraded grassland. Gross soil CO2 emission correlated
+significantly and positively with SOC (r - 0.83 and 0.82 for SOC content and stocks, respectively), SON (0.67 and
+0.53 for content and stocks, respectively), C:N ration (0.62), and soil water content (0.75) but negatively with clay
+content -0.89). Soil CO2 emission relative to SOCs correlated significantly and negatively with both SOC -0.50
+and -0.51 for content and stocks, respectively) and SON (-0.45 and - 0.42 for content and stocks, respectively).
+While gross CO2 emissions decreased with grassland degradation, CO2 emission relative to both SOCs and above-
+ground biomass increased with grassland degradation. These results point to direct links between grassland de-
+gradation and global warming because CO2 is one of the key greenhouse gases. Therefore, strategies for rehabilitating
+degraded grasslands need to aim at reducing soil CO2 emission in order to mitigate climate change.
+1. Introduction
+produce food and fodder (FAO, 1979), is generally attributed to human
+activities, especially changes in land use and/or land mismanagement
+The increasing atmospheric greenhouse gas concentration, due to
+(Shang and Long, 2007; Gang et al., 2014; Fassnacht et al., 2015).
+anthropogenic disturbances, is a matter of great concern. Grasslands
+Approximately 50% of global grasslands are reportedly already de-
+play a crucial role in the global carbon (C) cycle as they cover 40% of
+graded (Gang et al., 14).Grassland degradation, generally regarded a
+the world surface area and store about 10% of the soil C stock of
+reduction in soil basal cover, has well-known negative consequences on
+2400 Pg (1 Pg - 1015 8 - 1 billion tons) (Suttie et al. 2005). Land de-
+grass production and biodiversity (UNEP, 2007; Dong et al. 2012). The
+gradation, defined as a process which lowers the capability of soils to
+reduction in soil basal cover results in significantly lower soil
+are Corresponding authors at: School of Agricultural, Earth & Environmental Sciences, CWRR, Rabie Saunders Building, University of KwaZulu-Natal Scottsville 3209, South Africa.
+E-mail addresses: khatab.hassan58@gmail.com (K. Abdalla), vincent.chaplot@ird.fr (V. Chaplot).
+https://doi.org/10.1016/j.catena.2018.05.010
+Received 23 May 2017; Received in revised form 10 April 2018; Accepted 10 May 2018
+0341-8162/ 2018 Elsevier B.V. All rights reserved.

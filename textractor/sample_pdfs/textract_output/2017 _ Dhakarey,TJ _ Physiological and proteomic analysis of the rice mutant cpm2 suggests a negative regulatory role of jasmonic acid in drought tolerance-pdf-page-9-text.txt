@@ -1,0 +1,88 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+A
+Membrane
+B
+4.
+3
+Linolenicac
+2.
+13(S) (S)-Hydroperoxylinolenicacid
+1
+0
+control
+moderate
+severe
+13,13(S) 13(S)-Epoxylinolenicacic
+WT 7.52
+AOC
+12-OPDA
+C
+1.5
+cpm2 (1.22)
+OPR7
+WT (0.83)
+-OX0-2-cis-2'-pentyll-cyclopentane-l-octanoicacid
+1.0
+0.5
+-7-iso-jasmonicacid
+0.0
+control
+moderate
+severe
+(+)-7-iso-jasmonoyl-isoleucine
+FIGURE 6 I Effect of drought on enzymes involved in JA biosynthesis and their transcript levels. (A) Overview of the jasmonic acid pathway with log ratios
+(stress/control) for AOC and OPR7protein are shown in boxes, respectively. Transcript abundances of mRNAs encoding (B) AOC and (C) OPR7 protein were analyzed
+at control, moderate and severe drought stress conditions. Wild type (WT) and cpm2 are represented by blue and red bars, respectively. Data represents mean value
+t
+standard error (SE); n = 3. Stars (* and **), denote statistical significance (P < 0.01 and P 0.001), respectively, between the two genotypes in a Student's t-test.
+(He et al., 2009). Glucosinolates act by inducing antioxidative
+(PDC) (Figure 8). G3PD may serve as a direct link relating
+enzymes such as GSTs (Vig et al., 2009). The 3-IPMD was
+energy metabolism, membrane lipid-based signaling and control
+classified as an antioxidant upregulated by JA (Sasaki-Sekimoto
+of a plant's growth in response to ROS and water stress
+et al., 2005) Yet it is present in larger amount in cpm2 which lacks
+(Guo et al., 2012). TPI is reported to participate in plant
+JA. Amongst the redox category, non-symbiotic hemoglobin2
+stress response and under drought stress, its expression is
+(nSHb2) was the only protein reported to be less abundant in
+also induced in maize (Riccardi et al., 1998). Being the first
+cpm2 (Figure 8). Limited information is available about this
+and key participating enzyme during ethanolic fermentation,
+class of protein or its probable function under abiotic stress,
+pyruvate decarboxylase (PDC) splits the main glycolytic pathway
+but it is known to be upregulated under hypoxia in plant roots
+at pyruvate (Zabalza et al., 2009). Ethanolic fermentation is
+(Riquelme and Hinrichsen, 2015). A positive correlation was
+reported to occur not only under anaerobic conditions but also
+established between nSHb2 and the amount of w-3 a-linolenic
+under stress conditions (Chen and Han, 2011) Similarly, some
+acid, a precursor of JA, in the Arabidopsis seeds (Vigeolas et al.,
+protein catabolism-related enzymes specific to proteasomes, such
+2011) It cannot be said at this stage if the lack of JA in cpm2 was
+as, the threonine proteases T1-family peptidases, were more
+a reason for reduced levels of nSHb2 under drought.
+abundant in cpm2 (Figure 8). Increased proteasome activity
+under stress is related to degradation of oxidized proteins, thus
+DAPs in Energy-Generating Carbon/Nitrogen
+contributing to tolerance of oxidative stress (Kurepa et al., 2009).
+Catabolism Indicates Higher Resource Mobilization
+Protein degradation feeds into a favorable nitrogen status of the
+in cpm2
+roots under drought (Kohli et al., 2012). A favorable nitrogen
+Glycolysis is a major metabolic pathway participating in
+status of cpm2 under drought was also supported by more
+carbohydrate metabolism, and drought stress triggers altered
+abundance of Glutamine Synthetase (Figure 8). Serving as the
+amino acid and sugar contents (Raorane et al., 2015b,a). In
+first enzyme in the nitrogen assimilatory pathway, GS is known
+cpm2, three DAPs related to carbon catabolism were more
+to regulate nitrogen metabolism and plant productivity (Lea
+abundant; triose phosphate isomerase (TPI), glyceraldehyde 3-
+and Miflin, 2011) and has been shown to be upregulated at
+phosphate dehydrogenase (G3PD) and pyruvate decarboxylase
+the transcript and protein level under drought in rice (Raorane
+Frontiers in Plant Science www.frontiersin.org
+9
+November 2017 Volume 8 Article 1903

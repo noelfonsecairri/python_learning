@@ -1,0 +1,83 @@
+Global Food Security 16 (2018) 127-132
+Contents lists available at ScienceDirect
+Global Food Security
+journal homepage: www.elsevier.com/locatelgfs
+Food security and the environment: Interdisciplinary research to increase
+Global food insecurity is increasing in absolute terms despite recent decreases in percentage terms. Options to
+increase food production while protecting the environment exclude further expansion of cropland, leaving in-
+creased agricultural productivity as an option assuming we address its associated technological and societal
+challenges while exercising environmental conservation. Improving productivity requires redoubled efforts in
+interdisciplinary work to design and implement sound agricultural management practices and efficient use of
+inputs. Based on a historical perspective of the last few decades on hypothesized environmental limits to food
+production and looking at prospective futures, we analyze the required type of interdisciplinary research to
+improve productivity. We conclude that bringing together increased food supply and environmental conserva-
+tion requires research that integrates engineering, technology, science, policy, and action.
+Food Security (CFS), the International Water Management Institute
+(IWMI), and the Cereal Systems Initiative for South Asia (CSISA).
+Global climate change compounds some of these impediments to im-
+prove food security and ID approaches to study climate change have
+become relevant (Ziervogel and Ericksen, 2010).
+Societies may not expand cropland without significant environ-
+mental risks, leaving increased productivity as the major avenue to
+increase food production, which demands ID research (IDR) (Acevedo,
+2011). In this paper, we provide a historical perspective of the last few
+decades on environmental limits to food production. While acknowl-
+edging the progress made due to the Green Revolution, we look at
+prospective futures, to realize that the type of IDR required should in-
+tegrate technology, science, policy, and action. In particular, we ad-
+vocate more use of the capabilities of qualitative social sciences in order
+to address the multiplicity of human factors that may impede im-
+provement in food production and more generally in food security.
+Our analysis relates to worldwide food production and environ-
+mental quality, but we focus on those regions where there is large need
+to increase the number of people with access to food which in many
+cases coincide with those regions where food production and environ-
+mental quality are in greatest need of reconciliation.
+Corresponding author at: Electrical Engineering Dept. and Advanced Environmental Research Institute, University of North Texas, Denton, TX 76203, United States.
+E-mail addresses: acevedo@unt.edu (M.F. Acevedo), david.harvey@ncl.ac.uk (D.R. Harvey), florenciagpalis@gmail.com (F.G. Palis).
+ELSEVIER
+productivity while exercising environmental conservation
+Miguel F. Acevedoa,b,
+a Electrical Engineering Dept. and Advanced Environmental Research Institute, University of North Texas, Denton, TX 76203, United States
+b Center for Simulation and Modeling (CESIMO), Universidad de Los Andes, Merida, Venezuela
+C School of Agriculture, Food and Rural Development, The University of Newcastle upon Tyne, NE1 7RU UK
+d Department of Social Sciences, University of the Philippines at Los Banos, College, Laguna, Philippines
+e International Rice Research Institute (IRRI), Los Banos, Laguna, Philippines
+C O
+Keywords:
+Food security
+Production
+Productivity
+Environment
+Interdisciplinary
+Technology
+Social science
+1. Introduction
+There are -800 million undernourished people in the world (~11%
+of the population), an improvement in the last decade that meets the
+First Millennium Development Goal of halving the proportion of people
+who suffer from hunger by 2015 (FAO et al., 2015) (Fig. 1). The world
+2015 Global Hunger Index (GHI) improved by 27% relative to 2000
+(von Grebmer et al., 2015). This is a consistent trend; according to the
+United Nations (UN) the proportion of undernourished people de-
+creased from 20% to 16% in the previous decade (UN, 2010).
+The Food and Agriculture Organization (FAO) considers four di-
+mensions of food security: food availability, food access, utilization,
+and stability (FAO, 2006). In this paper, we focus on food availability
+and in particular food production and its limiting factors related to
+environmental conditions (e.g., climate, water, soils) and human re-
+lated factors - such as lack of infrastructure (e.g., irrigation, roads, and
+food storage), lack of agro-bio-technology (e.g., seeds of water-efficient
+crops), and inadequate socio-political systems (e.g., fair trade, food
+justice, governance, and policy).
+Several institutions sustain interdisciplinary (ID) research teams to
+examine impediments to food production; for instance, FAO, the
+International Food Policy Research Institute (IFPRI), the UN World
+Food Programme (WFP), the World Bank, the UN Committee on World
+https://doi.org/10.1016/j.gfs.2018.01.001
+Received 10 March 2017; Received in revised form 2 January 2018; Accepted 2 January 2018
+2211-9124/ 2018 Elsevier B.V. All rights reserved.
+Check for
+updates
+David R. Harvey, Florencia G. Palisd,
+ABSTRACT A B A

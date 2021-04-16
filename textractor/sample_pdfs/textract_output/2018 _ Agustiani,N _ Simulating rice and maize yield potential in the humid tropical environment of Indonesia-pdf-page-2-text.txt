@@ -1,0 +1,128 @@
+N. Agustiani et al.
+European Journal of Agronomy 101 (2018) 10-19
+management practices on crop growth, development, and yield
+Hybrid Maize) for modern rice and maize cultivars and to evaluate the
+(Grassini et al., 2015; Rotter et al., 2015).
+calibrated models on their ability to estimate yield potential for major
+Multiple rice and/or maize cropS are often grown on the same piece
+rice-maize cropping systems in Indonesia.
+of land within a 12-month period in the humid tropical environment of
+South East Asia (Pasuquin et al., 2014). For example, up to three crops
+2. Materials and methods
+per year can be grown in irrigated and favorable rainfed environments
+of Indonesia. Due to a combination of high cropping intensity and large
+2.1. ORYZA and Hybrid Maize models
+arable land, Indonesia is the third and fifth largest rice and maize
+producing country in the globe, respectively (FAOSTAT, 2017). Still,
+ORYZA is a crop model that simulates rice growth and development
+Indonesia has imported substantial amounts of maize and rice grain
+(Kropff et al., 1993; Bouman et al., 2001; Li et al., 2017). Briefly, the
+during recent decades. At the same time, there has been massive
+model simulates CO2 assimilation and respiration on a daily basis. Daily
+cropland conversion for industrial and residentia uses (d'Amour et al.,
+net carbon assimilation is estimated by difference and allocated to
+2017). Hence, it is crucial for Indonesia, as well as other countries in
+roots, stems, leaves, and panicles, with partitioning coefficients de-
+South East Asia, to understand what the extra crop production potential
+pendent upon developmental stage. For simulating Yp, ORYZA assumes
+is on existing cropland and identify those factors that constrain on-farm
+no limitations by water and nutrients and an absence of insect pests,
+yields. Few studies have attempted to estimate rice and, in particular,
+weeds, and diseases. ORYZA has been used to simulate Yp across major
+maize Yp and Yw in Indonesia using crop simulation models (Boling
+rice producing areas in the world (e.g., Espe et al., 2016; Guilpart et al.,
+et al., 2004, 2007, 2008; Timsina et al., 2011; Laborte et al., 2012;
+2017a,b; Stuart et al., 2016; Yuan et al., 2017). The latest version of
+Pasuquin et al., 2014; Stuart et al., 2016). These previous attempts
+ORYZA (ORYZA V3) has been released recently, with an improved
+suffered from limitations and/or sources of uncertainty. First, most of
+capability to simulate rice growth and yield across a wide range of
+these studies have focused at estimating Yp (or Yw) using models that
+environments (Li et al., 2017). ORYZA requires calibration of six
+were calibrated for individual site-years; hence, it is unknown how
+coefficients to account for cultivar differences in phenology: develop-
+robust these models are at estimating Yp (or Yw) across Indonesia's
+ment rates for juvenile (DVRJ), photoperiod-sensitive (DVRI), panicle
+wide range of environments and cropping systems. Second, previous
+development (DVRP), and reproductive phases (DVRR), photoperiod
+studies have relied on coarse-scale gridded and/or generated weather
+sensitivity, and maximum optimum photoperiod. Another set of coef-
+data, which can lead to important biases in simulated Yp and Yw (van
+ficients related to dry matter partitioning at different crop stages also
+Wart et al., 2013, 2015). Finally, many of these studies have used
+requires calibration. Consequently, calibrating ORYZA for a given
+generic model coefficients derived from outdated cultivars that are not
+variety requires detailed experimental data (dates of heading, anthesis,
+representative of modern high-yielding cultivars and/or from experi-
+and physiological maturity, leaf area index [LAI], and dry matter pro-
+ments that did not reach near-optimal conditions for crop growth,
+duction and partitioning), management practices (plant density and
+which may have led to an underestimation of Yp (or Yw). For example,
+dates of sowing and transplanting), and daily weather data, including
+Boling et al. (2004, 2007, 2008) reported Yp of ca. 4.5 Mg for
+solar radiation and maximum (Tmax) and minimum temperature (Tmin).
+irrigated rice in Central Java. We note that this estimate of Yp is lower
+'Hybrid Maize' simulates maize growth and development for rainfed
+than current average farmer yield in the same region (ca. 5 Mg ha-l and
+and irrigated conditions (Yang et al., 2004, 2017). Hybrid Maize is si-
+the Yp of ca. 9-10 ha expected for irrigated rice in South East Asia
+milar in structure to ORYZA, but only requires a single genotype-spe-
+(Kropff et al., 1996; Peng et al., 1999).
+cific input parameter: growing-degree days (GDD) from crop emergence
+Robust calibration and evaluation of crop models requires experi-
+until the crop reaches physiological maturity. All other parameters
+mental data from crops grown under near-optimal conditions that allow
+governing photosynthesis, respiration, leaf area expansion, light inter-
+expression of Yp (irrigated) and Yw (rainfed crops), including crop
+ception, biomass partitioning, and grain filling are considered to be
+variables (yield, phenology, etc.) and weather, soil, and management
+stable across modern maize hybrids. For estimating Yw in rainfed crops,
+data needed to simulate site-year specific conditions. However, it is
+Hybrid Maize accounts for water supply amount and distribution as
+difficult to ensure near-optimal growing conditions, even in controlled
+well as soil properties influencing crop water availability such as soil
+experimental plots, due to the multitude of factors influencing crop
+texture, soil depth, and field slope. The model has been satisfactorily
+growth and the difficulties in removing every single limiting factor
+evaluated on its ability to reproduce observed yields in well-managed
+across space and time (Cassman et al., 2003). These limiting factors
+experiments that portrayed a wide range of rainfed and irrigated en-
+include (i) incidence of insect pests and pathogens, which are especially
+vironments, with yield ranging from near crop failure to 18 Mg ha
+problematic in the humid tropics, (ii) insufficient supply of water (in
+(Grassini et al., 2009; Yang et al., 2017). Hybrid Maize has been used
+the case of irrigated crops) and plant nutrients, and (iii) sub-optimal
+across many countries with diverse climate and soils to estimate Yp,
+management in relation with transplanting, sowing date, plant density,
+Yw, and yield gaps, determine yield goals to estimate nutrient re-
+etc. (Lu et al., 2007; Laborte et al., 2012; GRiSP, 2013; Buresh et al.,
+quirements, and evaluate management options (Witt et al., 2006;
+2015; Castex et al., 2018; Stuart et al., 2016). Likewise, it is difficult to
+Timsina et al., 2010, 2011; Grassini et al., 2011; Setiyono et al., 2011;
+access high-quality measured weather and soil data in many regions of
+Chen et al., 2011, 2013; Meng et al., 2013; Schulthess et al., 2013; van
+the world, which is needed to conduct site-specific simulations of Yp
+Ittersum et al., 2016). However, an explicit evaluation of Hybrid
+and Yw (Grassini et al., 2015). Due to lack of data, many studies have
+Maize's ability to reproduce Yp and Yw of maize in the humid tropics is
+relied on coarse-scale or poor quality weather and soil data for model
+lacking.
+calibration and evaluation, which, as mentioned previously, can ser-
+iously distort resulting Yp and Yw estimates (Van Wart et al., 2013,
+2.2. Databases for model calibration and evaluation
+2015). We are not aware of any explicit effort to calibrate and evaluate
+crop models for modern high-yielding rice and maize cultivars in In-
+2.2.1. Rice experimental data
+donesia using data collected from well-managed experiments coupled
+with high-quality on-site weather and soil data.
+Two sources of experimental data were used for rice: (i) high-yield
+(HY) experiments conducted by the Indonesian Center for Rice
+The present study made a first step towards a better estimation of Yp
+Research (ICRR) and (ii) ICRR's multi-location cultivar evaluation
+and Yw in intensive rice- and maize-based cropping systems in tropical
+humid environments using high-quality experimental data from
+modern high-yield cultivars and measured weather data and soil
+2 Yield gap is defined as the difference between Yp for irrigated crops (or Yw
+properties. Our objective was to calibrate two crop models (ORYZA and
+for rainfed crops) and average farmer yield (van Ittersum et al., 2013).
+11

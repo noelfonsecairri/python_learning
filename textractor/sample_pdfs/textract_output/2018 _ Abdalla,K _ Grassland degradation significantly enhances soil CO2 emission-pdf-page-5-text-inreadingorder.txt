@@ -1,0 +1,163 @@
+K. Abdalla et al.
+Table 2
+Coefficients of determination (r) between gross soil CO2 emission (g CO2-C m and soil CO2 emission relative to soil carbon stocks CO2-Cg
+multiple factors: soil organic carbon content and stocks (SOCc and SOCs), soil organic nitrogen content and stocks (SONc and SONs), carbon: nitrogen ratio (C:N), soil
+bulk density (pb), clay content, soil water content (SWC), soil temperature (ST) and aboveground biomass (AGB).
+CO2-C m-2
+CO2-Cg-1c
+Statistically significant determinants at P < 0.05.
+highest in non-degraded grassland soils and least in highly degraded
+grassland soils (Fig. 4A-B). The non-degraded grassland SOCs were
+176% higher than in moderately degraded grassland, and 754%
+higher than in highly degraded grassland (Fig. 4A). The SOCc also
+decreased with increasing grassland degradation, in the following
+order; non-degraded (15.72 + moderately degraded
+(5.69 + 0.66 > highly degraded (1.84 +
+(Fig. 4B).
+Soil organic nitrogen stocks (SONs) and content (SONc) followed a
+similar behaviour by decreasing from non-degraded to highly degraded
+grassland (Fig. 4C-D). The non-degraded grassland SONs were 167%
+higher than highly degraded grassland (Fig. 4C). The SONc decreased
+sharply from non-degraded to moderately degraded grassland before
+decreasing further in the highly degraded grassland; however, there
+was no significant difference between moderately and highly degraded
+grasslands (Fig. 4D).
+3.2.2. Soil bulk density and clay content
+Soil bulk density tended to increase with grassland degradation,
+from an average of 1.3 cm in non-degraded grassland to 1.5 cm
+in highly degraded grassland (Fig. 4E). However, there was no sig-
+nificant difference between moderately and highly degraded grass-
+lands. It was interesting that topsoil (0-0.05m clay content increased
+with grassland degradation (Fig. 4F), meaning that the topsoil clay
+content increased in an upslope direction. Non-degraded grassland clay
+content was 36 and 59% lower than moderately and highly degraded
+grasslands, respectively.
+3.2.3. Soil water content and temperature
+Overall, average topsoil water content was highest in non-degraded
+and lowest in highly degraded grassland (Fig. 5A), implying lower
+water retention with lower vegetation cover. However, there was no
+significant difference between non-degraded and moderately degraded
+grasslands. The overall mean topsoil temperature was highest in mod-
+erately degraded grassland (25.8'C and lowest in highly degraded
+grassland (21.89 (Fig. 5B). There was also no significant difference
+between non-degraded and moderately degraded grasslands. The tem-
+poral evolution of soil temperature changed markedly over time
+(Fig. 6). The lowest temperature amongst the degradations levels was
+observed in July of 2013 and 2014, in highly degraded grassland,
+and the maximum temperature was 45 observed in February 2015, in
+moderately degraded grassland.
+Table 3
+Repeated-measures ANOVA for the effects of grassland degradation, date of CO2
+sampling and their interaction on CO2 flux.
+Source of variation
+Degradation
+Time
+Degradation Time
+DF: degree of freedom.
+Catena 167 (2018) 284-292
+from
+soils
+and
+ST
+AGB
+-0.12
+0.37
+0.22
+0.00
+a
+HD
+SOCc
+SOCs
+0.83
+0.82
+-0.50a
+-0.51a
+DF
+P
+2
+39
+78
+SONc
+0.67
+0.62
+-0.45
+-0.29
+3.2.4. Aboveground biomass production
+degradation intensities during the study period are shown in Fig. 7. As
+expected, non-degraded grassland had the highest biomass production
+of 3.28 + year which was 55 and 81% higher than for
+moderately and highly degraded grassland, respectively. This result was
+consistent with trend in soil water content (Fig. 5A) and implied greater
+soil fertility in non-degraded than the moderately and highly degraded
+grassland sites.
+3.3. Controls of soil CO2 emissions
+and stocks (r = 0.83 and 0.82, respectively) (Table 2). Soil organic
+nitrogen (r = 0.67 and 0.53 for SONc and SONs, respectively) and
+water content (0.75) showed strongly positive correlations with gross
+soil CO2 emission as well. However, gross CO2 emission decreased
+significantly with clay content (-0.89). On the other hand, soil CO2
+emission relative to SOCs decreased with both SOCc (r - 0.50), SOCs
+-0.51), SONc (-0.45) and SONs (-0.42). The repeated ANOVA re-
+sults indicated that grasslands degradation level, date of CO2 mea-
+surement and the interactions between them also had highly significant
+effects (P < 0.001) on the soil CO2 emissions (Table 3).
+the dataset (Fig. 8A). Axis 1, which described 44% of the variance, was
+positively correlated to SOCc, SOCs, SONc, C:N ratio and SONs
+(Fig.8A). Axis 2, describing 33% of the variation in data was negatively
+correlated with clay content and positively correlated with soil water
+content, and highly correlates with soil degradation intensity (eroded
+soils show outcropping dense and clayey B horizons). The gross CO2-C
+emissions decreased with decreasing soil degradation. The other PCA
+shows that axis 2 and axis 3 accounted for 56% of the CO2 variation
+MS
+Fig. 3. Cumulative CO2 relative to produced biomass (kg CO2 kg
+0.018
+produced biomass year from non degraded (ND), moderately degraded (D)
+0.010
+and highly degraded (HD) grassland. Error bars represent standard error of the
+0.002
+mean. Different lowercase letters in each production cycle indicates significant
+difference between degradation levels. N = 351.
+SONs
+0.53
+-0.42
+Average annual aboveground biomass for the different grassland
+Gross soil CO2 emissions increased significantly with SOC content
+Axis 1 and 2 of the first PCA explained 77% of the total variation of
+2013-2014
+2014-2015
+day
+0.001
+0.001
+0.001
+C:N
+-0.17
+Grssland degreadation
+pb
+0.02
+Clay
+-0.89
+-0.18
+SWC
+0.75a
+b
+D
+-0.22
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+C
+ND
+MS
+41.80
+11.64
+01.36
+P
+0.001
+0.001
+0.001
+288

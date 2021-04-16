@@ -1,0 +1,97 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+Despite the antagonistic features, cpm2 survived severe
+A
+drought stress better than the WT. Higher stomatal conductance
+as well as higher WUE under drought was noted before in some
+WT
+cpm2
+genotypes of peanuts, where root length density was positively
+correlated to WUE (Songsri et al., 2013). Limiting vegetative
+growth also increases WUE. The cpm2 plants showed reduced
+culm development (Figure S2D), which is also supported by
+lower shoot dry weight under drought in cpm2 (Figure S7).
+351
+443
+341
+Overall, through the aerial morpho-physiologica parameters of
+leaf rolling, WUE, stomatal conductance, and ABA content as
+well as the root architecture of increased branching indicated that
+cpm2 plants had a better potential to tolerate drought.
+Root Proteome-Based Insights into
+Drought Tolerance by cpm2
+A more branched root system as in the case of cpm2 (Figure 4,
+Figure S3) may provide a significant advantage to counter
+B
+drought as seen by cross-validating a near isogenic line (NIL)
+and a transgenic line in field samples of a large-effect QTL for
+yield under drought (Dixit et al., 2015; Raorane et al., 2015a).
+WT
+cpm2
+During drought stress, the root is the primary organ to sense
+water scarcity in drying soil, triggering a cascade of responses at
+morpho-physiological, biochemical, and cellular levels (Sengupta
+et al., 2011) Hence comparative proteomic studies on roots were
+272
+319
+217
+undertaken. Adaptive growth of the cpm2 roots under drought
+was evidently supported through various DAP categories.
+DAPs in ROS Scavenging Enzymes Are More
+Abundant in cpm2
+Two glutathione-S-transferases (GST; OsGSTF2, and
+OsGSTU12) were more abundant in cpm2 (Figure 8) GSTs
+are well known for their role in detoxification of xenobiotics,
+FIGURE 5 Venn diagrams of proteins obtained after TMT (Tandem Mass Tag)
+they also work as antioxidants by tagging and removal of
+analysis. 4, ,194 hits were assigned to unique peptides leading to combined
+oxidative degradation products, especially from fatty acids
+identification of a total of 1,578 proteins in wild type (WT) and cpm2 roots (A)
+and nucleic acids (Moons, 2005). GSTs may also act as
+351 and 341 proteins were uniquely identified in WT and cpm2 roots,
+glutathione peroxidase to directly scavenge peroxides (Frova,
+respectively, while 443 proteins were common to both. (B) Number of proteins
+2003). Also, ascorbate peroxidase (APX) participates in
+quantified were 272 and 217 unique ones in WT and cpm2, respectively, with
+319 common proteins.
+ascorbate-glutathione cycle, and hence is functional in free
+radical detoxification (Cramer et al., 2013). In cpm2, the
+OsAPX7 was also more abundant (Figure 8) Both glutathione
+may be an effect of greater root length and branching in cpm2.
+(GSH) and ascorbate (AsA) are also important non-enzymatic
+Increase in ABA content under drought is known to be related to
+antioxidants for plant defense against oxidative stress (Foyer and
+stomatal closure in leaves, which increases WUE (Gowing et al.,
+Noctor, 2005). In cpm2, some other proteins with antioxidant
+1990; Zhang and Davies, 1990; Gomes et al., 1997). In fact, the
+activities were also more abundant. Under various abiotic and
+different accumulation of ABA in the shoots of the WT and cpm2
+biotic conditions in plants, serine hydroxymethyltransferases
+are in agreement with the differences observed in their stomatal
+reportedly participate in dissipative mechanisms to curtail the
+conductance (Figures 2, 3A). One could anticipate that due to
+production of ROS (Moreno et al., 2005). Their antioxidant
+the high ABA concentration in cpm2 stomatal closure could even
+activity may also be related to the serine-glycine-glutathione
+be more pronounced as we could observe in our measurements.
+synthesis pathway. One serine hydroxymethyltransferase,
+One explanation for this could be that ABA may need interaction
+OsSHMT2, was more abundant in cpm2 (Figure Similarly, a
+with JA to stimulate stomatal closure (Daszkowska-Golec and
+DJ-1 family protein was also more abundant in cpm2 (Figure 8).
+Szarejko, 2013). Since cpm2 lacks JA, the stomata may not
+They are known to possess antioxidant property reportedly
+have been affected to the degree expected despite the increase
+through detoxifying glyoxal/methyl-glyoxal (Ghosh et al., 2016),
+in ABA. One possibility for a limited effect of ABA under the
+and accelerated cell-death is also reported due to their loss of
+lack of JA could be the fact that JA upregulates ABA receptor
+function (Xu et al., 2010). A 3-isopropylmalate dehydrogenase
+genes (Lackman et al., 2011), which could thus be limiting in
+(3-IPMD) was also more abundant in cpm2 (Figure 8). This
+cpm2.
+enzyme is involved in leucine and glucosinolate biosynthesis
+Frontiers in Plant Science www.frontiersin.org
+8
+November 2017 Volume 8 Article
+1903

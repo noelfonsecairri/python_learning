@@ -1,0 +1,115 @@
+Ecology and Society 23(1): 14
+htps:llwvwwecologyandsocietyorglvol23lissllartl4
+used to supplement the results of on-farm evaluation, especially
+baseline assessment stage, which helps to build trust, interest, and
+to estimate the benefits of resilience and mitigation benefits
+common purpose. But it can also lead to "messy" processes, where
+through time In the second step, the final portfolios are evaluated
+external agencies may wish to promote scaling-out processes
+by farmers on a larger scale Crowdsourcing of experiences is used
+prematurely, even while baseline evidence is being collected.
+in order to understand farmers' preferences and technology
+adaptation domains across CSV sites in the region. Due
+RESULTS
+consideration is also given on the identification and evaluation of
+Distribution of climate-smart villages and their climate
+constraints and barriers to adoptions of interventions along with
+representativeness
+ways to overcome them.
+The CCAFS started piloting the CSV AR4D approach in 2012
+Scaling up and scaling out: Once intervention portfolios are
+in Africa (Burkina Faso, Ghana, Mali, Niger, Senegal, Kenya,
+successfully demonstrated, the evidence generated in the CSVs is
+Ethiopia, Tanzania, and Uganda) and South Asia (Bangladesh,
+used to contribute to scaling up and out promising innovations.
+India, and Nepal). In 2014, more projects were established in Latin
+Scaling mechanisms tested across the regions include:
+America (Colombia, Guatemala, Honduras, and Nicaragua) and
+Southeast Asia (Cambodia, Laos, Vietnam, and Philippines).
+Horizontal scaling (scaling out) of climate-smart options:
+Currently, there are 36 CSV sites across the CCAFS's focal regions
+CSVs provide demonstration sites for farmer-to-farmer
+(Fig. 4).
+learning (often through self-help groups or producer
+organizations) and/or enable local promotion of CSA
+The global representativeness of the CSV site network is evaluated
+options through local government plans, programs, and
+using a climate analog tool (Ramirez-Villegas et al. 2011) The
+policies or through private-sector business models.
+similarity between the monthly climates of each CSV with those
+of all other pixels with the same production system was computed
+Vertical scaling (scaling up): CSV research and lessons
+using WorldClim data of precipitation and temperature (Hijmans
+learned provide evidence for the efficacy of practices,
+technologies, services, processes, and institutional options
+et al. 2005). We give equal weight to each parameter and account
+hemispheric differences (Jones and Thornton 2000) Although
+and are thus able to: influence large-scale CSA investment
+temperature and precipitation are not the only climatic drivers,
+plans; promote mainstreaming of institutional changes;
+they do explain much of the variation in agricultural production
+and/or inform policy instruments.
+worldwide (Ray et al. 2015). We then assessed how globally
+Horizontal scaling out is done from farmer to farmer through
+representative the entire set of sites was-each of the 36 CSV sites
+networking using ICT-based tools, farmers' fairs, farmer
+encompasses between three to seven localities for a total of (n
+exchange visits, and participatory videos of the adopted
+249)-b taking the maximum similarity value across all CSVs
+technologies, or through engagement with local government
+for each pixe (Fig. 5).
+institutions. Connecting with women's organizations is another
+A substantial part of the global tropics and subtropics are highly
+effective scaling-out approach. Institutional and financial needs
+representative, especially across the Sahel and South and
+are determined, for both local and national (or subnational)
+Southeast Asia (Fig. 5). An area of ca. 2 million ha has 80%
+contexts, often using appropriate business models. The potential
+similarity for crops and pastures with ca. 4 and 5 million ha having
+for consolidation and convergence of current agricultural
+60% similarity. The tropical South America sites represent few
+development schemes/plans in the region is explored. For
+other areas. Popayan (Colombia) represents only a limited
+instance, national programs/schemes on water management,
+amount of the highly diverse agricultural landscapes of the Andes
+alternative energy, agricultural extension, and subsidies in
+or of Brazilian agricultura areas. In contrast, the CSVs of Central
+agricultural inputs such as farm machinery, seeds, and fertilizers
+America, which are lower and drier, are more broadly
+can have added value to leverage resources and investments from
+representative.
+different sources into adaptation and mitigation goals, and
+minimize transaction costs and maximize synergies in CSVs.
+Climate change is likely to alter the CSVs' climates, thus
+Consideration of national and regional gender machineries and
+potentially altering their global representativeness. Therefore,
+social development programs also helps to integrate social
+representativeness of current CSV sites under future (2030s)
+inclusion concerns into the CSVs as well as to orient social
+climates was also analyzed using bias-corrected climate change
+development programs to climate change impacts and action.
+projections from the Coupled Model Intercomparison Project
+Phase 5 (CMIP5) ensemble (Taylor et al. 2012) data for 33 general
+Monitoring and evaluation provide feedback to the CSV design
+circulation models for the representative concentrations pathway
+process, which is based on learning and adjustment. Finally,
+8.5. Results showed that, by the 2030s, similarities change only
+adaptation pathways for the CSA approach-including
+slightly, with most areas remaining within +5% of historical
+technology and services portfolios, capacity building programs,
+representativeness. Therefore, changes by the 2030s are not
+institutional and financial mechanisms, and potentia costs and
+expected to alter the global representation of the CSV network.
+benefits of program implementation-ar presented to policy
+Thus, it is clear that the current CSV sites represent a large
+makers for scaling up through replication in other sites, or
+agricultural area of the world facing diverse climatic risks, and
+provision of incentives for adoption through large-scale
+these sites will remain crucial for adaptation learning even in the
+agricultural investment plans. Although conceptually this step is
+future.
+placed at the end of the sequence (Fig. 2), it can vary according
+to the CSV context. Individuals and institutions with policy reach
+The CSV approach followed in Asia, Africa, and Latin America
+are often engaged early in the process, sometimes even in the
+is very similar but highly contextualized in local situations. The

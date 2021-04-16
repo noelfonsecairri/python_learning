@@ -1,0 +1,196 @@
+N. Agustiani et al.
+References
+Bassu, s., Brisson, N., Durand J.-L., Boote, K., Lizaso, J., Jones, J.W., Rosenzweig, C.,
+Ruane, A.C., Adam, M., Baron, C., Basso, B., Biernath, C., Boogaard, H., Conijn, S.,
+Corbeels, M., Deryng, D., De Sanctis, G., Gayler, S., Grassini, P., Hatfield, J., Hoek, S.,
+Izaurralde, C., Jongschaap, R., Kemanian, A.R., Kersebaum, K.C., Kim, S.-H., Kumar,
+N.S., Makowski, D. Muller, C., Nendel, C., Priesack, E., Pravia, M.V., Sau, F.,
+Shcherbak, I., Tao, F., Teixeira, E., Timlin, D., Waha, K., 2014. How do various maize
+crop models vary in their responses to climate change factors? Glob. Change Biol. 20,
+2301-2320.
+Betran, F.J., Beck, D. Banziger, M. Edmeades, G.O., 2003. Genetic analysis of inbred and
+hybrid grain yield under stress and nonstress environments in tropical maize. Crop
+Sci. 43, 807-817.
+Boling, A.A., Tuong, T.P., Jatmiko, S.Y., Burac, M.A., 2004. Yield constraints of rainfed
+lowland rice in Central Java, Indonesia. Field Crops Res. 90, 351-360.
+Boling A.A., Tuong T.P., van Keulen, H., Bouman, B.A.M., Suganda, H., Spiertz, J.H.J.
+2007. Yield gap of rainfed rice in farmers' fields in Central Java, Indonesia. Agric.
+Syst. 103, 307-315.
+Boling, A.A., Tuong, T.P., Suganda, H., Konboon, Y., Harnpichitvitaya, D., Bouman,
+B.A.M., Franco, D.T., 2008. The effect of toposequence position on soil properties,
+hydrology, and yield of rainfed lowland rice in Southeast Asia. Field Crops Res. 106,
+22-23.
+Bouman, B.A.M., Kropff, M.J., Tuong, T.P., Wopereis, M.C.S. ten Berge, H.F.M., van Laar,
+H.H., 2001. ORYZA2000: Modeling Lowland Rice. International Rice Research
+Institute,
+Los
+Buresh, R.J., 2015. Nutrient and fertilizer management in rice systems with varying
+supply of water. In: Drechsel, P., Patrick, H., Hillel, M., Robert, M., Dennis, W. (Eds.),
+Managing Water and Fertilizer for Sustainable Agricultural Intensification.
+Internationa Fertilizer Association (IFA), Internationa Water Management Institute
+(IWMI), International Plant Nutrition Institute (IPNI), and International Potash
+Institute (IPI), Paris, France, pp. 187-209 January 2015.
+Carberry, P.S., Muchow, R.C., McCown, R.L., 1989. Testing the CERES-Maize simulation
+model in a semi-arid tropical environment. Field Crops Res. 20, 297-315.
+Cassman, K.G., 1999. Ecological intensification of cereal production systems: yield po-
+tential, soil quality, and precision agriculture. Proc. Natl. Acad. Sci. A. PNAS 96,
+5952-5959.
+Cassman, K.G., Dobermann, A., Walters, D.T., Yang, H., 2003. Meeting cereal demand
+while protecting natural resources and improving environmental quality. Annu. Rev.
+Environ. Resour. 28, 315-358.
+Castex, V., Beniston, M., Calanca, P., Fleury, D., Moreau, J., 2018. Pest management
+under climate change: the importance of understanding tritrophic relations. Sci. Total
+Environ. 616/617, 397-407.
+Chen, X.P., Cui, Z.L., Vitousek, P.M., Cassman, K.G., Matson, P.A., Bai, J.S., Meng, Q.F.,
+Hou, P., Yue, S.C., Romheld V., Zhang, F.S., 2011. Integrated soil-crop system
+management for food security. Proc. Natl. Acad. Sci. PNAS 108, 6399-6404.
+Chen, X., Chen, F., Chen, Y., Gao, Q., Yang, F., Yuan, F., Zhang, F., Mi, G., 2013. Modern
+maize hybrids in Northeast China exhibit increased potential and resource use effi-
+ciency despite adverse climate change Glob. Change Biol. 19, 923-936.
+"Amour, C.B. Reitsma, F., Baiocchi, G., Barthel S., Guineralpg, B., Erb, K.-H., Haberl, H.,
+Creutzig, F., Seto, K.C., 2017. Future urban land expansion and implications for
+global
+croplands.
+Dardanelli, J.L., Bachmeier, O.A., Sereno, R., Gil, R., 1997. Rooting depth and soil water
+extraction patterns of different crops in a silty loam Haplustoll. Field Crops Res. 54,
+29-38.
+Espe, M.B., Cassman, K.G. Yang, H., Guilpart, N., Van Wart, J., Grassini, P., Anders, M.,
+Beighley, D., Harrell, D., Linscombe, s., McKenzie, K., Mutters, R., Wilson, T.,
+Linquist, B.A., 2016. Yield gap analysis of US rice production systems shows oppor-
+tunities for improvement. Field Crops Res. 196, 276-283.
+Evans, L.T., 1993. Crop Evolution, Adaptation and Yield. Cambridge University Press,
+Cambridge, UK.
+FAOSTAT, 2017. Food and Agriculture Organization Corporate Statistical Database.
+Available at:. http://www.fao.org/faostat/en/#home.
+Fischer, G., Van Velthuizen, H., Shah, M., Nachtergaele, F.O., 2002. Global
+Agroecological Assessment for Agriculture in the 21st Century: Methodology and
+Results. Research Report RR-02-02, pp xxii, 119 pp.
+Gaiser T., de Barros, I., Sereke, F., Lange, F.-M., 2010. Validation and reliability of the
+EPIC model to simulate maize production in small-holder farming systems in tropical
+sub-humid West Africa and semi-arid Brazil. Agric. Ecosyst. Environ. 135, 318-327.
+Gaydon, D.S., Balwinder-Singh Wang, E., Poulton, P.L., Ahmad, B., Ahmed, F., Akhter, S.,
+Ali, I., Amarasingha, R., Chaki, A.K., Chen, C., Choudhury, B.U., Darai, R., Das, A.,
+Hochman, Z., Horan, H., Hosang, E.Y., Kumar, P.V., Khan, A.S.M.M.R., Laing, A.M.,
+Liu, L., Malaviachichi, M.A.P.W.K., Mohapatra, K.P., Muttaleb, Md.A., Power, B.,
+Radanielson, A.M., Rai, G.S. Rashid, Md.H., Rathanayake, W.M.U.K., Sarker, M.M.R.,
+Sena, D.R., Shamim, M., Subash, N., Suriyagoda, L.D.B., Wang, G., Wang, J., Yadav,
+R.K., Roth, C.H., 2017. Evaluation of the APSIM model in cropping systems of Asia.
+Field Crops Res. 204, pp52-pp75.
+Grassini, P., Yang, H., Cassman, K.G., 2009. Limits to maize productivity in Western Corn-
+Belt: a simulation analysis for fully-irrigated and rainfed conditions. Agric. For.
+Meteorol. 149, 1254-1265.
+Grassini, P., Thornburn, J., Burr, C., Cassman, K.G., 2011. High-yield irrigated maize in
+the Western U.S. Corn Belt: I. On-farm yield, yield potential, and impact of agronomic
+practices. Field Crops Res. 120, 144-152.
+Grassini, P., Van Bussel, L.G.J., Van Wart, J., Wolf, J., Claessens, L., Yang, H., Boogaard,
+H., de Groot, H., Van Ittersum, M.K., Cassman, K.G., 2015. How good is good en-
+ough? Data requirements for reliable crop yield simulations and yield-gap analysis.
+European Journal of Agronomy 101 (2018) 10-19
+GRiSP (Global Rice Science Partnership), 2013. Rice Almanac, 4th edition. International
+Guilpart, N., Grassini, P., Sadras, V.O., Timsina, J., Cassman, K.G., 2017a. Estimating
+Guilpart, N., Grassini, P., Van Wart, J., Yang, H., van Ittersum, M., van Bussel, L., Wolf J.,
+Claessens, L., Leenars, J., Cassman, K.G., 2017b. Rooting for food security in Sub-
+Hodnett, M.G., Tomasella, J., 2002. Marked differences between van Genuchten soil
+water-retention parameters for temperate and tropical soils: a new water-retention
+pedotransfer function developed for tropical soils. Geoderma 108, 155-180.
+Hoffmann, M.P., Castaneda Vera, A., van Wijk, M.T., Giller, K.E., Oberthur, T., Donough,
+C., Whitbread, A.M., 2014. Simulating potential growth and yield of oil palm with
+PALMSIM: model description, evaluation and application. Agric. Syst. 131, 1-10.
+Jones, J.W. Hoogenboom, G., Porter, C.H., Boote, K.J., Batchelor, W.D., Hunt L.A.,
+Wilkens, P.W., Singh, U., Gijsman, A.J., Ritchie, J.T., 2003. The DSSAT cropping
+Kadiyala, M.D.M., Jones, J.W., Mylavarapu, R.S., Li, Y.C., Reddy, M.D., 2015. Identifying
+irrigation and nitrogen best management practices for aerobic rice-maize cropping
+system for semi-arid tropics using CERES-rice and maize models. Agric. Water
+Kropff, M.J., Cassman, K.G., van Laar, H.H., Peng S., 1993. Nitrogen and yield potential
+Kropff, M.J., Cassman, K.G., Peng, S., Matthews, R.B., Setter, T.L., 1996. In: Cassman, K.G.
+(Ed.), Breaking the Yield Barrier: Proceedings of a Workshop on Rice Yield Potential
+in Favorable Environments. International Rice Research Institute, Los Banos,
+Laborte, A.G., de Bie, K., Smaling, E.M.A., Moya, P.F., Boling, A.A., van Ittersum, M.K.,
+2012. Rice yields and yield gaps in Southeast Asia: past trends and future outlook.
+Li, T., Ali, J., Marcaida, I.I.I.M., et al., 2016. Combining limited multiple environment
+trials data with crop modeling to identify widely adaptable rice varieties. PLoS One
+Li, T., Angeles, O., Marcaida, I.I.I.M., Manalo, E., Manalili, M.P., Radanielson, A.,
+Mohanty, S., 2017. From ORYZA2000 to ORYZA (v3): an improved simulation model
+for rice in drought and nitrogen-deficient environments. Agric. For. Meteorol. 237/
+Lobell, D.B., Cassman, K.G., Field, C.B., 2009. Crop yield gaps their importance, magni-
+Lu, Z., Yu, X., Heong, K., Hu, C., 2007. Effect of nitrogen fertilizer on herbivores and its
+Meng, Q., Hou, P., Wu, L., Chen, X., Cui, Z., Zhang, F., 2013. Understanding production
+potentials and yield gaps in intensive maize production in China. Field Crops Res.
+NASA, 2012. NASA-Agroclimatology Methodology. Available at:. http://power.larc.
+Nelson, G.C. Rosegrant, M.W., Palazzo, A., Gray, I., Ingersoll, C., Robertson, R., Tokgoz,
+S., Zhu, T., 2010. Food Security, Farming, and Climate Change to 2050. IFPRI,
+Ordonez, R.A., Castellano, M.J., Hatfield, J.L., Helmers, M.J., Licht, M.A., Liebman, M.,
+Dietzel, R., Martinez-Feria, R., Iqbal, J., Puntel, L.A., Cordova, S.C., Togliatti, K.,
+Wright, E.E., Archontoulis, S.V., 2018. Maize and soybean root front velocity and
+Pasuquin, J.M., Saenong, S., Tan, P.S., Witt, C., Fisher, M.J., 2012. Evaluating N man-
+agement strategies for hybrid maize in Southeast Asia. Field Crops Res. 134,
+Pasuquin, J.M., Pampolino, M.F., Witt, C., Dobermann, A., Oberthur, T., Fisher, M.J.,
+Inubushi, K., 2014. Closing yield gaps in maize production in Southeast Asia through
+Peng, S., Cassman, K.G., Virmani, S.S., Sheehy, J., Khush, G.S., 1999. Yield potential
+trends of tropical rice since the release of IR8 and the challenge of increasing rice
+Rattalino Edreira, J.I., Mourtzinis, S., Conley, S.P., Roth, A., Ciampitti, I.A., Licht, M.A.,
+Kandel, H., Kyveryga, P.M., Lindsey, L.E., Mueller, D.S., Naeve, S.L., Nafziger, E.,
+Specht, J.E., Stanley, J., Staton, M.J., Grassini, P., 2017. Assessing causes of yield
+gaps in agricultural areas with diversity in climate and soils. Agric. For. Meteorol.
+Rotter, R.P., Tao, F., Hohn, J.G., Palosuo, T., 2015. Use of crop simulation modelling to
+cultivars.
+J.
+Exp.
+Bot.
+66,
+3463-3476.
+Rustanto, A., Booij Martijn, J., Wosten, H., Hoekstra Arjen, Y., 2017. Application and
+recalibration of soil water retention pedotransfer functions in a tropical upstream
+catchment: case study in Bengawan Solo, Indonesia. J. Hydrol. Hydromech. 65,
+Schulthess, U., Timsina, J., Herrera, J.M., McDonald, A., 2013. Mapping field-scale yield
+gaps for maize: an example from Bangladesh. Field Crops Res. 143, 151-156.
+Setiyono, T.D., Yang, H.S., Walters, D.T., Dobermann, A., Ferguson, R.B., Roberts, D.F.,
+Lyon, D.J., Clay, D.E., Cassman, K.G., 2011. Maize-N: a decision tool for nitrogen
+Silva, J.V., Reidsma, P., van Ittersum, M.K., 2017. Yield gaps in Dutch arable farming
+systems: analysis at crop and crop rotation level. Agric. Syst. 158, 78-92.
+Soler, M.T.S., Sentelhas, P.C., Hoogenboom, G., 2007. Application of the CSM-CERES-
+Maize model for planting date evaluation and yield forecasting for maize grown off-
+Stuart, A.M., Pame, A.R.P., Silva, J.V., Dikitanan, R.C., Rutsaert, P., Malabayabas, A.J.B.
+Lampayan, R.M., Radanielson, A.M., Singleton, G.R., 2016. Yield gaps in rice-based
+farming systems: Insights from local studies and prospects for future analysis. Field
+Field Crops Res. 177, 49-63.
+Rice Research Institute, Los Banos (Philippines) 283 pp.
+Saharan Africa. Environ. Res. Lett. 12 114036.
+system model. Eur. J. Agron. 18, 235-265.
+Manage. 149, 23-32.
+of irrigated rice. Plant Soil 115/156, 391-394.
+Philippines.
+Eur. J. Agron. 36, 9-20.
+11 (10), e0164456.
+238, 246-256.
+143, 91-97.
+nasa.gov/common/AgroclimatologyMethodology/Agroldo,
+Washington D.C.
+153-157.
+yield potential. Crop Sci. 39, 1552-1559.
+247, 170-180.
+aid
+ideotype
+design
+of
+future
+307-320.
+management in maize. Agron. J. 103, 1-8.
+yield gaps at the cropping system level. Field Crops Res. 206, 21-32.
+tudes, and causes. Annu. Rev. Environ. Resour. 34, 179-204.
+stimulation to major insect pests in rice. Rice Sci. 14, 56-66.
+maximum depth in Iowa, USA. Field Crops Res. 215, 122-131.
+site-specific nutrient management. Field Crops Res. 156, 219-230.
+cereal
+season in a subtropical environment. Eur. J. Agron. 27, 165-177.
+Banos
+Acad.
+235
+Proc.
+PNAS
+pp.
+Natl.
+114
+Sci.
+8939-894.
+18

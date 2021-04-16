@@ -1,0 +1,117 @@
+Dhakarey et al.
+measured with a portable-type porometer (Decagon Devices,
+USA) for 4 consecutive days after withholding water and for
+2 consecutive days after rewatering at noon on the youngest
+fully-expanded attached leaf on the plants of the same age (five
+sub-replicates)
+Root Architecture and Water Use
+Efficiency (WUE) Analysis Setup
+Root architecture and WUE experiments were conducted in the
+greenhouse at the IRRI. For the root architecture study, seedlings
+germinated as described above were planted in small (40 cm
+height, 4 cm in diameter, 502.6 cm3) cylinders filled with dry,
+sterilized and sieved soil to a bulk density of cm-3 Soil
+moisture treatments of control (100% of field capacity) 75%
+of field capacity and dry-down to 50% of field capacity were
+applied as described by Henry et al. (2015) Five replicates of
+each genotype were planted for each soil moisture treatment.
+Plants were scouted regularly to guard against insect or pathogen
+infestations; sticky fly paper traps were also suspended between
+the cylinders to keep away insects. Roots were harvested,
+subjected to washing in order to remove the dirt and soil
+prior to their storage in 75% ethanol for further analysis using
+WinRHIZO (Regent Instruments, Quebec, Canada).
+Similarly, for apparent WUE measurement, WT, and cpm2
+seedlings were planted in large cylinders (95 cm in height,
+20 cm in diameter, 29.81) which were filled with dried soil
+previously brought from an upland IRRI farm and were arranged
+in randomized complete block design. Additional sterilized soil
+was filled at the top of each cylinder. Ten plants of each genotype
+were planted in 20 large cylinders placed inside a concrete tank
+(1.35 m deep, 3.5 m wide, and 6.8 m in length) inside the naturally
+ventilated greenhouse. All cylinders were equally watered twice
+a day to keep them watered but not flooded. Complete fertilizer
+was also applied as per Kijoji et al. (2012) 1 day after transplanting
+Drought stress (DS) was imposed on five plants of each genotype
+at 32 days after sowing by draining water from the designated
+cylinders and by withholding further addition of water in them.
+The top of the cylinders were then covered with polythene
+sheets to curtail direct evaporation, SO that only water loss by
+transpiration was measured. Remaining cylinders belonging to
+the control treatment were kept watered using the target weight
+to maintain the soil moisture level at field capacity, which was
+established by weighing at day 36 after sowing. DS cylinders were
+not watered for the remaining time. Digital imaging of shoots and
+weighing of each cylinder was performed three times per week
+using the system described by Kijoji et al. (2012) for 4 weeks after
+imposing drought stress. Using image J software (NIH, USA)
+with an integrated macro language, leaf area was estimated from
+digital images and divided by the water uptake rate to calculate
+apparent WUE.
+Plant Materials, Growth, and Stress
+Conditions for Root Proteome, ABA, Cell
+Wall Metabolite, and Transcript Level
+Analysis
+Sampling material for experiments related to root proteome,
+transcript and selected metabolite analysis were raised in the
+Frontiers in Plant Science www.frontiersin.org
+Rice JA and Drought Tolerance
+November 2017 Volume 8 Article 1903
+naturally ventilated greenhouses at IRRI during the 2014 and
+2015 dry season. WT and cpm2 seedlings generated as described
+above were then transferred to plastic pots (20 cm in diameter)
+filled with autoclaved soil (previously collected from IRRI upland
+farm). All pots were equally watered by providing 200 ml twice a
+day for 1 week and then separated into "control" and "stressed"
+categories. For the control treatment, plants were watered but not
+flooded, and their entire roots and shoots were sampled at day
+22. For drought-stressed plants, watering was stopped to initiate
+moderate and severe stress condition. Volumetric soil moisture
+content (SMC) in the drought-stress treatment was monitored by
+ML3 Theta Probe soil moisture sensor (Delta-T Devices, London,
+UK; one per replicate). The entire root and shoot was sampled
+for "stressed" treatments as soon as SMC reached 30 and 15%
+for moderate and severe stress, respectively, and were instantly
+frozen in liquid nitrogen. Soil particles were removed from the
+root samples prior to their storage in liquid nitrogen.
+Protein Extraction, Separation, Tryptic
+Digestion, and TMT Labeling
+Frozen root samples from WT and cpm2 were used for total
+protein extraction. Subsequently, a modified trichloroacetio acid
+(TCA, Merck, USA) method was used for protein extraction.
+Frozen root samples (~250 mg were crushed to a fine powder
+in a pre-cooled mortar with liquid nitrogen. Afterwards, the
+powder was transferred to a 1.5 ml pre-chilled Eppendorf tube
+and then following extraction procedure was performed: (i) 700
+ul of freshly prepared 10% TCA in acetone with 0.07% DTT
+DL-Dithiothreitol, Merck, USA) was added to the tubes. The
+tubes were then placed at -80C for lh, and then centrifuged
+in a pre-cooled rotor at 13,000 for 10 min at 4C (Beckman
+Allegra 64R preparative centrifuge, USA). (ii) The supernatant
+was discarded and the pellet was re-suspended in 700 ul of
+freshly prepared pre-cooled 10% acetone with 0.07% DTT. The
+suspension was further stored at -80C for 30 min, prior to
+centrifugation in a pre-cooled rotor at 13,000 for 10 min
+at 49C. This step was repeated twice. The supernatant was
+discarded and the pellet was then air-dried for 45 min in a
+laminar hood at room temperature (~24C). The resulting pellet
+was then re-suspended in 700 ul solubilizing buffer containing
+9M urea, 1% DTT, 4% CHAPS (3-[(3-Cholamidopropyl)
+dimethylammonio]-1-propane sulfonate), 35 mM Tris base,
+5
+uM EDTA (Ethylenediaminetetraacetic acid), 1 uM PMSF
+(phenylmethylsulfonyl fluoride) and 10 ul of protease inhibitor
+cocktail solution (Merck, USA). Afterwards, the samples were
+centrifuged at 13,000 for 5 min at room temperature and the
+resulting supernatant with the proteins was collected into a
+clean Eppendorf tube. The proteins were run through SDS-PAGE
+under denaturing conditions (Laemmli, 1970). The subsequent
+in-gel digestions of proteins, TMT labeling and Nano-LC-MS/MS
+analysis were performed as previously published (Raorane et al.,
+2015a). For overview, refer to Figure S1.
+Protein Identification, Functional
+Annotation, and Evaluation
+Protein identification and their functional annotation was
+performed as described by Raorane et al (2015a). For the proteins
+common to both WT and cpm2 roots, a threshold of log ratio 1.0
+3

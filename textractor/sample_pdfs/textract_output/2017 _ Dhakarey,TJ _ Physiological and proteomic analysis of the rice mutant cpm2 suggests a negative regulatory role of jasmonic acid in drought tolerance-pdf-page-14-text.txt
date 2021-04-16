@@ -1,0 +1,122 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+AUTHOR CONTRIBUTIONS
+ACKNOWLEDGMENTS
+RD performed the morpho-physiological characterization
+This work was supported by a Ph.D. fellowship from Indian
+experiments, generated all plant sampling material, prepared
+Council of Agricultural Research (ICAR-IF) to RD and
+RNA and protein samples, performed TMT labeling experiments,
+PP. RD, PP, and MR also acknowledge the travel grants
+analyzed and interpreted the morpho-physiological, cell wall
+provided by Karlsruhe House of Young Scientists (KHYS)
+metabolite and root proteome results, and wrote the manuscript;
+for the field trips to IRRI. We also thank Dr. R. K. Singh
+MLR helped in sampling plant materials, performed transcript
+(IRRI) for facilitating mutant seed import at IRRI and
+analysis of AOC and OPR7, interpreted the proteome and
+for providing technical support for their multiplication. We
+metabolite data and participated in writing the manuscript.
+acknowledge the support by Deutsche Forschungsgemeinschaft
+AT performed the LC-MS/MS and bioinformatics analysis for
+and Open Access Publishing Fund of Karlsruhe Institute of
+the root proteomics data. PP performed the gRT-PCR analysis
+Technology. This work has been supported by funds to RD
+of genes related to phenylpropanoid pathway. RS and MB
+by the German Federal Ministry for Research and Education
+performed the cell wall metabolite analysis and its interpretation,
+and Egyptian Science and Technology Development Fund
+respectively. VS performed the root histological studies. BH
+(01DH14013).
+performed the plant hormone measurements and participated
+in manuscript writing. AH designed and supervised the
+SUPPLEMENTARY MATERIAL
+physiological experiments and participated in interpreting the
+morpho-physiological data. AK and MR together conceptualized
+The Supplementary Material for this article can be found
+and supervised the whole study as well as participated in writing
+online https:l/www.frontiersin.orglarticles/10.3389/fpls.2017
+the manuscript.
+1903/full#supplementary-material
+REFERENCES
+in Plants, Vol. 2 Molecular and Genetic Perspectives, eds M. A. Hossain, S.
+H. Wani, S. Bhattacharjee, D. J. Burritt, and L.-S. P. Tran (Cham: Springer
+Adler, E. (1977). Lignin chemistry-past, present and future. Wood Sci. Technol.
+International Publishing), 123-151.
+11, 169-218. doi: 10.1007/BF00365615
+Daszkowska-Golec A., and Szarejko, I. (2013). Open or close the gate-stomata
+Afzal, Z., Howton, T., Sun, Y., and Mukhtar, M. S. (2016). The roles of aquaporins
+action under the control of phytohormones in drought stress conditions. Front.
+in plant stress responses. J. Dev. Biol. 4:9. doi: 10.3390/jdb4010009
+Plant Sci. 4:138. doi: 10.3389/fpls.2013.00138
+Balbi, V., and Devoto, A. (2008). Jasmonate signalling network in Arabidopsis
+Dhakarey, R., Kodackattumannil Peethambaran, P., and Riemann, M. (2016).
+thaliana: crucial regulatory nodes and new physiological scenarios. New Phytol.
+Functional analysis of jasmonates in rice through mutant approaches. Plants
+177, 301-318. doi: 10.1111/j.1469-8137.2007.02292.x
+5:E15. doi: 10.3390/plants5010015
+Balcke, G. U., Handrick, V., Bergau, N., Fichtner, M., Henning, A., Stellmach,
+Dixit, S., Singh, A., and Kumar A. (2014). Rice breeding for high grain yield under
+H., et al. (2012). An UPLC-MS/MS method for highly sensitive high-
+drought: a strategic solution to a complex problem. Int. J. Agron. 2014:863683.
+throughput analysis of phytohormones in plant tissues. Plant Methods 8:47.
+doi: 10.1155/2014/863683
+doi: 10.1186/1746-4811-8-47
+Dixit, S., Kumar Biswal, A., Min, A., Henry, A., Oane, R. H., Raorane, M. L.,
+Barakat, A., Choi, A., Yassin, N. B. M., Park, J. S., Sun, Z., and Carlson, E. (2011).
+et al. (2015). Action of multiple intra-QTI genes concerted around a co-
+Comparative genomics and evolutionary analyses of the O-methyltransferase
+localized transcription factor underpins a large effect QTL. Sci. Rep. 5:15183.
+gene family in Populus Gene 479, 37-46. doi: 10.1016/j.gene.2011.02.008
+doi: 10.1038/srep15183
+Blum, A. (2005). Drought resistance, water-use efficiency, and yield potential are
+Donovan, L. A., Dudley, S. A., Rosenthal, D. M., and Ludwig, F. (2007).
+they compatible, dissonant, or mutually exclusive? Austr. J. Agric. Res. 56,
+Phenotypic selection on leaf water use efficiency and related ecophysiological
+1159-1168. doi: 10.1071/AR05069
+traits for natural populations of desert sunflowers. Oecologia 152, 13-25.
+Blum, A. (2009). Effective use of water (EUW) and not water-use efficiency (WUE)
+doi: 10.1007/500442-006-0627-5
+is the target of crop yield improvement under drought stress. Field Crops Res.
+Du, H., Liu, H., and Xiong, L. (2013). Endogenous auxin and jasmonic acid levels
+112, 119-123. doi: 10.1016/j.fcr.2009.03.009
+are differentially modulated by abiotic stresses in rice. Front. Plant Sci. 4:397.
+Blum, A. (ed.). (2011). "Phenotyping and selection," in Plant Breeding for Water-
+doi: 10.3389/fpls.2013.00397
+Limited Environments (New York, NY: Springer), 153-216.
+Fan, L., and Neumann, P. M. (2004). The spatially variable inhibition by water
+Bouman, B. A. M., Humphreys, E., Tuong, T. P., and Barker, R. (2007). Rice and
+deficit of maize root growth correlates with altered profiles of proton flux and
+water. Adv. Agron. 92, 187-237. doi: 10.1016/S0065-2113(04)92004-4
+cell wall pH. Plant Physiol. 135, 2291-2300. doi: 10.1104/pp.104.041426
+Chaumont, F., Barrieu, F., Jung, R., and Chrispeels, M. J. (2000). Plasma
+Fan, L., Linker, R., Gepstein, S., Tanimoto, E., Yamamoto, R., and Neumann,
+membrane intrinsic proteins from maize cluster in two sequence subgroups
+P. M. (2006). Progressive inhibition by water deficit of cell wall extensibility
+with differential aquaporin activity. Plant Physiol. 122, 1025-1034.
+and growth along the elongation zone of maize roots is related to increased
+doi: 10.1104/pp.122.4.1025
+lignin metabolism and progressive stelar accumulation of wall phenolics. Plant
+Chen, B., and Han, B. (2011). Primary function analysis of a pyruvate
+Physiol. 140, 603-612. doi: 10.1104/pp.105.073130
+decarboxylase gene, OsPDC3, in rice. Chin. J. Rice Sci. 25, 567-574.
+FAO (2016). FAO Rice Market Monitor. Vol. 19.
+doi: 10.3969/j.issn.1001
+Foyer, C. H., and Noctor, G. (2005). Redox homeostasis and antioxidant signaling:
+Cramer, G. R., Van Sluyter, S. C., Hopper, D. W., Pascovici, D., Keighley,
+a metabolic interface between stress perception and physiological responses.
+T., and Haynes, P. A. (2013). Proteomic analysis indicates massive changes
+Plant Cell 17, 1866-1875. doi: 10.1105/tpc.105.033589
+in metabolism prior to the inhibition of growth and photosynthesis of
+Frova, C. (2003). The plant glutathione transferase gene family: genomic
+grapevine (Vitis vinifera L.) in response to water deficit. BMC Plant Biol. 13:49.
+structure, functions, expression and evolution. Physiol. Plant. 119, 469-479.
+doi: 10.1186/1471-2229-13-49
+doi: 10.1046/j.1399-3054.2003.00183.x
+Daszkowska-Golec, A. (2016). "The role of abscisic acid in drought stress: how
+Ghosh, A., Kushwaha, H. R., Hasan, M. R., Pareek, A., Sopory, S. K., and Singla-
+ABA helps plants to cope with drought stress, in Drought Stress Tolerance
+Pareek, S. L. (2016). Presence of unique glyoxalase III proteins in plants
+Frontiers in Plant Science www.frontiersin.org
+14
+November 2017 Volume 8 Article 1903

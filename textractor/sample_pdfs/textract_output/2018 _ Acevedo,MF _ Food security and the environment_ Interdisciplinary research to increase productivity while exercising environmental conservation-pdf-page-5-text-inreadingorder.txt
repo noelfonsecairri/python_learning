@@ -1,0 +1,127 @@
+M.F. Acevedo et al.
+several case studies (Sala et al., 2017).
+Three global change processes (climate, land-use, and economic)
+compound the challenge of reconciling production and environmental
+quality (Foley et al., 2011). The impacts of global change on food se-
+curity are best examined adopting a "food system" view and developing
+an ID framework to bridge disciplines and to show where each con-
+tributes (Ingram et al., 2010). As we implement interventions programs
+based on IDR, it is important to design standardized outcome measures
+and share expertise across regions (Gaihre et al., 2016).
+Conway (2012) is cautiously optimistic about our ability to increase
+productivity providing that we make full use of available technologies,
+increase funding to develop new technologies, employ sustainable
+practices, and plan strategically at the market, sector and policy levels.
+An implication of this recipe is that the 'quadruple green' revolution we
+need (sustainable, effective, equitable and efficient) requires redoubled
+ID efforts and a combination of innovation, markets, people and poli-
+tical leadership (Fig. 1).
+4.7. Funding and publications
+ID is formally recognized as an excellent vehicle for innovation and
+solving complex problems. However, research funding, publications,
+and academic incentives seem to favor a non-ID behavior; this apparent
+paradox has been lacking empirical confirmation (Rylance, 2015). For
+instance, it is often asserted that ID grant proposals are less likely to be
+funded than disciplinary proposals; Bromham et al. (2016) have re-
+cently demonstrated it to hold true using data from one funding agency.
+The study used an ID distance (IDD) metric that captures the relative
+representation of different disciplines and their degree of difference and
+a test case study from almost 20,000 proposals submitted to the Dis-
+covery Program of the Australian Research Council over five funding
+cycles. Reasons for lower probability of success for ID proposals are not
+clear; some may be due to reviewer's lack of grasp of several disciplines
+at once, accompanied by a perception of higher-risk and cost (Bromham
+et al., 2016).
+In contrast, other studies have found evidence of ID content in
+funded projects. For instance, awards from the USA National Science
+Foundation (NSF) in 2010-2011 were analyzed using a topic model and
+data mining methods (Nichols, 2014). The ID nature of an award was
+determined from tags assigned to disciplines and an ID metric based on
+a diversity distance. In particular, 14,000 awards by the Social, Beha-
+vioral, and Economics Sciences (SBE) directorate were found to have a
+relative high degree of ID, which varies whether the ID includes other
+disciplines within the directorate or from other directorates.
+These studies demonstrate that it is possible to assess the inclusion
+of ID in funding programs, which would allow funding agencies and
+donors to guide their efforts to increase funding opportunities for IDR
+projects.
+Publications, another major criterion for tenure and promotion, is a
+crucial challenge for IDR. The number of ID journals is increasing, but
+only a few have prestige and high impact factor compared to those of
+single-discipline journals. Articles in the very prestigious multi-
+disciplinary journals, Science and Nature, do not include substantially
+more IDR than other high-ranking disciplinary journals (Solomon et al.,
+2016). However, the broad reach and high impact of Science and Nature,
+has an influence in understanding across disciplines.
+Leydesdorff and Rafols (2011) tested metrics to complement journa
+impact indicator systems with a measure of ID content and impact.
+These authors used a variety of correlation methods, distance and di-
+versity measures, to rank ID content of ~8000 journals with 12 in-
+dicators. This type of methodology could help orient ID researchers in
+selecting outlets for their work as well as to inform reward systems in
+academic institutions. However, caution is imperative when con-
+sidering this quantitative approach. In a review on measuring IDR,
+Wagner et al. (2011) conclude that beyond the metrics to measure ID
+output representation in journals, it is important to understand the
+Global Food Security 16 (2018) 127-132
+concept of knowledge integration recognizing that integration can
+occur within a single mind as well as among a team.
+5. Conclusions
+The desired IDR to reconcile productivity and conservation should
+provide an effective way to identify the complex issues requiring so-
+lution, to build upon the mobilization of various disciplines, the design
+of innovative theoretical and methodological frameworks, and the
+setting up of participatory institutional programs. Providing technolo-
+gical solutions and designing appropriate policy interventions require
+understanding of the social and environmental processes as a whole.
+Technological fixes alone would not solve the food security and en-
+vironment concerns but science, policy, and action could when working
+all together.
+Providing food for all is a primary problem that humanity continues
+to face. Without food security, societies have a great difficulty to pro-
+gress in most other aspects of their well-being, particularly a healthy
+relationship with the environment. It is tempting either to assume that
+we cannot solve the food production vs. environmental protection di-
+lemma, or to trust that a segment of our modern science will come up
+with a technological fix. However, we argue that we need a different
+perspective: that of engaging in goal-directed IDR the full spectrum of
+science and engineering, from the qualitative to the quantitative, from
+the experimental to the theoretical. We contend a sustainable doubly
+green revolution requires this type of research. ID work provides op-
+portunities for synergies between productivity and conservation. To
+exploit these opportunities, goal-directed IDR is crucial, since re-
+searchers, producers, practitioners, and policy makers all need to be
+involved.
+Acknowledgments
+This article is an outcome of discussions during the Science 4
+workshop on IDR applied to food security and environment quality,
+part of the 6th Internationa Conference on Environmental Future
+(ICEF) held in Newcastle UK, July 2011. For all their valuable con-
+tributions during discussions, we thank all participants in the work-
+shop, especially Carlos M. Arriaga Jordan, Director of the Instituto de
+Ciencias Agropecuarias y Rurales, Universidad Autonoma del Estado de
+Mexico, Toluca, Mexico, and Rashid Hassan, Centre for Environmental
+Economics and Policy in Africa, Dept. of Agricultural Economics
+Extension and Rural Development University of Pretoria, South Africa.
+We were inspired by Ben Malayang's words at the closing of the 6th
+ICEF, 'Environmental problems are emotional, environmental solutions
+are social and technical, and environmental decisions are political. We
+express our gratitude to the reviewers, and to Achim Dobermann,
+editor, Global Food Security, for providing excellent feedback that
+helped improve this manuscript.
+Conflict of interest
+This research did not receive any specific grant from funding
+agencies in the public, commercial, or not-for-profit sectors.
+References
+Acevedo, M.F., 2011. Interdisciplinary progress in food production, food security and
+environment research. Environ. Conserv. 38 (2), 151-171.
+Acevedo, M.F., Callicott, B.J., Monticino, M. Lyons, D., Palomino, J., Rosales, J.,
+Delgado, L., Ablan, M., Davila, J., Tonella, G., Ramirez, H., Vilanova, E., 2008.
+Models of natural and human dynamics in forest landscapes: cross-site and croSS-
+cultura synthesis. Geoforum 39 (2), 846-866.
+Axinn, G.H., 1997. Challenges to agricultural extension in the twenty-first century. In:
+Scarborough, V., Killough, S., Johnson, D.A., Farrington, J. (Eds.), Farmer-led
+Extension: Concepts and Practices. Intermediate Technology Publications, London,
+pp. 13-22.
+Benoit, M., Rizzo, D., Marraccini, E., Moonen, A.C., Galli, M. Lardon, S., Rapey, H.,
+131

@@ -1,0 +1,109 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+TABLE 1 I List of Differentially abundant Proteins (DAPs) showing highest abundance in WT and cpm2 under drought stress.
+S. No
+Category
+Protein
+Amount*
+Function
+cpm2
+WT
+1
+ROS SCAVENGING
+Glutathione S-transferase (OsGSTF2)
+Antioxidant
+Glutathione S-transferase (OsGSTU12)
+Antioxidant
+Ascorbate peroxidase (OsAPX7),
+Antioxidant
+DJ-1 family protein (DJ-1/Pfp)
+Methyl-glyoxal detox & antioxidant
+Serine hydroxymethyltransferase (SHMT)
+Serine-glycine-glutathione antioxidant
+3-isopropylmalate dehydratase small subunit
+Leucine biosynthesis and antioxidant
+Non-symbiotic hemoglobin 2 (nsHb2)
+Oxygen sensor
+2
+CELL WALL
+glycosy| hydrolase family 17 (Gns6)
+Modify cell wall polysaccharides
+UDP-glucose-6-dehydrogenase (UDGH)
+Nucleotide sugars for cell wall
+O-methyltransferase (OMT)
+Lignin biosynthesis
+Polygalacturonase (PG)
+Pectin degradation
+3
+CYTOSKELETON
+B-Tubulin 1
+Microtubules
+Actin nucleation protein
+Microfilaments
+4
+PHENYLPROPANOIDS
+Phenylalanine-ammonia-lyase (OsPAL1)
+Antioxidative & lignin biosynthesis
+4-coumarate-CoA ligase (Os4CL3)
+Caffein-CoA-methyltransferase (OsCCoAOMT)
+Cinnamyl alcohol dehydrogenase (OsCAD4)
+Caffein-o-methyltransferase (OsCOMT1)
+5
+ENERGY
+Triose phosphate isomerase (TPI)
+Glycolysis
+Pyruvate decarboxylase (PDC)
+Ethanolic fermentation
+Glyceraldehyde 3-phosphate dehydrogenase (GAPDH)
+Glycolysis
+6
+PROTEIN CATABOLISM
+Peptidase T1 family
+Protein peptidase
+Peptidase T1 family
+Protein peptidase
+7
+MISCELLANEOUS
+Aquaporin (OsPIP1-2)
+Water channel
+Ras related protein (OsRAS1)
+G Protein signaling cascade
+Glutamine synthase (OsGS1)
+Nitrogen remobilization
+*Abundance of protein is shown by contrasting shades. White color in column refers to absence of protein. See Figure 8 for details
+et al., 2015b,a). It is also reported that increased expression of
+stress conditions such as, mechanical wounding or fungal stress
+GS enhances drought and salinity tolerance (Kalamaki et al.,
+(Jwa et al., 2006). The GH17 endohydrolase as a DAP was
+2009).
+more abundant in cpm2 (Figure 8). Similarly, an OMT was
+more abundant in cpm2 (Figure 8). It is evident that OMTs
+DAPs-Mediated Changes in Root Cell Walls Suggests
+may participate in several biotic and abiotic stress responses
+More Active Root Development in cpm2
+(Barakat et al., 2011). Being multifunctional enzymes, OMTs
+Roots quickly respond to changes in water potential and
+are reportedly known to play diverse role in various processes
+significantly alter morpho-physiological traits (Henry et al., 2012;
+such as cell wall adaptation and catalyzing O-methylation of
+Sandhu et al., 2016) Several DAPs such as a glycoside hydrolase
+multiple secondary metabolites that are known participants
+(GH; family 17), O-methyl transferase (OMT), UDP-D-Glucose
+during metabolic processes like plant growth, development,
+dehydrogenase, tubulin, and actin nucleation protein (Figure 8)
+and environmental cues (Kim et al., 2010; Urbanowicz et al.,
+suggested the ability of cpm2 roots to stimulate cell wall
+2012) A UDP-D-glucose dehydrogenase (UDPGDH) was also
+adaptations during drought. GH17 endohydrolases cleave 1,3-D-
+present in larger amount in cpm2 (Figure 8). UDPGDH oxidizes
+glucosidic linkages linking B-1,3-glucans and therefore affect cell-
+UDP-D-glucose (UDP-GIc) to UDP-D-glucuronate (UDP-GIcA)
+wall assembly and rearrangement. GH17 endohydrolase activity
+the known precursor of UDP-xylose and UDP-arabinose,
+has been linked with improved performance of rice plants under
+the precursors of arabinoxylans, the major hemicellulosic
+Frontiers in Plant Science www.frontiersin.org
+10
+November 2017 Volume 8
+Article
+1903

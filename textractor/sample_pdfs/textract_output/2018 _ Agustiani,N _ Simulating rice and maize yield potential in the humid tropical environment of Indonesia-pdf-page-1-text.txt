@@ -1,0 +1,68 @@
+European Journal of Agronomy 101 (2018) 10-19
+Contents lists available at ScienceDirect
+AGRONOMY
+European Journal of Agronomy
+ELSEVIER
+journal homepage: www.elsevier.com/locateleja
+Simulating rice and maize yield potential in the humid tropical environment
+of Indonesia
+Check for
+updates
+Nurwulan Agustiania Nanyan Dengb, Juan I. Rattallino Edreira Setia S. Girsanga, Syafruddina
+Trias Sitaresmi Julie M.C. Pasuquin, Fahmuddin Agusa, Patricio Grassinib
+a Indonesian Agency for Agricultural Research and Development (IAARD), Ministry of Agriculture, Jakarta 12540, Indonesia
+b Department of Agronomy, University of Vebraska-Lincoln, Lincoln, NE, 68583-0915, USA
+C International Rice Research Institute (IRRI), DAPO Box 7777, Metro Manila, Philippines
+C E N O
+ABSTRACT A
+Keywords:
+Little is known about the yield potential of modern rice and, particularly, maize cultivars in the tropical humid
+Rice
+environment of Indonesia where farmers can grow 2-3 consecutive crops on the same piece of land per year This
+Maize
+study provides a first step to fill this knowledge gap by using two crop simulation models to estimate yield
+Yield potential
+potential for rice and maize based on experiments conducted across multiple site-years and measured weather
+Humid tropical climate
+and soil data. Data collected from well-managed irrigated experiments, with observed yields ranging from 7.8 to
+Crop model
+10 Mg ha (rice) and 12 to 14.4 Mg ha (maize), were used to calibrate phenology and growth coefficients for
+both a rice (OryzaV3) and maize crop model (Hybrid Maize). The calibration was performed for commercial,
+high-yielding irrigated rice and maize cultivars. Subsequently, calibrated models were evaluated on their ability
+to simulate yield potential using an independent database available from variety (irrigated rice) and fertilizer
+(irrigated and rainfed maize) trials conducted at multiple site-years across major rice and maize producing areas
+in Indonesia. Calibrated coefficients for rice were robust at reproducing observed leaf area, aboveground bio-
+mass, and biomass partitioning to different plant organs. In the case of maize, close agreement between simu-
+lated and observed yields suggests that the generic growth model coefficients originally derived for temperate
+maize performed well at simulating yield potential of modern tropical maize hybrids. The two models re-
+produced with acceptable performance the maximum observed yields across variety and fertilizer trials, except
+for rainfed maize grown in a region with very heavy clay soils. Across site-years, yield potential for irrigated rice
+and maize averaged 9.1 and 11.6 Mg ha respectively, while rainfed maize averaged 11.5 Mg ha
+Comparison between simulated yields and average national rice and maize yields (5.2 and 5 Mg ha respec-
+tively) suggested that room exists to further increase average farmer yields in rice and maize-based crop systems.
+Our study also highlighted the high yield potential of modern maize hybrids grown in intensive crop sequences
+in the humid tropics 10 Mg ha The two models evaluated here can be used to benchmark productivity in
+rice and maize crop systems in the humid tropical environments of South East Asia and fine tune current
+management practices and inputs application.
+1. Introduction
+available-water holding capacity, and terrain slope (Cassman et al.
+2003; van Ittersum et al., 2013). Robust estimates of Yp and Yw are
+Yield potential (Yp) is defined as the yield of a well-adapted crop
+needed to assess potential extra food production, set realistic yield goals
+cultivar with non-limiting water and nutrients, and with biotic stresses
+and associated water and nutrient requirements, and identify oppor-
+effectively controlled (Evans, 1993). Water-limited yield potential (Yw)
+tunities for improving yield and input-use efficiency. Crop simulation
+is similar to Yp but it also accounts for the influence of water supply
+models provide a robust approach for estimating Yp and Yw (van
+amount and distribution during the growing season and soil properties
+Ittersum et al., 2013). These models rely on weather, soil, and man-
+influencing the crop water balance, such as rootable soil depth,
+agement data to simulate the influence of genotype, environment, and
+Corresponding author.
+E-mail address: pgrassini2@unl.edu (P Grassini).
+1 Present address: National Key Laboratory of Crop Genetic Improvement, MARA Key Laboratory of Crop Ecophysiology and Farming System in the Middle Reaches
+of the Yangtze River, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, Hubei 430070, China.
+https://doi.org/10.1016/j.eja.2018.08.002
+Received 28 February 2018; Received in revised form 4 June 2018; Accepted 13 August 2018
+1161-0301/ Elsevier B.V. All rights reserved.

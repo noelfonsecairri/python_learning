@@ -1,0 +1,113 @@
+Dhakarey et al.
+Rice JA and Drought Tolerance
+A
+B
+800
+1200
+1000
+600
+800
+400
+600
+400
+200-
+200
+0
+0
+control
+moderate
+severe
+control
+moderate
+severe
+C
+D
+3500
+35000
+3000.
+30000
+2500
+25000
+2000
+20000
+1500
+15000
+1000
+10000
+500-
+5000-
+0
+0
+control
+moderate
+severe
+control
+moderate
+severe
+E
+F
+25000
+25
+20000
+20
+15000
+15
+10000
+10
+5000
+5
+0
+0
+control
+moderate
+severe
+control
+moderate
+severe
+FIGURE 4 Comparative differences were observed in root architecture in wild type (WT) and cpm2. Plants of two genotypes were grown in soils at different moisture
+levels. Roots were harvested, washed and stored in 75% ethanol until scanning and analysis. Significant differences were observed across the treatments. Values for
+(A) nodal root length (B) lateral root length (C) sum of all root length (D) number of forks (E) number of tips (F) max root depth are shown here.
+Data
+represents
+mean
+value t standard error (SE); n - 5. WT and cpm2 are represented by blue and red bars, respectively. Stars (* and **) denote statistical significance (P 0.05 and P
+0.01), respectively, between the two genotypes in a Student's t-test.
+basis of DAPs that can potentially modify or affect the cell
+DISCUSSION
+wall structure, composition or properties (Table 1). In cpm2
+there was an increased content of six major enzymes of the
+Higher WUE and Stomatal Conductance in
+phenylpropanoid pathway involving cinnamic acid modification,
+cpm2 under Drought Stress
+which potentially modify the cell wall composition. The enzymes
+The observation of higher WUE and higher stomatal
+involved suggest variation in coumaric and ferulic acid content
+conductance in cpm2 is somewhat antagonistic. Genotypes
+(Figure S5), which was confirmed by the quantification of the
+bearing higher stomatal conductance may indicate a pronounced
+coumaric and ferulic acid ester-linked to cell wall biopolymers in
+capability of uptaking available soil water through enhanced
+the roots. Ester-linked coumaric and ferulic acid contents were
+root area (Mitchell et al. 1996) or osmotic adjustment (Blum
+both significantly lower in cpm2 compared to the WT under
+2005), and thereby, can maintain transpiration during moderate
+drought (Figures 7A,B). This agreed with the increased content
+drought stress (Blum, 2009) But on the other hand, enhanced
+of the enzymes that used the two acids as substrates in cpm2.
+stomatal conductance might be a downside when soil water
+The levels of ester-linked di-, tri- and total oligo-ferulates were
+deficits are more common (Donovan et al., 2007). Plants counter
+also generally lower in the roots of cpm2 under drought but
+severe water deficit by decreasing their stomatal conductance,
+significantly so for the measured triferulates (Figure S6C). Under
+however by a curtailment of WUE, plants could deplete available
+control conditions, there was no significant difference between
+water quickly and consequently die by loss of turgor, if they fail in
+WT and cpm2 in the content of coumaric or ferulic acid or
+a drought survival strategy (Donovan et al., 2007; Manzoni et al.,
+ferulate oligomers (Figure 7, Figure S6).
+2011). In the case of our study, the higher stomatal conductance
+Frontiers in Plant Science www.frontiersin.org
+7
+November 2017 Volume 8 Article
+1903

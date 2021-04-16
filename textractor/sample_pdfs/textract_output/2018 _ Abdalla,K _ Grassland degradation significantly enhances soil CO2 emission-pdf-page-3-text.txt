@@ -1,0 +1,114 @@
+K. Abdalla et al.
+Catena 167 (2018) 284-292
+MI). The total soil C was considered equivalent to SOCc since no re-
+level within a distance of 0.2 to 1 m radius from the CO2 emissions
+action was obtained following addition of HC1. SOCs and SONs (SON
+measurements collars at peak biomass in June 2013 and 2014. All shoot
+stocks) were calculated using the equation by Batjes (1996):
+material from the soil surface to the crown within the quadrats was
+clipped. The plant samples were oven-dried at 70 'C and then weighed
+SOCs SOCc pb X T 1 -
+100 PF
+until constant weight.
+where SOCs is the soil organic carbon stock (kg Cm 2); SOCc is soil
+organic carbon content in the 2 mm soil material (g Ckg soil); pb is
+2.7. Statistical analysis
+the bulk density of the soil (kg m 3); T is the thickness of the soil layer
+(m); PF is the proportion of fragments of > 2 mm in percent; and b is a
+Overall mean and standard error were calculated for gross soil CO2
+constant equal to 0.001.
+emissions, and soil CO2 emissions relative to SOCs and biomass production
+The soil bulk density was determined from undisturbed soil samples
+for the three grass cover levels. Since the soil CO2 emission measurements
+collected by inserting metallic cylinders of 7.5 cm diameter and 5 cm
+were performed at regular time intervals from the same points, the data
+height into the topsoil layers. The undisturbed samples were stored in
+were statistically analysed using repeated-measures analysis of variance.
+hermetic plastic cans immediately after collection and later dried in an
+The average soil CO2 emissions for the grass cover levels were compared
+oven at 105 C for 24 h. The soil bulk density was determined according
+using Tukey's for multiple comparisons, a significant threshold defined as
+to Grossman and Reinsch (2002)
+P < 0.05, unless otherwise specified In addition, cumulative soil CO2
+emissions were also analysed using REML repeated measure ANOVA. The
+2.6. Aboveground biomass
+final cumulative values were compared using the Tukey test. All analyses
+were performed using Genstat (version 14, VSN International, UK, 2011).
+The aboveground biomass (kg m 2 year-1) year was evaluated in three
+In addition, coefficients of determination (r) and principal component
+randomly placed metallic quadrats (0.5 m 0.5 m) in each grass cover
+analysis (PCAs) were carried out to evaluate the relationships between the
+Table 1
+Mean and standard error (SE) for CO2 emissions from non-degraded (ND), moderately degraded (MD) and highly degraded (HD) grasslands.
+Gross soil CO2
+Soil CO2 relative to SOCs gCO2-Cg
+Soil CO2 relative to biomass (g CO2-Ckg biomass yr
+ND
+MD
+HD
+ND
+MD
+HD
+ND
+MD
+HD
+Mean
+1.78a
+1.60b
+0.68c
+0.034c
+0.058a
+0.040b
+0.15c
+0.54b
+0.73a
+SE
+0.13
+0.12
+0.10
+0.00
+0.01
+0.00
+0.05
+0.06
+0.01
+0
+50
+20
+40
+40
+30
+60
+20
+80
+10
+B.
+6
+ND
+4
+MD
+HD
+2
+0
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+2013
+2014
+2015
+Time (date)
+Fig. 1. Rainfall, air temperature, daily fluxes and cumulative gross CO2-C (g CO2-C m from soil, over the study period from non degraded (ND), moderately
+degraded (MD) and highly degraded (HD) grassland. Error bars represent + one standard error of the difference. N = 9.
+286

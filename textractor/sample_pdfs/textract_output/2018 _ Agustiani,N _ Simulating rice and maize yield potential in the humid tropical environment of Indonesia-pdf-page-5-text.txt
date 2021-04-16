@@ -1,0 +1,139 @@
+N. Agustiani et al.
+European Journal of Agronomy 101 (2018) 10-19
+default values derived from IR64 and IR72 cultivars were used for the
+2.3.3. Sources of weather, soil, and management data and initial conditions
+two parameters associated with photoperiod influence on phenology
+for simulations
+(photoperiod sensitivity and maximum optimum photoperiod
+For both model calibration and evaluation, we used reported dates
+[11.5h]). Measured and observed values of total dry matter (WAGT),
+of sowing (or transplanting) and plant density, and site-specific soil
+panicle weight (WSO), stem weight (WST), leaf weight (WLVG), and
+type (for Yw simulations) and daily weather data, including solar ra-
+LAI were compared to evaluate the robustness of the calibrated growth-
+diation, Tmax, Tmin humidity, wind speed, and precipitation. For the
+related coefficients for ORYZA. In the case of maize, GDDs were cal-
+MLCE trial, Yp was simulated using the coefficients calibrated for Inpari
+culated as the sum of daily mean temperature (after subtracting a base
+32; in the case of the on-farm maize trial, we used the reported dates of
+temperature of 8'C) between reported dates of sowing to physiological
+sowing and physiological maturity. Measured daily weather data from
+maturity for each experiment.
+nearest meteorological station to each experimental site were retrieved
+Agreement between simulated and observed variables was assessed
+from the Indonesian Meteorological, Climatological, and Geophysical
+with the coefficient of determination (r2), root mean square error
+Agency (BMKG; http://www.bmkg.go.id/) (Table 1). Quality control
+(RMSE), and normalized RMSE (RMSEn):
+and filling and/or correction of the weather data was performed based
+on correlations between the target station and one to three adjacent
+RMSE (s-0)2/n)]0.5
+(1)
+weather stations following the methodology described by van Wart
+et al. (2013) and references cited therein. Number of corrected and/or
+filled data was always lower than 3% for all variables. We used data
+RMSEn
+(s-0)2/n)]0.5/Mmean
+(2)
+from a total of 14 meteorological stations. No nearby weather station
+was available for the experimental sites near Sragen (Central Java) and
+Jeneponto (South Sulawesi); hence, we used gridded weather data from
+the Prediction of Worldwide Energy Resource dataset from the National
+(3)
+Aeronautics and Space Administration (NASA-POWER; NASA, 2012).
+Pedo-transfer functions for tropical soils were used to derive the upper
+where S (or y) and O (or x) are the simulated and observed values,
+and lower soil water retention limits for simulation of Yw for rainfed
+respectively, and n is the number of paired values. Small RMSEn and
+maize based on the soil texture reported at each site (Hodnett and
+high r2 indicate good agreement between simulated and observed va-
+Tomasella, 2002; Rustanto et al., 2017). Given the lack of information
+lues. Following Gaydon et al. (2017), RMSE was also compared with the
+on soil rootable depth, we assumed a 1.5 m soil depth for all site-years,
+observed standard deviation, as estimated from the replicates of each
+which would be the typical maize rootable depth in a soil without
+treatment in each experiment, to assess the degree of agreement be-
+chemical and physical constrains to root growth (Dardanelli et al.,
+tween observed and simulated values relative to experimental data
+1997; Tolk et al., 2016; Ordonez et al., 2018). Sensitivity analysis for
+uncertainty.
+maize indicated that Yw would be slightly (7%) smaller if a shallow soil
+depth m) would have been chosen for the simulations. In rainfed
+sites, the soil water balance was initiated near harvest time of the
+2.3.2. Model evaluation
+preceding crop using a fixed soil water content, which was obtained
+The second step (i.e., model evaluation) consisted of comparing si-
+from expert opinion and/or simulation of water balance for the pre-
+mulated versus observed yields to evaluate model ability to reproduce
+vious crop.
+Yp (maize and rice) and Yw (maize). We used the MLCE rice trials
+(range: 3.6-9.1 Mg and on-farm maize trials (range: 0.5-13.7 Mg
+ha-l) to evaluate ORYZA and Hybrid Maize using the calibrated coef-
+ficients. We also included the low-density treatments from the (rice) HY
+experiments and the other treatments included in the N-fertilizer ex-
+periment to the evaluation dataset (these treatments were not used for
+model calibration so they can be treated as independent from the ca-
+Table 2
+libration dataset). All together, these experiments portrayed the range
+Calibrated coefficients for Inpari 32 (rice) and Pioneer 21 (maize) based on data
+of climate, soils, and cropping systems in Indonesia.
+collected from high-yield rice and maize experiments.
+We acknowledge that the maize and rice databases used for the
+Coefficient
+Value
+evaluation included experiments that were not designed to eliminate all
+Rice
+yield-limiting factors. Hence, it was expected that a well-calibrated
+Development rate during juvenile stage (DVRJ;
+0.0008753
+model would predict Yp (or Yw) values greater than observed yields in
+Development rate during photoperiod-sensiti stage
+0.0007576
+most cases, consistent with previous studies attempting to quantify Yp
+(DVRI;
+or Yw for other crops (Cassman, 1999; Lobell et al., 2009). Still, it can
+Development rate during panicle development stage
+0.0007787
+be expected that simulated Yp (or Yw) will be less than observed yields
+(DVRP;
+Development rate during reproductive stage (DVRR C
+0.0015390
+at some sites due to sampling variability and measurement error in both
+d-1)
+yield and weather data, though these cases should be a minority for a
+Fraction total dry matter partitioned to the shoot
+0.6067476; 0.7414253;
+model that simulate Yp (or Yw) well. To benchmark the performance of
+(FSHTB)
+1.0000000; 1.0000000
+our calibrated models at reproducing Yp and Yw, we selected the
+Fraction shoot dry matter partitioned to the leaves
+0.6802744; 0.4227301;
+(FLVTB)a
+0.0000000; 0.0000000
+treatment with highest yield at each site-year-season experiment. The
+Fraction shoot dry matter partitioned to the stems
+0.3197256; 0.5532699;
+assumption was that some of these highest yields would approach Yp
+(FSTTB)
+0.0000000; 0.0000000
+(or Yw) for that environment. Other previous modeling studies have
+Fraction shoot dry matter partitioned to the panicles
+0.0000000; 0.0240000;
+followed a similar approach to evaluate crop model performance in
+(FSOTB)a
+1.0000000; 1.0000000
+absence of experimental data from crops that were explicitly managed
+Maize
+to reach Yp or Yw (e.g., Hoffmann et al., 2014; Espe et al., 2016;
+Growing-degree days (GDD)b
+1821 11)
+Rattalino Edreira et al., 2017). Finally, we used phenology data from
+the on-farm fertilizer trials to evaluate the degree to which GDD derived
+Partitioning factors associated with four crop stages (in this order): emer-
+gence, panicle initiation, grain filling, and physiological maturity.
+for Pioneer 21 were robust at predicting phenology across other sites,
+Average GDD (in C day; Tb C) and standard error s.e.) for the
+years, seasons, and hybrids.
+period between emergence and physiological maturity.
+14

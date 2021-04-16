@@ -1,6 +1,6 @@
 # Adding an element to a dictionary ------------------
 
-# my_dict = {'a': 1, 'b': 2}
+my_dict = {'a': 1, 'b': 2}
 # my_dict['c'] = 3
 
 # a_dict = {}
@@ -91,7 +91,9 @@ my_dict_list.insert(0, dict_x)
 
 
 
-print(my_dict_list)
+print(my_dict)
+
+print(my_dict.get("a"))
 
 
 

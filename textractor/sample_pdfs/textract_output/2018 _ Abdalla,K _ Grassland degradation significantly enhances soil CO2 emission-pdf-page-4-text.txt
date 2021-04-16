@@ -1,0 +1,102 @@
+K. Abdalla et al.
+Catena 167 (2018) 284-292
+0
+50
+20
+40
+40
+30
+D
+60
+20
+80
+10
+B.
+0.25
+0.20
+ND
+0.15
+MD
+HD
+0.10
+0.05
+0.00
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+2013
+2014
+2015
+Time (date)
+Fig. 2. Rainfall, air temperature, daily fluxes and cumulative of CO2-C from soil relative to soil organic carbon stocks (g CO2-C over the study period from non
+degraded (ND), moderately degraded (MD) and highly degraded (HD) grassland. Error bars represent + one standard error of the difference. N = 9.
+soil CO2 emissions and selected control factors.
+grassland. The soil CO2 emissions relative to SOCs also varied over time
+with both precipitation and temperature (Fig. 2A). Moderately de-
+graded grassland had generally higher soil CO2 fluxes, especially during
+3. Results
+summer months (October to April); however, soil CO2 emission differ-
+ences between grass cover levels were only significant for 5 of the 27
+3.1. Impact of grassland degradation on soil CO2 emission
+summer sampling events (Fig. 2B). The cumulative soil CO2 emission
+relative to SOCs was highest in moderately degraded grassland
+The study period mean daily gross soil CO2 emissions was 11 and 62%
+(2.3 + 2gCO2-Cg-lc) followed by highly degraded
+higher in non-degraded (1.78 + than moder-
+(1.6 + and least in the non-degraded grasslands
+ately and highly degraded grassland, respectively (Table 1). Gross soil CO2
+(1.4 + CO2-Cg (Fig. 2C). However, there was no sig-
+fluxes varied in response to both precipitation and air temperature
+nificant difference between highly degraded and non-degraded grass-
+(Fig. 1A), but were generally higher in non-degraded than moderately and
+land.
+highly degraded grasslands (Fig. 1B). The annual precipitations were 718
+Overall, average soil CO2 emission relative to aboveground biomass
+and 562 mm in 2013 and 2014, respectively, with about 90% of the
+was lowest in the non-degraded grassland at 0.15 + 0.05 kg CO2-
+precipitation occurring in summer (November to April). The mean annual
+Ckg biomass year (Table 1). This was almost 3.5 and 5 fold lower
+air temperature was 170 for both years. Differences in gross soil CO2
+than in moderately and highly degraded grasslands, respectively. The
+emissions between non-degraded and highly degraded grasslands were
+cumulative soil CO2 emission relative to yearly produced biomass was
+only significant during 17 of the 39 sampling events, mostly in summer.
+also significantly higher under highly degraded than non-degraded
+The final cumulative soil CO2 emission was highest under non-degraded
+grassland, at about 613% by end of the second year of the survey
+grassland (1.12 + 0.02 CO2-Cm (Fig. 1C). However, this was
+not
+(2014-2015). While, there was no significant soil CO2 emission relative
+significantly different from that of moderately degraded grassland
+to biomass difference between moderately degraded and highly de-
+(0.97 + 0.13 CO2-CmT Nevertheless, the final non-degraded
+graded grasslands in the first production cycle, the two differed by 47%
+grassland cumulative gross soil CO2 emissions was 62% higher than on
+in the second production cycle with the highly degraded grassland
+non-degraded grassland.
+having higher emission.
+In contrast, soil CO2 emission relative to SOCs was significantly
+higher in both moderately (0.058 + 0.005 and
+highly degraded grasslands (0.040 + 0.004 CO2-Cg than
+3.2. The impact of grassland degradation on soil properties and biomass
+non-degraded
+grassland
+(0.034 + 0.002 CO2-Cg 1cday-l)
+production
+(Table 1). This result indicates that soil CO2 emission relative to SOCs
+increased by 71% from non-degraded to moderately degraded grass-
+3.2.1. Soil organic carbon and nitrogen
+land, and by only 18% from non-degraded to highly degraded
+Mean soil organic C stocks (SOCs) and content (SOCc) were
+287

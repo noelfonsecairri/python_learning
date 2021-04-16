@@ -1,0 +1,92 @@
+K. Abdalla et al.
+11.5 A
+11.0
+10.5
+10.0
+9.5
+9.0
+26
+24
+22
+20
+18
+Fig. 5. Overall mean of (A) soil temperature and (B) soil water content at
+0-0.05 m depth under non-degraded (ND), moderately degraded (MD) and
+highly degraded (HD) grasslands. Error bars represent the standard error off the
+mean. Different lower case letter indicates significant different (P < 0.05)
+between the degradation gradients. N = 18.
+and Tufekciogul, 2000); Wanga et al., 2005). Studies by Raich and
+Tufekciogul (2000), and Wanga et al. (2005) reported that root re-
+spiration contributes between 38 and 78% of total soil CO2 emissions.
+Fig. 6. Seasonal pattern of soil temperature at 0-0.05 m soil layer over the study period from non-degraded (ND), moderately degraded (MD) and highly degraded
+(HD) grassland. Different lower case letter indicates significant different (P < 0.05) between the degradation gradients. N = 9.
+Catena 167 (2018) 284-292
+a
+a
+ND
+Grassland degradation
+Jan
+The decrease of gross soil CO2 emission with grassland degradation
+also coincided with decreasing SOCs (Fig. 4), which pointed to sig-
+nificant contributions of soil C to gross soil CO2 emissions (r = 0.82 and
+0.83 for SOCc and SOCs, respectively) (Table 2). In addition, higher soil
+C stimulates higher microbial activity with, as reported by Whitaker
+et al. (2014), in a study conducted along the Andes-to-Amazon eleva-
+tion gradient, increased soil respiration The positive correlation be-
+tween grassland degradation and soil clay content can be explained by
+the outcropping of deep clayey horizons to the soil surface thus leading
+a greater top-soil clay content. Such an increase in soil clay content
+might improve carbon protection thus depressing gross soil CO2 emis-
+sion (Traore et al., 2015). Traore et al. (2015) reported decreasing soil
+CO2 emission with increasing soil clay content in a semi-arid climate of
+West Africa, which the authors attributed to the improved physical
+protection of soil C by clay materials. However, Li et al. (2015) reported
+significantly positive correlation between soil CO2 emission and clay
+content in the Qinghai-Tibetan Plateau of China, which contradicts the
+current result.
+Other factors such as soil bulk density, which Chaplot et al. (2015)
+showed to significantly decrease soil CO2 emissions under a maize
+production system, appeared to have no significant effect on soil CO2
+emission in the current study. However, top-soil C:N ratio correlated
+positively with gross soil CO2 emission, which agreed with findings by
+several previous studies (e.g. Whitaker et al., 2014; Spohn, 2015;
+Abdalla et al., 2016). Spohn (2015) explained such positive correlation
+in terms of three microbial mechanisms; nitrogen mining, overflow
+respiration, and enzyme inhibition.
+Soil CO2 emissions relative to SOCs were 41 and 15% higher in
+moderately and highly degraded grassland, respectively, than non-de-
+graded grassland (Table 1 and Fig. 2), which suggested decreasing soil
+C protection with increasing grassland degradation. Decreasing soil C
+protection with land degradation can be explained by weakening soil
+structure and lower aggregate stability (Mchunu and Chaplot, 2012;
+Chaplot and Cooper, 2015). Weaker soil aggregates offer less protection
+to the entrapped carbon against decomposers (Six et al., 2002), which
+facilitates faster decomposition of soil organic materials. Surprisingly,
+highly degraded grassland emitted significantly lower soil CO2 relative
+to SOCs than the moderately degraded grassland (Table 1), which CO-
+incided with significantly lower soil temperature and water content
+ND
+MD
+HD
+V7
+May
+Sep
+Jan
+May
+2014
+2015
+Time (date)
+a
+MD
+b
+HD
+B.
+40
+30
+20
+10
+May
+Sep
+Jan
+2013
+290

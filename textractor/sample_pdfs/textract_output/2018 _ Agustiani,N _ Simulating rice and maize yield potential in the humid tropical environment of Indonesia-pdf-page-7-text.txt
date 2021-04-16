@@ -1,0 +1,150 @@
+N. Agustiani et al.
+European Journal of Agronomy 101 (2018) 10-19
+15
+20
+Fig. 5. Model evaluation for rice and maize in Indonesia. Each
+Rice
+Maize
+datapoint represents a site-year-season-cultivar-treatment combi-
+nation, including rainfed (diamonds) and irrigated (circles) crops.
+15
+The evaluation database includes the rice MLCE and maize on-
+10
+farm fertilizer trials and also the treatments from the rice HY and
+maize N-fertilizer experiments that were not used for model cali-
+10
+bration (ntotal: 24 and 291 for rice and maize, respectively). The
+highest yields at each site-year-season are shown (solid symbols).
+Note that data used for model calibration (best treatments in the
+5
+rice HY and maize N-fertilizer trials) are shown for comparison
+5
+purposes (stars) but not used to compute the values shown in
+Table 3. Dashed diagonal line indicates X - y.
+0
+O
+5
+10
+15
+0
+5
+10
+15
+20
+Simulated yield (Mg ha
+that the generic growth coefficients in Hybrid Maize seem adequate to
+Average simulated Yp for rice was 9.1 Mg ha ranging from 6.4 to
+reproduce Yp of modern high-yield maize hybrids in Indonesia and,
+12.7 Mg ha across site-years included for the model evaluation
+more broadly, in the tropical humid environments.
+(Table 3). Average Yp and Yw for irrigated and rainfed maize were 11.6
+and 11.5 Mg ha-l respectively, ranging from 8.9 to 14.4 Mg ha- (Yp)
+3.2. Evaluation of model performance across a wide range of environments
+and 4.3 to 16.4 Mg ha (Yw). Similarity in irrigated and rainfed maize
+and crop systems
+simulated yields was not surprising as their corresponding experiments
+coincided with the dry and wet seasons, respectively (Fig. 2), except for
+There was large variation in observed yields across site-year-treat-
+one rainfed maize trial conducted during the dry season in North Su-
+ments included in the evaluation dataset (Fig. 5). Observed irrigated
+matra. As expected, variation in Yp across site-year was smaller than for
+rice yield averaged 6.1 Mg ha- ranging from 3.3 to 9.1 Mg ha
+Yw as indicated by their CVs (12% versus 19%). The range of highest
+Average irrigated and rainfed maize yield was 8.1 and 7.5 Mg ha
+observed yields, expressed as percentage of their respective Yp (or Yw
+respectively, ranging from 0.8 to 13 Mg ha (rainfed) and 0.5 to
+for rainfed crops), indicated that, in most cases, the yield achieved by
+13.7 Mg ha (irrigated). Large variation in observed yield was ex-
+the best treatments was comparable to the simulated Yp (or Yw) for at
+pected due to differences in weather, soil type, and management across
+least one site. An exception was the case of rainfed maize in Central
+site-year-treatments. Likewise, many of these experiments may have
+Java where highest observed yields were all well below their corre-
+experienced nutrient and water deficiencies, incidence of biotic ad-
+sponding Yw (33-49% of Yw). Rainfed experiments in this province
+versities, and other yield-reducing factors such as lodging, sub-
+were located in areas with heavy clay soils (ca. 80% clay content, with
+mergence, etc. Indeed, most of the variation in observed maize yields,
+vertic properties which may suggest (i) model inability to reproduce
+for a given level of simulated yield potential, is attributed to differences
+root dynamics and water balance for this type of soil and/or (ii) diffi-
+in nutrient fertilizer application across treatments.
+culties to ensure near-optimal growing conditions over time and space
+Examination of observed and simulated yields indicates that, de-
+to overcome unfavorable soil conditions. Likewise, one site in North
+spite the fact that many of these experiments and/or treatments were
+Sumatra experienced severe drought and observed yield was clearly
+not managed to achieve Yp (or Yw), 41% and 39% of the rice and maize
+above Yw (% of Yw - 140). We note, however, that the under-
+observations, respectively, were above 80% of the simulated Yp (or Yw)
+estimation is relatively small in absolute terms (1.5 Mg ha- and this
+(Fig. 5). Indeed, the simulated yields matched reasonably well the
+deviation could be attributed to differences in precipitation between the
+range of maximum observed yields in both crops. These findings sug-
+weather station and experimental site.
+gest that crops in some site-year-seasons-treatments approached their
+Yp and Yw as determined by climate and soil type. There were some
+4. Discussion
+cases with observed yield slightly higher than simulated yields, which
+we attributed to measurement error in both yield and weather data, but
+This study presented a first assessment of yield potential for in-
+we note that only 1% of observed yields exceeded simulated Yp (or Yw)
+tensive rice-maize cropping systems in the humid tropical environment
+by more than 10%.
+of South East Asia. Two crop models were used to simulate Yp (or Yw)
+Table 3
+Average simulated yield potential (Yp) or water-limited yield potential (Yw) and highest observed yields. The latter is also shown as percentage of Yp and Yw for
+irrigated (I) and rainfed (R) crops, respectively. Parenthetic values indicate range across site-years.
+Province
+Water regime
+Simulated Yp or Yw (Mg ha
+Average highest yields (Mg ha 1)a
+% of Yp (or Yw)a
+Rice
+Central Java & Yogyakarta
+I
+8.5 (7.4-11.6)
+7.8 (6.4-9.0)
+93 (77-114)
+East Java
+I
+9.6 (7.7-11.5)
+7.3 (6.8-7.5)
+77 (65-88)
+West Java
+I
+9.2 (6.4-12.7)
+6.7 (4.2-9.1)
+73 (47-110)
+Maize
+Central Java
+I
+13.3 (12.5-14.0)
+9.0 (5.8-13.7)
+67 (44-99)
+R
+14.0 (12.0-15.7)
+6.0 (5.0-6.8)
+44 (33-49)
+East Java
+I
+10.4 (9.2-11.0)
+11.1 (9.4-12.8)
+105 (91-120)
+Lampung
+R
+11.8 (9.0-14.1)
+9.0 (6.5-11.8)
+77 (62-98)
+North Sumatra
+R
+9.6 (4.3-12.4)
+10.1 (6.2-11.6)
+108 (82-144)
+South Sulawesi
+R
+12.8 (12.3-13.2)
+7.6 (4.0-9.6)
+59 (33-74)
+a Average of highest observed yield across site-years per province.
+16

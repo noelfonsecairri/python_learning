@@ -1,0 +1,129 @@
+N. Agustiani et al.
+using coefficients derived for two commercial high-yielding rice and
+maize cultivars based on experimental data and measured weather and
+soil data from well-managed experiments in Indonesia where observed
+yields approached the Yp (or Yw) as determined by the climate (and
+soil) at each site. These coefficients were robust at portraying the
+maximum yields observed in on-farm trials conducted across multiple
+sites, years, seasons, cultivars, and water regimes for dominant rice-
+maize cropping systems. In contrast to other models that require a large
+number of cultivar-specific coefficients (e.g., Jones et al., 2003), Hybrid
+Maize only required calibration of cultivar-specific GDDs. Along these
+lines, an interesting finding from this study was that growth-related
+coefficients derived for temperate maize in the original calibration of
+Hybrid Maize were robust for simulating Yp in irrigated, well-managed
+experiments in the tropical environment of Indonesia. Similarly, Yang
+et al (2017) found the model coefficients to work well at reproducing
+observed yields in USA, across a wide range of water supply that lead to
+a range of yields from near crop failure up to 18 Mg Altogether,
+these findings support the contention made by Yang et al. (2004) that
+the model can provide reliable estimates of Yp across a wide range of
+environments, without need of calibrating site- and cultivar-specific
+coefficients, except for GDDs, which are needed to account for differ-
+ences in phenology among hybrids.
+Our study provided a first insight about the range of Yp (or Yw)
+across major rice and maize crop systems in Indonesia. Comparison
+between our average rice Yp (9.1 Mg ha and maize Yw (11.5 Mg
+against respective average farmer yields in Indonesia based on
+FAOSTAT national statistics for the 2012-2016 interval (5.2 and 5 Mg
+ha for rice and maize, respectively) suggests that there is still room
+for increasing annual productivity in rice- and maize-based cropping
+systems in Indonesia, and more broadly, in South East Asia. The range
+in simulated Yp for rice in our study (ca. 8-11 Mg ha-l) was consistent
+with previous simulations of rice Yp in the tropics (e.g., Kropff et al.,
+1996), including estimates at two specific locations in Indonesia
+(Laborte et al., 2012; Stuart et al., 2016). In contrast, our simulated Yp
+for rice was clearly higher than those reported by Boling et al. (2004,
+2007, 2008) for Central Java (range: 4-6 Mg ha-l). We note that ob-
+served yields and aboveground dry matter at maturity used in our ca-
+libration are much higher than those reported in these previous studies
+using ORYZA, with observed yields ranging from 1 to 6 Mg ha-l (Boling
+al., 2004). Such a discrepancy in simulated Yp may suggest that those
+previous studies for rice in Indonesia were based on experimental data
+collected from crops that were not explicitly managed to reach Yp.
+Changes in Yp over time are unlikely to explain differences in Yp be-
+tween our study and previous ones given the lack of increase in Yp for
+rice varieties released after the onset of the Green Revolution in South
+East Asia (Peng et al., 1999). In the case of maize, despite evidence of
+high yields (10-15M in irrigated (or favorable rainfed) sub-
+tropical and tropical environments based on field observations (Betran
+et al., 2003; Pasuquin et al., 2012, 2014; Worku et al., 2016) and si-
+mulation (Timsina et al., 2010; van Ittersum et al., 2017), previous
+efforts in calibrating and evaluating maize simulation models for these
+environments were based on experiments that did not exceed 10 Mg ha
+(e.g., Carberry et al., 1989) and, in most cases, were below 5 Mg ha
+(e.g., Soler et al., 2007; Gaiser et al., 2010; Bassu et al., 2014; Kadiyala
+et al., 2015). As far as we know, this is the first study reporting a maize
+model evaluation for the humid tropics using experimental yields
+10 Mg hal A global assessment of crop models on their ability to si-
+mulate Yp and Yw in the humid tropics based on data from crops that
+were explicitly managed to achieve near-optimal conditions is lacking.
+We believe such an evaluation should receive priority given the massive
+expansion in global maize harvested area (ca. 50 million ha) during the
+last 15-y period (2002-2016) period, with 40% of this area increase
+occurring in tropical and subtropical regions located in Southeast and
+South Asia, Sub-Saharan Africa, and South America (http://www.fao.
+org/faostat/en/#data/QC).
+South East Asia has diverse cropping systems where multiple rice
+European Journal of Agronomy 101 (2018) 10-19
+and/or maize crops are grown in the same piece of land during one year
+depending upon climate, soils, and access to irrigation. Different
+(lowland and upland) ecosystems, water regimes (irrigated and
+rainfed), and crop sequences typically co-exist within the same geo-
+graphic region. Previous assessments of yield gaps for South East Asia
+have focused on individual crops, usually at one or few locations (e.g.,
+Laborte et al., 2012; Stuart et al., 2016; Pasuquin et al., 2014). At the
+other extreme of the spectrum, global studies aiming at estimating Yp
+(or Yw) and yield gaps have relied on gridded weather data and coarse
+assumptions about the crop-system context leading to unrealistic esti-
+mates of Yp, Yw, and yield gaps (e.g., Fischer et al., 2002; Nelson et al.,
+2010). The models evaluated in the present study, together with
+available weather, soil, and agronomic databases, can be used for es-
+timating Yp (or Yw) in rice- and maize-bases agro-ecosystems in South
+East Asia, not only for individual crops but also at the crop-system level
+(Guilpart et al., 2017a,b; Silva et al., 2017). Likewise, these models can
+be used for ex-ante assessment of food security for different scenarios of
+climate change and land conversion, to evaluate opportunities to close
+yield gaps and/or improving resource-use efficiencies through fine-
+tuning of current crop practices, such as sowing date and cultivar ma-
+turity, and better estimation of yield goals and their variability to in-
+form fertilizer recommendations (e.g., Witt et al., 1999; Setiyono et al.,
+Our study provides robust estimates of yield potential for modern
+high-yield rice and maize cultivars in the humid environment of
+Indonesia based on high-quality experimental data from modern high-
+yield cultivars from multiple site-years and measured weather and soil
+properties. This study clearly advances current knowledge from pre-
+vious published studies, which were based on one or few site-years and
+relied mostly on coarse gridded weather and soil data, generic model
+parameters, and/or experiments that were not explicitly managed to
+achieve near-optimal conditions for crop growth and yield. Findings
+confirmed the expected yield potential for modern rice varieties re-
+ported elsewhere in South East Asia (Peng et al., 1999), with our si-
+mulated rice yield potential remarkably higher than that reported for
+Indonesia based on experimental data and crop modeling (Boling et al.,
+2004). Finally, our study indicates a high-yield potential for maize in
+irrigated conditions and favorable rainfed environments. It also sug-
+gests that there is still room for increasing productivity in intensive rice-
+maize based crop systems in South East Asia, though a more rigorous
+analysis per region and cropping systems is needed to understand where
+Funding for this research was provided by the Indonesian Agency
+for Agricultural Research and Development (IAARD), University of
+Nebraska-Lincoln (UNL), and UNL Daugherty Water for Food Global
+Institute. The authors wish to thank the following scientists and their
+institutions for conducting field experiments and/or providing access to
+data: Dr. Yudhistira Nugraha (Indonesia Center for Rice Research), Mr
+A.M. Murni (AIAT Lampung), Mr Supadmo and Mr Samijan (AIAT
+Central Java), Mr Suwono (AIAT East Java), Mr P. Tandisau (AIAT
+South Sulawesi), Dr S. Saenong and D Subandi (ICRI), Dr D. Setyorini
+and Dr S. Rochayati (ISRI) Dr. S. Kartaatmadja, Dr M.F. Pampolino and
+Dr T. Oberthur (IPNI), Dr A. Dobermann (Rothamstead Research) and
+Dr C. Witt (Gates Foundation). We are also thankful to the Indonesian
+Rice Consortium for facilitating the experimental data from the multi-
+location cultivar evaluation trials and Dr Haishun Yang (UNL) and Dr
+Ando Radanielson (Internationa Rice Research Institute) for their va-
+2011; Pasuquin et al., 2012, 2014).
+5. Conclusions
+the largest yield gaps are and their underlying causes.
+Acknowledgments
+luable comments on an earlier version of the manuscript.
+17

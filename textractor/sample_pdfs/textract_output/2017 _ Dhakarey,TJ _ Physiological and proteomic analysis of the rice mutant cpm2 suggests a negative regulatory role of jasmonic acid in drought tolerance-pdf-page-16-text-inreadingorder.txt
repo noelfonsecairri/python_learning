@@ -1,0 +1,142 @@
+Dhakarey et al.
+capsaicin synthase, and peroxidase activities in Capsicum under drought stress.
+J. Agric. Food Chem. 62, 7057-7062. doi: 10.1021/jf4051717
+R Core Team (2016). R: A Language and Environment for Statistical Computing.
+Vienna: R Foundation for Statistical Computing. Available online at: http://
+www.R-project.org/
+Rakszegi, M., Lovegrove, A., Balla, K., Lang, L., Bedo, Z., Veisz, O., et al.
+(2014). Effect of heat and drought stress on the structure and composition of
+arabinoxylan and B-glucan in wheat grain. Carbohydr. Polym. 102, 557-565.
+doi: 10.1016/j.carbpol.2013.12.005
+Ramachandran, S., Christensen, H. E., Ishimaru, Y., Dong, C.-H., Chao-Ming, W.,
+Cleary, A. L., et al. (2000). Profilin plays a role in cel elongation, cell shape
+maintenance, and flowering in Arabidopsis. Plant Physiol. 124, 1637-1647.
+doi: 10.1104/pp.124.4.1637
+Raorane, M. L., Pabuayon, I. M., Miro, B., Kalladan, R., Reza-Hajirezai, M.,
+Oane, R. H., et al. (2015b). Variation in primary metabolites in parental
+and near-isogenic lines of the QTL qDTY(12.1): altered roots and flag
+leaves but similar spikelets of rice under drought. Mol. Breed. 35:138.
+doi: 10.1007/s11032-015-0322-
+Raorane, M. L., Pabuayon, I. M., Varadarajan, A. R., Mutte, S. K., Kumar, A.,
+Treumann, A., et al. (2015a). Proteomic insights into the role of the large-
+effect QTL gDTY 12.1 for rice yield under drought. Mol. Breed. 35:139.
+doi: 10.1007/s11032-015-0321-6
+Riccardi, F., Gazeau, P., de Vienne, D., and Zivy, M. (1998). Protein
+changes in response to progressive water deficit in maize: quantitative
+variation and polypeptide identification. Plant Physiol. 117, 1253-1263.
+doi: 10.1104/pp.117.4.1253
+Riemann, M., Dhakarey, R., Hazman, M., Miro, B., Kohli, A., and Nick, P.
+(2015). Exploring jasmonates in the hormonal network of drought and salinity
+responses. Front. Plant Sci. 6:1077. doi: 10.3389/fpls.2015.01077
+Riemann, M., Haga, K., Shimizu, T., Okada, K., Ando, S., Mochizuki, S., et al.
+(2013). Identification of rice allene oxide cyclase mutants and the function
+of jasmonate for defence against Magnaporthe oryzae. Plant J. 74, 226-238.
+doi: 10.1111/tpj.12115
+Riquelme, A., and Hinrichsen, P. (2015). Non-symbiotic hemoglobin
+and its relation with hypoxic stress. Chilean J. Agric. Res. 75, 80-89.
+doi: 10.4067/S0718-58392015000300009
+Sandhu, N., Raman, K. A., Torres, R. O., Audebert, A., Dardou, A., Kumar, A.,
+et al. (2016). Rice root architectural plasticity traits and genetic regions for
+adaptability to variable cultivation and stress conditions. Plant Physiol. 171,
+2562-2576. doi: 10.1104/pp.16.00705
+Santner, A., and Estelle, M. (2010). The ubiquitin-proteasome
+system regulates plant hormone signaling. Plant J. 61, 1029-1040.
+doi: 10.1111/j.1365-313X.2010.04112.x
+Santos, A. B. D., Bottcher, A., Kiyota, E., Mayer, J. L. S., Vicentini, R., Brito,
+M. D. S., et al. (2015). Water stress alters lignin content and related gene
+expression in two sugarcane genotypes. J. Agric. Food Chem. 63, 4708-4720.
+doi: 10.1021/jf5061858
+Sasaki, Y., Asamizu, E., Shibata, D., Nakamura, Y., Kaneko, T., Awai, K., et al.
+(2001). Monitoring of methyl jasmonate-responsive genes in Arabidopsis
+by cDNA macroarray: self-activation of jasmonic acid biosynthesis and
+crosstalk with other phytohormone signaling pathways. DNA Res. 8, 153-161.
+doi: 10.1093/dnares/8.4.153
+Sasaki-Sekimoto, Y., Taki, N. Obayashi, T., Aono, M., Matsumoto, F., Sakurai, N.,
+et al. (2005). Coordinated activation of metabolic pathways for antioxidants
+and defence compounds by jasmonates and their roles in stress tolerance in
+Arabidopsis. Plant 44, 653-668. doi: 10.1111/j.1365-313X.2005.02560.x
+Savchenko, T., Kolla, V. A., Wang, C.-Q., Nasafi, Z., Hicks, D. R., Phadungchob,
+B., et al. (2014). Functional convergence of oxylipin and abscisic acid pathways
+controls stomatal closure in response to drought. Plant Physiol. 164, 1151-1160.
+doi: 10.1104/pp.113.234310
+Schafer, J., Wagner, S., Trierweiler, B., and Bunzel, M. (2016). Characterization
+of
+cell wall components and their modifications during postharvest
+storage of Asparagus officinalis L.: storage-related changes in dietary fiber
+composition. J. Agric. Food Chem. 64, 478-486. doi: 10.1021/acs.jafc.
+5b05575
+Schmit, C., and Nick, P. (2008). "Microtubules and the evolution of mitosis, in
+Plant Microtubules: Development and Flexibility, ed P. Nick (Berlin, Heidelberg:
+Springer Berlin Heidelberg), 233-266.
+Frontiers in Plant Science www.frontiersin.org
+Rice JA and Drought Tolerance
+November 2017 Volume 8 Article 1903
+Secchi, F., Lovisolo, C., and Schubert, A. (2007) Expression of OePIP2.1 aquaporin
+gene and water relations of Olea europaea twigs during drought stress and
+recovery. Ann. Appl. Biol. 150, 163-167. doi: 10.1111/j.1744-7348.2007.00118.x
+Sengupta, D., Kannan, M., and Reddy, A. R. (2011). A root proteomics-based
+insight reveals dynamic regulation of root proteins under progressive drought
+stress and recovery in Vigna radiata (L.) Wilczek. Planta 233, 1111-1127.
+doi: 10.1007/500425-011-1365-4
+Shinozaki, K., and Yamaguchi-Shinozaki, K. (2007). Gene networks involved
+in drought stress response and tolerance. J. Exp. Bot. 58, 221-227.
+doi: 10.1093/jxb/er1164
+Songsri, P., Jogloy, S., Junjittakarn, J., Kesmala, T., Vorasoot, N., Holbrook, C.,
+et al. (2013). Association of stomatal conductance and root distribution with
+water use efficiency of peanut under different soil water regimes. Austr. J. Crop
+Sci. 948-955. Available online at: http://www.cropj.com/songsari_7_7_2013.
+948_955.pdf
+Sreenivasulu, N., Harshavardhan, V. T., Govind, G., Seiler, C., and Kohli, A.
+(2012). Contrapuntal role of ABA: does it mediate stress tolerance or plant
+growth retardation under long-term drought stress? Gene 506, 265-273.
+doi: 10.1016/j.gene.2012.06.076
+Srividhya, A., Vemireddy, L. R., Sridhar, S., Jayaprada, M., Ramanarao, P. V.,
+Hariprasad, A. S., et al. (2011). Molecular mapping of QTLs for yield and its
+components under two water supply conditions in rice (Oryza sativa L.) Crop
+Sci. Biotechnol. 14, 45-56. doi: 10.1007/s12892-010-0023-x
+Stenzel, I., Otto, M., Delker, C., Kirmse, N., Schmidt, D., Miersch, O.,
+et al. (2012). ALLENE OXIDE CYCLASE (AOC) gene family members of
+Arabidopsis thaliana: tissue- and organ-specific promoter activities and in vivo
+heteromerization. J. Exp. Bot. 63, 6125-6138. doi: 10.1093/jxb/ers261
+Tani, T., Sobajima, H., Okada, K., Chujo, T., Arimura, S., Tsutsumi, N., et al.
+(2007). Identification of the OsOPR7 gene encoding 12-oxophytodienoate
+reductase involved in the biosynthesis of jasmonic acid in rice. Planta 227:517.
+doi: 10.1007/500425-007-0635-7
+Thimm, O., Blasing, O., Gibon, Y., Nagel, A., Meyer, S., Kruiger, P., et al. (2004).
+MAPMAN: a user-driven tool to display genomics data sets onto diagrams
+of metabolic pathways and other biological processes. Plant J. 37, 914-939.
+doi: 10.1111/j.1365-313X.2004.02016.x
+Tuteja, N. (2007). Abscisic acid and abiotic stress signaling. Plant Signal. Behav. 2,
+135-138. doi: 10.4161/psb.2.3.4156
+Urbanowicz, B. R., Pena, M. Ratnaparkhe, S., Avci, U., Backe, J., Steet, H. F., et al.
+(2012). 4-O-methylation of glucuronic acid in Arabidopsis glucuronoxylan is
+catalyzed by a domain of unknown function family 579 protein. Proc. Natl.
+Acad. Sci. U.S.A. 109, 14253-14258. doi: 10.1073/pnas.1208097109
+Venuprasad, R., Cruz, M. S., Amante, M., Magbanua, R., Kumar, A., and Atlin,
+G. (2008). Response to two cycles of divergent selection for grain yield under
+drought stress in four rice breeding populations. Field Crops Res. 107, 232-244.
+doi: 10.1016/j.fcr.2008.02.004
+Vig, A. P., Rampal, G., Thind, T. S., and Arora, S. (2009). Bio-protective
+effects of glucosinolates - a review. LWT Food Sci. Technol. 42, 1561-1572.
+doi: 10.1016/j.1wt.2009.05.023
+Vigeolas, H., Huhn, D., and Geigenberger, P. (2011). Nonsymbiotic Hemoglobin-
+2 leads to an elevated energy state and to a combined increase in
+polyunsaturated fatty acids and total oil content when overexpressed in
+developing seeds of transgenic Arabidopsis plants. Plant Physiol. 155,
+1435-1444. doi: 10.1104/pp.110.166462
+Vincent, D., Lapierre, C., Pollet, B., Cornic, G., Negroni, L., and Zivy, M.
+(2005). Water deficits affect caffeate o-methyltransferase, lignification, and
+related enzymes in maize leaves. A proteomic investigation. Plant Physiol. 137,
+949-960. doi: 10.1104/pp.104.050815
+Wakabayashi, K., Hoson, T., and Kamisaka, S. (1997a). Osmotic stress suppresses
+cell wall stiffening and the increase in cell wall-bound ferulic and diferulic acids
+in wheat coleoptiles. Plant Physiol. 38, 811-817.
+Wakabayashi, K., Hoson, T., and Kamisaka, S. (1997b). Abscisic acid suppresses
+the increases in cell wall-bound ferulic and diferulic acid levels in dark-grown
+wheat (Triticum aestivum L.) coleoptiles. Plant Cell Physiol. 113, 967-973.
+Wang, Y., Li, X., Guo, K., Peng, L., and Wang, Y. (2017). Gene profiling of plant cell
+wall biosynthesis for genetic enhancing biomass enzymatic saccharificationin
+cereal crops. J. Plant Biochem. Physiol. 5:2. doi: 10.4172/2329-9029.1000179
+Wassmann, R., Jagadish, S. V. K., Heuer, S., Ismail, A., Redona, E.,
+Serraj, R., et al. (2009). "Climate change affecting rice production: the
+16

@@ -1,0 +1,127 @@
+M.F. Acevedo et al.
+Global Food Security 16 (2018) 127-132
+associated food requirements.
+environmental research stemming from the green revolution is on the
+This dependence on continued economic growth, however, raises a
+consequences of the revolution, rather than undertaken to facilitate and
+fundamental issue named by some as the 'trophic conundrum'
+improve it (Fig. 1).
+Czech (2008), based on ecosystem principles, argues that reconciling
+Environment friendly technologies for food production have
+the conflict between economic growth and environmental conservation
+emerged through IDR between natural and social sciences. These
+is not feasible. This issue is, essentially, a re-specification of the Mal-
+technologies include integrated pest management (IPM), that promotes
+thusian argument in biophysical terms. Viewed as a biological food
+protecting crops by using natural enemies and thus promoting a healthy
+chain, economies convert primary resources into material consumption
+environment and people, and natural resource management (NRM)
+goods and services, and there is clearly a limit to this process, implying
+approaches, such as nutrient and pest management (to minimize ferti-
+that continued economic growth can only be associated with continued
+lizer and chemicals) and alternate wetting and drying to save irrigation
+reduction of environmental quality.
+water (Carrijo et al., 2017).
+The only apparent reconciliation of this conundrum is innovation
+technological change to reduce the impact of our productive activities
+4.2. Ecological sciences
+on our natural environment. The trophic conundrum argument ignores
+human capacity to generate 'capital' as recycled natural resources, in
+Ecological disciplines have responded with approaches to research
+much the same fashion as non-human biophysical forces and activities
+the challenging environmental impacts of food production that con-
+recycle rocks, and waste, into soils, and water into streams and aquifers.
+strain production itself. These include soil erosion, global climate
+Not only do humans recycle natural resources into man-made resources
+change, falling water tables and aquifer depletion (Acevedo, 2011).
+and assets or 'capitals', including social and human capitals, but they
+Reconciliation approaches stemming from ecological perspectives in-
+also practice both natural and Lamarckian selection in their habits and
+clude land-sparing (Green et al., 2005), sustainable intensification
+'inherited' practices adapting and adjusting their consumption mixes
+(Tilman et al., 2011), agroecological principles and landscape ecology
+to fit with their opportunities and capabilities. Whether we can produce
+(Perfecto and Vandermeer, 2010; Benoit et al., 2012). Debate is stil
+enough food to feed everyone over the long term, requires more than
+unfolding on the benefits and potential consequences of these various
+examination of constraints on natural resources, we must also account
+promising approaches while calls have been made to strengthen this
+for our capacity to adapt and develop technological solutions (Scanlan,
+IDR by consideration of social issues including policy and justice
+2001).
+(Chappell and LaValle, 2011; Gordon et al., 2016; Hatt et al., 2016).
+West et al. (2014) find that there are relatively small sets of options
+For this purpose, socio-ecological methods can be useful since they
+(places, crops, and actions) that could provide enough food to meet the
+capture interacting socio-economic and natural systems as complex,
+basic needs of continued population growth, while addressing en-
+dynamic, and adaptive. These methodologies include values and atti-
+vironmental sustainability. They identify "leverage points" that focus
+tudes of individuals and policy-making together with natural systems
+on reducing the yield gap, reducing environmental impacts, and deli-
+dynamics Wittman et al. (2016) frame a reconciliation of food security
+vering more food from what is produced. Closing the yield gap to 50%
+and biodiversity taking into account socio-ecological system properties
+of attainable yields would contribute calories for -850 million people;
+at multiple scales (from household to global).
+however, regions where closing the gap would be effective are con-
+centrated in Africa, Asia and Eastern Europe. Increased water pro-
+4.3. Engineering, technology, quantitative approaches, and modeling
+ductivity in precipitation-limited regions has the potential to decrease
+water consumption by between 8 to 15%. Crops that are used for an-
+Together with increased collaboration between natural and social
+imal feed and other nonfood uses (e.g., biofuels), diminish the calories
+sciences, we need to strengthen the collaboration between engineering
+available to humans and result in a "diet gap"; if human-edible crops
+and the natural sciences, particularly biology. Better yet, we can benefit
+currently used as non-food purposes were re-allocated to feed humans it
+from increased integrative ID between engineering, natural, and social
+is estimated that it contribute food for an additiona 4 billion people
+sciences. The CSISA, with the goal of benefiting > 8 million farmers by
+(West et al., 2014). Another opportunity or leverage point identified by
+the end of 2020, has highlighted the application of engineering in food
+West et al. (2014) is to reduce food waste which currently amounts to
+production systems, particularly in sustainable intensification practices
+30-50% of food production. Small reductions of waste in a few coun-
+(e.g., Kumar et al., 2018). Examples include development of suitable
+tries could contribute food for several hundred million additional
+agricultural machinery, for irrigation, tillage, harvest, and post-harvest;
+people.
+adoption is closely associated with infrastructure including electricity
+and roads (Biggs and Justice, 2015; Mottaleb et al., 2016). Geospatial
+4. IDR on food production and the environment: successes and
+technologies (remote sensing and geographic information systems, GIS)
+opportunities
+play a role in understanding water resources and irrigation (Krupnik
+et al., 2017). Integrating crop models with GIS allows exploration of
+In this section, we provide examples of IDR approaches that have
+water productivity at a variety of spatial scales from the field scale and
+been proposed, debated, and utilized to reconcile food production and
+the whole system or watershed level.
+the environment. Along with these examples, we identify further ID
+Agricultural engineering departments, which formed by collabora-
+needs and opportunities. We conclude the section with a discussion of
+tion among several disciplines, have been major contributors of R&D on
+integrative frameworks and identification of funding and publication
+food production, agricultura extension, and engaged in research of
+barriers.
+relationships of agriculture and the environment. Moreover, several
+leading US academic institutions with long standing in agricultural
+4.1. Agricultural science: natural and social sciences
+science and engineering have recently developed innovative biological
+and environmental engineering departments and curricula. This type of
+Today's agricultural disciplines, such as agronomy, crop science,
+initiative enhances collaboration with disciplines closer to biological
+agricultural soil science, and agricultural economics evolved at the
+sciences, such as genomics and industrial biotechnology.
+frontier between plant biology, soil science, climatology, meteorology,
+Beyond the traditional engagement of agricultura engineering,
+and economics among others (Lele and Norgaard, 2005). Certainly, the
+which itself formed by ID activities, other engineering disciplines (such
+Green Revolution involved the application of various disciplines (e.g.,
+as civil, environmental, and electrical) can contribute by collaboration
+agronomy, hydrology, and farm management), but the revolution itself
+with natural sciences. For instance, ground-based monitoring systems
+hardly engaged in truly IDR. Indeed, much of the social science and
+using low cost soil moisture sensors and data collection devices would
+129
